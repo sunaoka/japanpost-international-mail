@@ -1,0 +1,120 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "type": "array",
+    "title": "Japan Post's International Mail Service availability by country",
+    "items": {
+        "type": "object",
+        "required": [
+            "countryCode",
+            "destination",
+            "letterPost",
+            "parcels",
+            "ems",
+            "restrictions",
+            "notification"
+        ],
+        "properties": {
+            "countryCode": {
+                "type": "string",
+                "title": "Country code (ISO 3166-1 Alpha-2 code)"
+            },
+            "destination": {
+                "type": "string",
+                "title": "Destination"
+            },
+            "letterPost": {
+                "type": "object",
+                "title": "Letter-post",
+                "required": [
+                    "air",
+                    "sal",
+                    "surface"
+                ],
+                "properties": {
+                    "air": {
+                        "type": "string",
+                        "title": "Letter-post (Air)",
+                        "enum": ["acceptable", "some_acceptable", "not_acceptable", "no_service"]
+                    },
+                    "sal": {
+                        "type": "string",
+                        "title": "Letter-post (SAL)",
+                        "enum": ["acceptable", "some_acceptable", "not_acceptable", "no_service"]
+                    },
+                    "surface": {
+                        "type": "string",
+                        "title": "Letter-post (Surface)",
+                        "enum": ["acceptable", "some_acceptable", "not_acceptable", "no_service"]
+                    }
+                }
+            },
+            "parcels": {
+                "type": "object",
+                "title": "Parcels",
+                "required": [
+                    "air",
+                    "sal",
+                    "surface"
+                ],
+                "properties": {
+                    "air": {
+                        "type": "string",
+                        "title": "Parcels (Air)",
+                        "enum": ["acceptable", "some_acceptable", "not_acceptable", "no_service"]
+                    },
+                    "sal": {
+                        "type": "string",
+                        "title": "Parcels (SAL)",
+                        "enum": ["acceptable", "some_acceptable", "not_acceptable", "no_service"]
+                    },
+                    "surface": {
+                        "type": "string",
+                        "title": "Parcels (Surface)",
+                        "enum": ["acceptable", "some_acceptable", "not_acceptable", "no_service"]
+                    }
+                }
+            },
+            "ems": {
+                "type": "string",
+                "title": "EMS",
+                "enum": ["acceptable", "some_acceptable", "not_acceptable", "no_service"]
+            },
+            "restrictions": {
+                "type": "object",
+                "title": "Restrictions, and Delays in Japan",
+                "required": [
+                    "normal",
+                    "temporary",
+                    "delays"
+                ],
+                "properties": {
+                    "normal": {
+                        "type": "array",
+                        "title": "Restrictions in the normal period",
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "temporary": {
+                        "type": "array",
+                        "title": "Temporary restrictions caused by the novel coronavirus pandemic",
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "delays": {
+                        "type": "array",
+                        "title": "Delays in Japan",
+                        "items": {
+                            "type": "string"
+                        }
+                    }
+                }
+            },
+            "notification": {
+                "type": "string",
+                "title": "Precautions concerning delivery and other matters after mail items arrive in the destination countries and territories (Contents of notification from foreign postal operators)"
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "sunaoka/japanpost-international-mail",
+    "type": "project",
+    "description": "Japan Post's International Mail Service availability by country",
+    "license": "MIT",
+    "keywords": [],
+    "authors": [
+        {
+            "name": "sunaoka",
+            "email": "sunaoka@pocari.org"
+        }
+    ],
+    "require": {
+        "fabpot/goutte": "^4.0",
+        "myclabs/php-enum": "^1.8"
+    }
+    ,
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sunaoka\\JapanPostInternationalMail\\": ["bin", "src"]
+        },
+        "files": [
+            "./src/Support/helpers.php"
+        ]
+    }
+}
