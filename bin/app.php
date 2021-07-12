@@ -14,11 +14,7 @@ $current = json_decode(file_get_contents("{$district}/meta.json"), true, 512, JS
 
 $meta = [
     'date' => $current['date'],
-    'md5'  => [
-        'japanese' => '',
-        'english'  => '',
-        'chinese'  => '',
-    ],
+    'md5'  => array_fill_keys(Language::values(), ''),
 ];
 
 $crawler = new Crawler();
