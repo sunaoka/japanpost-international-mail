@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace Sunaoka\JapanPostInternationalMail;
 
 use JsonSerializable;
+use OutOfRangeException;
 use Sunaoka\JapanPostInternationalMail\Destination\Mail;
 use Sunaoka\JapanPostInternationalMail\Destination\Restrictions;
 
@@ -26,7 +27,7 @@ class Destination implements JsonSerializable
 
     private function __construct(Language $language, array $attributes)
     {
-        $this->countryCode = '';
+        $this->countryCode = $this->getCountryCode($language, $attributes[1]);
         $this->destination = $attributes[1];
         $this->letterPost = Mail::make($language, $attributes[2], $attributes[3], $attributes[4]);
         $this->parcels = Mail::make($language, $attributes[5], $attributes[6], $attributes[7]);
@@ -38,6 +39,16 @@ class Destination implements JsonSerializable
     public static function make(Language $language, array $attributes): self
     {
         return new self($language, $attributes);
+    }
+
+    private function getCountryCode(Language $language, string $destination): string
+    {
+        $countries = config("{$language->getValue()}.countries");
+        if (!isset($countries[$destination])) {
+            throw new OutOfRangeException("No such country '{$destination}' in {$language->getValue()}");
+        }
+
+        return $countries[$destination];
     }
 
     public function jsonSerialize(): array
