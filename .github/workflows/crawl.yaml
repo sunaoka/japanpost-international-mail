@@ -1,0 +1,35 @@
+name: crawl
+
+on:
+  schedule:
+    - cron:  '0 0 * * *'
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup PHP with composer v2
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.0'
+          tools: composer:v2
+
+      - name: Install Dependencies
+        run: composer install --prefer-dist --no-progress
+
+      - name: Crawl
+        run: php bin/app.php
+
+      - name: Count changes
+        id: changes
+        run: |
+          git add -N .
+          echo "::set-output name=count::$(git diff --name-only | wc -l)"
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        if: ${{ steps.changes.outputs.count > 0 }}
