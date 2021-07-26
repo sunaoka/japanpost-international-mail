@@ -19,11 +19,7 @@ class Crawler
     {
         $client = new Client();
 
-        try {
-            $crawler = $client->request('GET', config("{$language->getValue()}.uri"));
-        } catch (\Error $e) {
-
-        }
+        $crawler = $client->request('GET', config("{$language->getValue()}.uri"));
 
         $destinations = [];
         $crawler?->filter('#country_table')->eq(0)->filter('tr')->each(function (BaseCrawler $element) use ($language, &$destinations) {
