@@ -11,6 +11,8 @@ use Sunaoka\JapanPostInternationalMail\Destination\Restrictions;
 
 class Destination implements JsonSerializable
 {
+    private string $number;
+
     private string $countryCode;
 
     private string $destination;
@@ -27,6 +29,7 @@ class Destination implements JsonSerializable
 
     private function __construct(Language $language, array $attributes)
     {
+        $this->number = str_replace('の', '-', $attributes[0]);
         $this->countryCode = $this->getCountryCode($language, $attributes[1]);
         $this->destination = $attributes[1];
         $this->letterPost = Mail::make($language, $attributes[2], $attributes[3], $attributes[4]);
@@ -54,6 +57,7 @@ class Destination implements JsonSerializable
     public function jsonSerialize(): array
     {
         return [
+            'number'       => $this->number,
             'countryCode'  => $this->countryCode,
             'destination'  => $this->destination,
             'letterPost'   => $this->letterPost,
