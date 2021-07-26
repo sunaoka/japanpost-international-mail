@@ -20,7 +20,7 @@ jobs:
           tools: composer:v2
 
       - name: Install Dependencies
-        run: composer install --prefer-dist --no-progress
+        run: composer install --quiet --no-ansi --prefer-dist --no-progress --no-interaction
 
       - name: Crawl
         run: php bin/app.php
@@ -33,4 +33,12 @@ jobs:
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
+        with:
+          title: Update Service availability
+          body: |
+            Update Japan Post's International Mail Service availability([1], [2], [3]).
+
+            [1]: https://www.post.japanpost.jp/int/information/overview.html
+            [2]: https://www.post.japanpost.jp/int/information/overview_en.html
+            [3]: https://www.post.japanpost.jp/int/information/overview_cn.html
         if: ${{ steps.changes.outputs.count > 0 }}
