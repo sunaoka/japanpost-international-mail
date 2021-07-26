@@ -34,6 +34,8 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
+          commit-message: Update Service availability
+          delete-branch: true
           title: Update Service availability
           body: |
             Update Japan Post's International Mail Service availability([1], [2], [3]).
