@@ -19,19 +19,25 @@ $meta = [
 
 $crawler = new Crawler();
 
-/** @var Language $language */
-foreach (config('app.languages') as $language) {
-    $destinations = $crawler->crawl($language);
-    $file = config("{$language->getValue()}.file");
-    $json = json_encode($destinations, JSON_THROW_ON_ERROR);
+try {
+    /** @var Language $language */
+    foreach (config('app.languages') as $language) {
+        $destinations = $crawler->crawl($language);
+        $file = config("{$language->getValue()}.file");
+        $json = json_encode($destinations, JSON_THROW_ON_ERROR);
 
-    $meta['md5'][$language->getValue()] = md5($json);
-    if ($current['md5'][$language->getValue()] !== $meta['md5'][$language->getValue()]) {
-        $meta['date'] = date(DATE_ATOM);
-        file_put_contents("{$district}/{$file}", $json);
-    }
+        $meta['md5'][$language->getValue()] = md5($json);
+        if ($current['md5'][$language->getValue()] !== $meta['md5'][$language->getValue()]) {
+            $meta['date'] = date(DATE_ATOM);
+            file_put_contents("{$district}/{$file}", $json);
+        }
 
-    if ($meta['date'] !== $current['date']) {
-        file_put_contents($metaFile, json_encode($meta, JSON_THROW_ON_ERROR));
+        if ($meta['date'] !== $current['date']) {
+            file_put_contents($metaFile, json_encode($meta, JSON_THROW_ON_ERROR));
+        }
     }
+} catch (\Throwable $e) {
+    echo '[', get_class($e), '] ', $e->getMessage(), PHP_EOL,
+         '    in ', $e->getFile(), ':', $e->getLine(), PHP_EOL;
+    exit(1);
 }
