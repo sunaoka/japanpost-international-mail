@@ -38,9 +38,9 @@ jobs:
           delete-branch: true
           title: Update Service availability
           body: |
-            Update Japan Post's International Mail Service availability([1], [2], [3]).
+            Update Japan Post's International Mail Service availability.
 
-            [1]: https://www.post.japanpost.jp/int/information/overview.html
-            [2]: https://www.post.japanpost.jp/int/information/overview_en.html
-            [3]: https://www.post.japanpost.jp/int/information/overview_cn.html
+            - Japanese: https://www.post.japanpost.jp/int/information/overview.html
+            - English: https://www.post.japanpost.jp/int/information/overview_en.html
+            - Chinese: https://www.post.japanpost.jp/int/information/overview_cn.html
         if: ${{ steps.changes.outputs.count > 0 }}
