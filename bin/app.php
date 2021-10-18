@@ -20,11 +20,12 @@ $meta = [
 $crawler = new Crawler();
 
 try {
+    $jsonFlags = JSON_PRETTY_PRINT | JSON_THROW_ON_ERROR | JSON_UNESCAPED_UNICODE;
     /** @var Language $language */
     foreach (config('app.languages') as $language) {
         $destinations = $crawler->crawl($language);
         $file = config("{$language->getValue()}.file");
-        $json = json_encode($destinations, JSON_THROW_ON_ERROR);
+        $json = json_encode($destinations, $jsonFlags);
 
         $meta['md5'][$language->getValue()] = md5($json);
         if ($current['md5'][$language->getValue()] !== $meta['md5'][$language->getValue()]) {
@@ -33,7 +34,7 @@ try {
         }
 
         if ($meta['date'] !== $current['date']) {
-            file_put_contents($metaFile, json_encode($meta, JSON_THROW_ON_ERROR));
+            file_put_contents($metaFile, json_encode($meta, $jsonFlags));
         }
     }
 } catch (\Throwable $e) {
