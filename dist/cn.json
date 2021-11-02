@@ -163,7 +163,7 @@
             ],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
+        "notification": "在该国家，快递的送达将大幅度延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
         "number": "165",
@@ -457,7 +457,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": "在该国家，快递的送达将发生延迟。"
     },
@@ -611,7 +613,9 @@
         },
         "ems": "not_acceptable",
         "restrictions": {
-            "normal": [],
+            "normal": [
+                "EMS寄至地区有限制。"
+            ],
             "temporary": [],
             "delays": []
         },
@@ -637,7 +641,9 @@
                 "EMS寄至地区有限制。"
             ],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": "由于航班的减少等因素导致货舱空间紧张，邮件到达该国家大约需要一个月的时间。在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
@@ -826,7 +832,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": ""
     },
@@ -936,7 +944,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": "配送将采取非见面无接触的方式等进行。"
     },
@@ -1046,9 +1056,13 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [],
+            "normal": [
+                "EMS寄至地区有限制。"
+            ],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
@@ -1226,7 +1240,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
@@ -1637,7 +1653,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": ""
     },
@@ -1757,7 +1775,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": ""
     },
@@ -1961,7 +1981,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": ""
     },
@@ -2031,7 +2053,9 @@
                 "包裹寄至地区有限制。"
             ],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": ""
     },
@@ -2211,7 +2235,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": ""
     },
@@ -2231,9 +2257,7 @@
         },
         "ems": "not_acceptable",
         "restrictions": {
-            "normal": [
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -2433,7 +2457,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
@@ -2681,7 +2707,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": ""
     },
@@ -2861,7 +2889,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": ""
     },
@@ -2907,7 +2937,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。封城地区的邮局将停止营业。"
     },
@@ -3039,7 +3071,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": "配送将采取非见面无接触的方式等进行。"
     },
@@ -3441,9 +3475,7 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
             "delays": [
                 "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
@@ -3491,7 +3523,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": ""
     },
@@ -3605,7 +3639,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": "在该国家，快递的送达将发生延迟。"
     },
@@ -3787,7 +3823,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": "在该国家，快递的送达将发生延迟。"
     },
@@ -3897,7 +3935,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": ""
     },
@@ -3967,7 +4007,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": ""
     },
@@ -4307,7 +4349,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": ""
     },
@@ -4373,7 +4417,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
@@ -4395,7 +4441,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
@@ -4417,7 +4465,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": "在该国家，快递的送达将发生延迟。"
     },
@@ -4439,7 +4489,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": ""
     },
@@ -4459,9 +4511,7 @@
         },
         "ems": "not_acceptable",
         "restrictions": {
-            "normal": [
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -4581,7 +4631,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "number": "102",
@@ -4667,7 +4717,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
@@ -5013,7 +5065,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": ""
     },
@@ -5081,7 +5135,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": ""
     },
@@ -5147,7 +5203,9 @@
         },
         "ems": "not_acceptable",
         "restrictions": {
-            "normal": [],
+            "normal": [
+                "EMS寄至地区有限制。"
+            ],
             "temporary": [],
             "delays": []
         },
@@ -5171,7 +5229,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
@@ -5193,7 +5253,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
@@ -5237,7 +5299,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": ""
     },
@@ -5281,7 +5345,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
+            ]
         },
         "notification": "在该国家，快递的送达将发生延迟。"
     },
@@ -5418,7 +5484,7 @@
             ],
             "temporary": [],
             "delays": [
-                "另外，海运邮件，由于舱位紧张，比正常时期可能大幅度延误才到达。"
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
             ]
         },
         "notification": "在该国家，快递的送达将发生延迟。"

@@ -165,7 +165,7 @@
             ],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
+        "notification": "Considerable delays will be experienced in the delivery of mail items in the country (territory). and items will not be handed directly to addressees."
     },
     {
         "number": "165",
@@ -459,7 +459,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
@@ -613,7 +615,9 @@
         },
         "ems": "not_acceptable",
         "restrictions": {
-            "normal": [],
+            "normal": [
+                "EMS items to some regions are not acceptable."
+            ],
             "temporary": [],
             "delays": []
         },
@@ -639,7 +643,9 @@
                 "EMS items to some regions are not acceptable."
             ],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": "Loading mail items onto airplanes is expected to take about 1 month due to the shortage of cargo space caused by the reduction of flights.Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
@@ -828,7 +834,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": ""
     },
@@ -938,7 +946,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": "Items will not be handed directly to addressees."
     },
@@ -1048,9 +1058,13 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [],
+            "normal": [
+                "EMS items to some regions are not acceptable."
+            ],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
@@ -1228,7 +1242,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
@@ -1639,7 +1655,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": ""
     },
@@ -1759,7 +1777,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": ""
     },
@@ -1963,7 +1983,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": ""
     },
@@ -2033,7 +2055,9 @@
                 "Parcels to some regions are not acceptable."
             ],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": ""
     },
@@ -2213,7 +2237,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": ""
     },
@@ -2233,9 +2259,7 @@
         },
         "ems": "not_acceptable",
         "restrictions": {
-            "normal": [
-                "EMS items to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -2435,7 +2459,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
@@ -2683,7 +2709,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": ""
     },
@@ -2863,7 +2891,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": ""
     },
@@ -2909,7 +2939,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees. Services are suspended at post offices in areas shut down due to COVID-19."
     },
@@ -3041,7 +3073,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": "Items will not be handed directly to addressees."
     },
@@ -3443,9 +3477,7 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS items to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
             "delays": [
                 "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
@@ -3493,7 +3525,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": ""
     },
@@ -3607,7 +3641,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
@@ -3789,7 +3825,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
@@ -3899,7 +3937,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": ""
     },
@@ -3969,7 +4009,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": ""
     },
@@ -4309,7 +4351,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": ""
     },
@@ -4375,7 +4419,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
@@ -4397,7 +4443,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
@@ -4419,7 +4467,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
@@ -4441,7 +4491,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": ""
     },
@@ -4461,9 +4513,7 @@
         },
         "ems": "not_acceptable",
         "restrictions": {
-            "normal": [
-                "EMS items to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -4583,7 +4633,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "number": "102",
@@ -4669,7 +4719,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
@@ -5015,7 +5067,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": ""
     },
@@ -5083,7 +5137,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": ""
     },
@@ -5149,7 +5205,9 @@
         },
         "ems": "not_acceptable",
         "restrictions": {
-            "normal": [],
+            "normal": [
+                "EMS items to some regions are not acceptable."
+            ],
             "temporary": [],
             "delays": []
         },
@@ -5173,7 +5231,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
@@ -5195,7 +5255,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
@@ -5239,7 +5301,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": ""
     },
@@ -5283,7 +5347,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+            ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
@@ -5420,7 +5486,7 @@
             ],
             "temporary": [],
             "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed as transport is expected to take considerably more time than normal owing to cargo congestion."
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
             ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
