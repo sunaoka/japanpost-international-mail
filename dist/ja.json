@@ -1,6 +1,5 @@
 [
     {
-        "number": "037",
         "countryCode": "CN",
         "destination": "中華人民共和国",
         "letterPost": {
@@ -22,7 +21,6 @@
         "notification": "主要空港において新型コロナウイルス感染症の検疫強化の措置が取られること等に伴い、郵便物のお届けに大幅な遅延が生じます。"
     },
     {
-        "number": "006",
         "countryCode": "US",
         "destination": "アメリカ合衆国",
         "letterPost": {
@@ -50,7 +48,6 @@
         "notification": "米国国内において郵便物の到着が集中し、郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "042",
         "countryCode": "KR",
         "destination": "大韓民国",
         "letterPost": {
@@ -72,7 +69,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。 次の地域の配達は非対面の方法等で行います。 対象地域:Daegu（大邱）"
     },
     {
-        "number": "135",
         "countryCode": "PH",
         "destination": "フィリピン",
         "letterPost": {
@@ -98,7 +94,6 @@
         "notification": "国際交換局は最低限の人員で名宛国・地域外からの郵便物の受入れを行っており、名宛国・地域において郵便物のお届けに遅延が生じます。 隔離地域には小切手、医薬品等を包有する郵便物のみ配達します。"
     },
     {
-        "number": "037.3",
         "countryCode": "TW",
         "destination": "台湾",
         "letterPost": {
@@ -120,7 +115,6 @@
         "notification": ""
     },
     {
-        "number": "037.1",
         "countryCode": "HK",
         "destination": "香港",
         "letterPost": {
@@ -142,7 +136,6 @@
         "notification": ""
     },
     {
-        "number": "013",
         "countryCode": "AU",
         "destination": "オーストラリア",
         "letterPost": {
@@ -168,7 +161,6 @@
         "notification": "名宛国・地域において郵便物のお届けに大幅な遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "165",
         "countryCode": "TH",
         "destination": "タイ",
         "letterPost": {
@@ -190,7 +182,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "065",
         "countryCode": "GB",
         "destination": "英国",
         "letterPost": {
@@ -214,7 +205,6 @@
         "notification": ""
     },
     {
-        "number": "151",
         "countryCode": "SG",
         "destination": "シンガポール",
         "letterPost": {
@@ -236,7 +226,6 @@
         "notification": "配達は非対面の方法等で行います。このため、郵便物へ受取人電話番号の記載を推奨します。"
     },
     {
-        "number": "082",
         "countryCode": "IS",
         "destination": "アイスランド",
         "letterPost": {
@@ -258,7 +247,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "081",
         "countryCode": "IE",
         "destination": "アイルランド",
         "letterPost": {
@@ -282,7 +270,6 @@
         "notification": "配達は非対面の方法等で行います。"
     },
     {
-        "number": "015",
         "countryCode": "AZ",
         "destination": "アゼルバイジャン",
         "letterPost": {
@@ -306,7 +293,6 @@
         "notification": ""
     },
     {
-        "number": "066.2",
         "countryCode": "SH",
         "destination": "アセンション",
         "letterPost": {
@@ -328,7 +314,6 @@
         "notification": ""
     },
     {
-        "number": "001",
         "countryCode": "AF",
         "destination": "アフガニスタン",
         "letterPost": {
@@ -350,7 +335,6 @@
         "notification": ""
     },
     {
-        "number": "053",
         "countryCode": "AE",
         "destination": "アラブ首長国連邦",
         "letterPost": {
@@ -372,7 +356,6 @@
         "notification": ""
     },
     {
-        "number": "004",
         "countryCode": "DZ",
         "destination": "アルジェリア",
         "letterPost": {
@@ -396,7 +379,6 @@
         "notification": ""
     },
     {
-        "number": "011",
         "countryCode": "AR",
         "destination": "アルゼンチン",
         "letterPost": {
@@ -420,7 +402,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "133.1",
         "countryCode": "AW",
         "destination": "アルバ",
         "letterPost": {
@@ -442,7 +423,6 @@
         "notification": ""
     },
     {
-        "number": "003",
         "countryCode": "AL",
         "destination": "アルバニア",
         "letterPost": {
@@ -466,7 +446,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "012",
         "countryCode": "AM",
         "destination": "アルメニア",
         "letterPost": {
@@ -488,7 +467,6 @@
         "notification": "名宛国・地域において郵便物のお届けに大幅な遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "066.1",
         "countryCode": "AI",
         "destination": "アンギラ",
         "letterPost": {
@@ -510,7 +488,6 @@
         "notification": ""
     },
     {
-        "number": "008",
         "countryCode": "AO",
         "destination": "アンゴラ",
         "letterPost": {
@@ -532,7 +509,6 @@
         "notification": ""
     },
     {
-        "number": "009",
         "countryCode": "AG",
         "destination": "アンティグア・バーブーダ",
         "letterPost": {
@@ -556,7 +532,6 @@
         "notification": ""
     },
     {
-        "number": "060",
         "countryCode": "AD",
         "destination": "アンドラ",
         "letterPost": {
@@ -578,7 +553,6 @@
         "notification": ""
     },
     {
-        "number": "180",
         "countryCode": "YE",
         "destination": "イエメン",
         "letterPost": {
@@ -600,7 +574,6 @@
         "notification": ""
     },
     {
-        "number": "083",
         "countryCode": "IL",
         "destination": "イスラエル",
         "letterPost": {
@@ -624,7 +597,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。このため、郵便物へ受取人携帯電話番号の記載を推奨します。"
     },
     {
-        "number": "084",
         "countryCode": "IT",
         "destination": "イタリア",
         "letterPost": {
@@ -650,7 +622,6 @@
         "notification": "航空機の減便等により運送スペースが不足していることから、現地到着までに1か月程度の期間を要します。 名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "080",
         "countryCode": "IQ",
         "destination": "イラク",
         "letterPost": {
@@ -674,7 +645,6 @@
         "notification": ""
     },
     {
-        "number": "079",
         "countryCode": "IR",
         "destination": "イラン",
         "letterPost": {
@@ -698,7 +668,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "077",
         "countryCode": "IN",
         "destination": "インド",
         "letterPost": {
@@ -720,7 +689,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "078",
         "countryCode": "ID",
         "destination": "インドネシア",
         "letterPost": {
@@ -742,7 +710,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "007.1",
         "countryCode": "UM",
         "destination": "ウェーキ",
         "letterPost": {
@@ -766,7 +733,6 @@
         "notification": ""
     },
     {
-        "number": "126",
         "countryCode": "UG",
         "destination": "ウガンダ",
         "letterPost": {
@@ -790,7 +756,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "174",
         "countryCode": "UA",
         "destination": "ウクライナ",
         "letterPost": {
@@ -817,7 +782,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "127",
         "countryCode": "UZ",
         "destination": "ウズベキスタン",
         "letterPost": {
@@ -841,7 +805,6 @@
         "notification": ""
     },
     {
-        "number": "175",
         "countryCode": "UY",
         "destination": "ウルグアイ",
         "letterPost": {
@@ -863,7 +826,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "066.14",
         "countryCode": "VG",
         "destination": "英領ヴァージン諸島",
         "letterPost": {
@@ -885,7 +847,6 @@
         "notification": "名宛国・地域において一部の郵便サービスを一時停止しています。"
     },
     {
-        "number": "054",
         "countryCode": "EC",
         "destination": "エクアドル",
         "letterPost": {
@@ -907,7 +868,6 @@
         "notification": "名宛国・地域において一部の郵便サービスを一時停止しています。"
     },
     {
-        "number": "051",
         "countryCode": "EG",
         "destination": "エジプト",
         "letterPost": {
@@ -929,7 +889,6 @@
         "notification": ""
     },
     {
-        "number": "056",
         "countryCode": "EE",
         "destination": "エストニア",
         "letterPost": {
@@ -953,7 +912,6 @@
         "notification": "配達は非対面の方法等で行います。"
     },
     {
-        "number": "056-2",
         "countryCode": "SZ",
         "destination": "エスワティニ",
         "letterPost": {
@@ -975,7 +933,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "057",
         "countryCode": "ET",
         "destination": "エチオピア",
         "letterPost": {
@@ -999,7 +956,6 @@
         "notification": ""
     },
     {
-        "number": "054-2",
         "countryCode": "ER",
         "destination": "エリトリア",
         "letterPost": {
@@ -1021,7 +977,6 @@
         "notification": ""
     },
     {
-        "number": "052",
         "countryCode": "SV",
         "destination": "エルサルバドル",
         "letterPost": {
@@ -1043,7 +998,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "014",
         "countryCode": "AT",
         "destination": "オーストリア",
         "letterPost": {
@@ -1069,7 +1023,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "125",
         "countryCode": "OM",
         "destination": "オマーン",
         "letterPost": {
@@ -1093,7 +1046,6 @@
         "notification": ""
     },
     {
-        "number": "132",
         "countryCode": "NL",
         "destination": "オランダ",
         "letterPost": {
@@ -1115,7 +1067,6 @@
         "notification": "配達は非対面の方法等で行います。"
     },
     {
-        "number": "133.4",
         "countryCode": "NL",
         "destination": "オランダカリブ領域",
         "letterPost": {
@@ -1137,7 +1088,6 @@
         "notification": ""
     },
     {
-        "number": "064",
         "countryCode": "GH",
         "destination": "ガーナ",
         "letterPost": {
@@ -1159,7 +1109,6 @@
         "notification": ""
     },
     {
-        "number": "034",
         "countryCode": "CV",
         "destination": "カーボベルデ",
         "letterPost": {
@@ -1181,7 +1130,6 @@
         "notification": ""
     },
     {
-        "number": "065",
         "countryCode": "GG",
         "destination": "ガーンジー",
         "letterPost": {
@@ -1203,7 +1151,6 @@
         "notification": ""
     },
     {
-        "number": "073",
         "countryCode": "GY",
         "destination": "ガイアナ",
         "letterPost": {
@@ -1225,7 +1172,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "089",
         "countryCode": "KZ",
         "destination": "カザフスタン",
         "letterPost": {
@@ -1249,7 +1195,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "138",
         "countryCode": "QA",
         "destination": "カタール",
         "letterPost": {
@@ -1273,7 +1218,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "060.1.1",
         "countryCode": "GP",
         "destination": "ガドループ",
         "letterPost": {
@@ -1295,7 +1239,6 @@
         "notification": ""
     },
     {
-        "number": "033",
         "countryCode": "CA",
         "destination": "カナダ",
         "letterPost": {
@@ -1315,13 +1258,12 @@
                 "航空扱いのうち、一部の通常郵便物は差出可。詳しくは「米国等宛て国際郵便物の引受可否」を確認してください。"
             ],
             "delays": [
-                "航空機の減便等により運送スペースが不足していることから、航空機および船舶への搭載に大幅に時間を要します。 また、海上輸送は貨物混雑のため、現地到着まで平常期に比べ3か月程度遅れる可能性があります。"
+                "航空機の減便等により運送スペースが不足していることから、航空機および船舶への搭載に大幅に時間を要します。 特に郵便番号がVからYで始まる地域（ブリティッシュコロンビア州、ヌナブト準州、ノースウェスト準州およびユーコン準州）宛ての航空扱いとする郵便物は遅延する可能性があります。"
             ]
         },
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "061",
         "countryCode": "GA",
         "destination": "ガボン",
         "letterPost": {
@@ -1346,7 +1288,6 @@
         "notification": ""
     },
     {
-        "number": "032",
         "countryCode": "CM",
         "destination": "カメルーン",
         "letterPost": {
@@ -1368,7 +1309,6 @@
         "notification": ""
     },
     {
-        "number": "062",
         "countryCode": "GM",
         "destination": "ガンビア",
         "letterPost": {
@@ -1390,7 +1330,6 @@
         "notification": ""
     },
     {
-        "number": "088",
         "countryCode": "KH",
         "destination": "カンボジア",
         "letterPost": {
@@ -1412,7 +1351,6 @@
         "notification": ""
     },
     {
-        "number": "139",
         "countryCode": "KP",
         "destination": "北朝鮮",
         "letterPost": {
@@ -1434,7 +1372,6 @@
         "notification": ""
     },
     {
-        "number": "101-2",
         "countryCode": "MK",
         "destination": "北マケドニア",
         "letterPost": {
@@ -1456,7 +1393,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "007.1",
         "countryCode": "MP",
         "destination": "北マリアナ諸島",
         "letterPost": {
@@ -1482,7 +1418,6 @@
         "notification": ""
     },
     {
-        "number": "070",
         "countryCode": "GN",
         "destination": "ギニア",
         "letterPost": {
@@ -1504,7 +1439,6 @@
         "notification": ""
     },
     {
-        "number": "071",
         "countryCode": "GW",
         "destination": "ギニアビサウ",
         "letterPost": {
@@ -1526,7 +1460,6 @@
         "notification": ""
     },
     {
-        "number": "038",
         "countryCode": "CY",
         "destination": "キプロス",
         "letterPost": {
@@ -1550,7 +1483,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "046",
         "countryCode": "CU",
         "destination": "キューバ",
         "letterPost": {
@@ -1572,7 +1504,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "133.2",
         "countryCode": "CW",
         "destination": "キュラソー",
         "letterPost": {
@@ -1594,7 +1525,6 @@
         "notification": "配達は非対面の方法等で行います。"
     },
     {
-        "number": "067",
         "countryCode": "GR",
         "destination": "ギリシャ",
         "letterPost": {
@@ -1616,7 +1546,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "092",
         "countryCode": "KI",
         "destination": "キリバス",
         "letterPost": {
@@ -1638,7 +1567,6 @@
         "notification": ""
     },
     {
-        "number": "091",
         "countryCode": "KG",
         "destination": "キルギス",
         "letterPost": {
@@ -1662,7 +1590,6 @@
         "notification": ""
     },
     {
-        "number": "069",
         "countryCode": "GT",
         "destination": "グアテマラ",
         "letterPost": {
@@ -1684,7 +1611,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "007.1",
         "countryCode": "GU",
         "destination": "グアム",
         "letterPost": {
@@ -1712,7 +1638,6 @@
         "notification": ""
     },
     {
-        "number": "093",
         "countryCode": "KW",
         "destination": "クウェート",
         "letterPost": {
@@ -1736,7 +1661,6 @@
         "notification": ""
     },
     {
-        "number": "124.1",
         "countryCode": "CK",
         "destination": "クック",
         "letterPost": {
@@ -1760,7 +1684,6 @@
         "notification": ""
     },
     {
-        "number": "047.2",
         "countryCode": "GL",
         "destination": "グリーンランド",
         "letterPost": {
@@ -1784,7 +1707,6 @@
         "notification": ""
     },
     {
-        "number": "013.1",
         "countryCode": "CX",
         "destination": "クリスマス島",
         "letterPost": {
@@ -1806,7 +1728,6 @@
         "notification": ""
     },
     {
-        "number": "068",
         "countryCode": "GD",
         "destination": "グレナダ",
         "letterPost": {
@@ -1828,7 +1749,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "045",
         "countryCode": "HR",
         "destination": "クロアチア",
         "letterPost": {
@@ -1850,7 +1770,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。配達は非対面の方法等で行います。"
     },
     {
-        "number": "066.4",
         "countryCode": "KY",
         "destination": "ケイマン諸島",
         "letterPost": {
@@ -1874,7 +1793,6 @@
         "notification": ""
     },
     {
-        "number": "090",
         "countryCode": "KE",
         "destination": "ケニア",
         "letterPost": {
@@ -1898,7 +1816,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "044",
         "countryCode": "CI",
         "destination": "コートジボワール",
         "letterPost": {
@@ -1922,7 +1839,6 @@
         "notification": ""
     },
     {
-        "number": "013.2",
         "countryCode": "CC",
         "destination": "ココス（キーリング）諸島",
         "letterPost": {
@@ -1944,7 +1860,6 @@
         "notification": ""
     },
     {
-        "number": "043",
         "countryCode": "CR",
         "destination": "コスタリカ",
         "letterPost": {
@@ -1966,7 +1881,6 @@
         "notification": "配達は非対面の方法等で行います。"
     },
     {
-        "number": "92-2",
         "countryCode": "XK",
         "destination": "コソボ",
         "letterPost": {
@@ -1990,7 +1904,6 @@
         "notification": ""
     },
     {
-        "number": "040",
         "countryCode": "KM",
         "destination": "コモロ",
         "letterPost": {
@@ -2012,7 +1925,6 @@
         "notification": ""
     },
     {
-        "number": "039",
         "countryCode": "CO",
         "destination": "コロンビア",
         "letterPost": {
@@ -2036,7 +1948,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "041",
         "countryCode": "CG",
         "destination": "コンゴ共和国",
         "letterPost": {
@@ -2062,7 +1973,6 @@
         "notification": ""
     },
     {
-        "number": "138-2",
         "countryCode": "CD",
         "destination": "コンゴ民主共和国",
         "letterPost": {
@@ -2084,7 +1994,6 @@
         "notification": ""
     },
     {
-        "number": "007.1",
         "countryCode": "MP",
         "destination": "サイパン",
         "letterPost": {
@@ -2110,7 +2019,6 @@
         "notification": ""
     },
     {
-        "number": "010",
         "countryCode": "SA",
         "destination": "サウジアラビア",
         "letterPost": {
@@ -2132,7 +2040,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "124-2",
         "countryCode": "WS",
         "destination": "サモア",
         "letterPost": {
@@ -2154,7 +2061,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "147",
         "countryCode": "ST",
         "destination": "サントメ・プリンシペ",
         "letterPost": {
@@ -2176,7 +2082,6 @@
         "notification": ""
     },
     {
-        "number": "183",
         "countryCode": "ZM",
         "destination": "ザンビア",
         "letterPost": {
@@ -2198,7 +2103,6 @@
         "notification": ""
     },
     {
-        "number": "060.1.5",
         "countryCode": "PM",
         "destination": "サンピエールおよびミクロン",
         "letterPost": {
@@ -2220,7 +2124,6 @@
         "notification": ""
     },
     {
-        "number": "144",
         "countryCode": "SM",
         "destination": "サンマリノ",
         "letterPost": {
@@ -2244,7 +2147,6 @@
         "notification": ""
     },
     {
-        "number": "150",
         "countryCode": "SL",
         "destination": "シエラレオネ",
         "letterPost": {
@@ -2266,7 +2168,6 @@
         "notification": ""
     },
     {
-        "number": "048",
         "countryCode": "DJ",
         "destination": "ジブチ",
         "letterPost": {
@@ -2288,7 +2189,6 @@
         "notification": ""
     },
     {
-        "number": "066.6",
         "countryCode": "GI",
         "destination": "ジブラルタル",
         "letterPost": {
@@ -2310,7 +2210,6 @@
         "notification": ""
     },
     {
-        "number": "065",
         "countryCode": "JE",
         "destination": "ジャージー",
         "letterPost": {
@@ -2332,7 +2231,6 @@
         "notification": ""
     },
     {
-        "number": "086",
         "countryCode": "JM",
         "destination": "ジャマイカ",
         "letterPost": {
@@ -2354,7 +2252,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "063",
         "countryCode": "GE",
         "destination": "ジョージア",
         "letterPost": {
@@ -2376,7 +2273,6 @@
         "notification": "名宛国・地域において郵便物のお届けに大幅な遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "160",
         "countryCode": "SY",
         "destination": "シリア",
         "letterPost": {
@@ -2398,7 +2294,6 @@
         "notification": ""
     },
     {
-        "number": "133.3",
         "countryCode": "SX",
         "destination": "シント・マールテン",
         "letterPost": {
@@ -2420,7 +2315,6 @@
         "notification": ""
     },
     {
-        "number": "184",
         "countryCode": "ZW",
         "destination": "ジンバブエ",
         "letterPost": {
@@ -2442,7 +2336,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "157",
         "countryCode": "CH",
         "destination": "スイス",
         "letterPost": {
@@ -2466,7 +2359,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "156",
         "countryCode": "SE",
         "destination": "スウェーデン",
         "letterPost": {
@@ -2488,7 +2380,6 @@
         "notification": "配達は非対面の方法等で行います。"
     },
     {
-        "number": "154",
         "countryCode": "SD",
         "destination": "スーダン",
         "letterPost": {
@@ -2514,7 +2405,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "055",
         "countryCode": "ES",
         "destination": "スペイン",
         "letterPost": {
@@ -2538,7 +2428,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "158",
         "countryCode": "SR",
         "destination": "スリナム",
         "letterPost": {
@@ -2560,7 +2449,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "155",
         "countryCode": "LK",
         "destination": "スリランカ",
         "letterPost": {
@@ -2582,7 +2470,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "151-2",
         "countryCode": "SK",
         "destination": "スロバキア",
         "letterPost": {
@@ -2604,7 +2491,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "152",
         "countryCode": "SI",
         "destination": "スロベニア",
         "letterPost": {
@@ -2626,7 +2512,6 @@
         "notification": "配達は非対面の方法等で行います。"
     },
     {
-        "number": "149",
         "countryCode": "SC",
         "destination": "セーシェル",
         "letterPost": {
@@ -2648,7 +2533,6 @@
         "notification": ""
     },
     {
-        "number": "072",
         "countryCode": "GQ",
         "destination": "赤道ギニア",
         "letterPost": {
@@ -2670,7 +2554,6 @@
         "notification": ""
     },
     {
-        "number": "148",
         "countryCode": "SN",
         "destination": "セネガル",
         "letterPost": {
@@ -2692,7 +2575,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "181",
         "countryCode": "RS",
         "destination": "セルビア",
         "letterPost": {
@@ -2716,7 +2598,6 @@
         "notification": ""
     },
     {
-        "number": "066.11",
         "countryCode": "SH",
         "destination": "セント・ヘレナ",
         "letterPost": {
@@ -2738,7 +2619,6 @@
         "notification": ""
     },
     {
-        "number": "066.10",
         "countryCode": "KN",
         "destination": "セントクリストファー・ネービス",
         "letterPost": {
@@ -2762,7 +2642,6 @@
         "notification": ""
     },
     {
-        "number": "145",
         "countryCode": "VC",
         "destination": "セントビンセント",
         "letterPost": {
@@ -2784,7 +2663,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "143",
         "countryCode": "LC",
         "destination": "セントルシア",
         "letterPost": {
@@ -2806,7 +2684,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "153",
         "countryCode": "SO",
         "destination": "ソマリア",
         "letterPost": {
@@ -2828,7 +2705,6 @@
         "notification": ""
     },
     {
-        "number": "146",
         "countryCode": "SB",
         "destination": "ソロモン",
         "letterPost": {
@@ -2852,7 +2728,6 @@
         "notification": ""
     },
     {
-        "number": "066.13",
         "countryCode": "TC",
         "destination": "タークスおよびカイコス諸島",
         "letterPost": {
@@ -2874,7 +2749,6 @@
         "notification": ""
     },
     {
-        "number": "161",
         "countryCode": "TJ",
         "destination": "タジキスタン",
         "letterPost": {
@@ -2898,7 +2772,6 @@
         "notification": ""
     },
     {
-        "number": "162",
         "countryCode": "TZ",
         "destination": "タンザニア",
         "letterPost": {
@@ -2922,7 +2795,6 @@
         "notification": ""
     },
     {
-        "number": "164",
         "countryCode": "CZ",
         "destination": "チェコ",
         "letterPost": {
@@ -2946,7 +2818,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。閉鎖地域の郵便局は営業を停止します。"
     },
     {
-        "number": "163",
         "countryCode": "TD",
         "destination": "チャド",
         "letterPost": {
@@ -2968,7 +2839,6 @@
         "notification": ""
     },
     {
-        "number": "035",
         "countryCode": "CF",
         "destination": "中央アフリカ",
         "letterPost": {
@@ -2990,7 +2860,6 @@
         "notification": ""
     },
     {
-        "number": "170",
         "countryCode": "TN",
         "destination": "チュニジア",
         "letterPost": {
@@ -3012,7 +2881,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "036",
         "countryCode": "CL",
         "destination": "チリ",
         "letterPost": {
@@ -3034,7 +2902,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "173",
         "countryCode": "TV",
         "destination": "ツバル",
         "letterPost": {
@@ -3056,7 +2923,6 @@
         "notification": ""
     },
     {
-        "number": "047",
         "countryCode": "DK",
         "destination": "デンマーク",
         "letterPost": {
@@ -3080,7 +2946,6 @@
         "notification": "配達は非対面の方法等で行います。"
     },
     {
-        "number": "005",
         "countryCode": "DE",
         "destination": "ドイツ",
         "letterPost": {
@@ -3104,7 +2969,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "167",
         "countryCode": "TG",
         "destination": "トーゴ",
         "letterPost": {
@@ -3126,7 +2990,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "050",
         "countryCode": "DO",
         "destination": "ドミニカ",
         "letterPost": {
@@ -3148,7 +3011,6 @@
         "notification": ""
     },
     {
-        "number": "049",
         "countryCode": "DO",
         "destination": "ドミニカ共和国",
         "letterPost": {
@@ -3170,7 +3032,6 @@
         "notification": ""
     },
     {
-        "number": "066.12",
         "countryCode": "SH",
         "destination": "トリスタン・ダ・クーニャ",
         "letterPost": {
@@ -3192,7 +3053,6 @@
         "notification": ""
     },
     {
-        "number": "169",
         "countryCode": "TT",
         "destination": "トリニダード・トバゴ",
         "letterPost": {
@@ -3214,7 +3074,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "171",
         "countryCode": "TM",
         "destination": "トルクメニスタン",
         "letterPost": {
@@ -3236,7 +3095,6 @@
         "notification": ""
     },
     {
-        "number": "172",
         "countryCode": "TR",
         "destination": "トルコ",
         "letterPost": {
@@ -3258,7 +3116,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "168",
         "countryCode": "TO",
         "destination": "トンガ",
         "letterPost": {
@@ -3280,7 +3137,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "122",
         "countryCode": "NG",
         "destination": "ナイジェリア",
         "letterPost": {
@@ -3302,7 +3158,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "118",
         "countryCode": "NR",
         "destination": "ナウル",
         "letterPost": {
@@ -3324,7 +3179,6 @@
         "notification": ""
     },
     {
-        "number": "117",
         "countryCode": "NA",
         "destination": "ナミビア",
         "letterPost": {
@@ -3346,7 +3200,6 @@
         "notification": ""
     },
     {
-        "number": "060.2.4",
         "countryCode": "TF",
         "destination": "南極におけるフランスの地域",
         "letterPost": {
@@ -3368,7 +3221,6 @@
         "notification": ""
     },
     {
-        "number": "120",
         "countryCode": "NI",
         "destination": "ニカラグア",
         "letterPost": {
@@ -3390,7 +3242,6 @@
         "notification": ""
     },
     {
-        "number": "121",
         "countryCode": "NE",
         "destination": "ニジェール",
         "letterPost": {
@@ -3414,7 +3265,6 @@
         "notification": ""
     },
     {
-        "number": "60.2.1",
         "countryCode": "NC",
         "destination": "ニュー・カレドニア",
         "letterPost": {
@@ -3436,7 +3286,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "124",
         "countryCode": "NZ",
         "destination": "ニュージーランド",
         "letterPost": {
@@ -3462,7 +3311,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "119",
         "countryCode": "NP",
         "destination": "ネパール",
         "letterPost": {
@@ -3486,7 +3334,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "013.3",
         "countryCode": "NF",
         "destination": "ノーフォーク島",
         "letterPost": {
@@ -3508,7 +3355,6 @@
         "notification": ""
     },
     {
-        "number": "123",
         "countryCode": "NO",
         "destination": "ノルウェー",
         "letterPost": {
@@ -3532,7 +3378,6 @@
         "notification": ""
     },
     {
-        "number": "066.3",
         "countryCode": "BM",
         "destination": "バーミュダ諸島",
         "letterPost": {
@@ -3554,7 +3399,6 @@
         "notification": ""
     },
     {
-        "number": "017",
         "countryCode": "BH",
         "destination": "バーレーン",
         "letterPost": {
@@ -3576,7 +3420,6 @@
         "notification": ""
     },
     {
-        "number": "074",
         "countryCode": "HT",
         "destination": "ハイチ",
         "letterPost": {
@@ -3598,7 +3441,6 @@
         "notification": ""
     },
     {
-        "number": "128",
         "countryCode": "PK",
         "destination": "パキスタン",
         "letterPost": {
@@ -3624,7 +3466,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "177",
         "countryCode": "VA",
         "destination": "バチカン",
         "letterPost": {
@@ -3648,7 +3489,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "129",
         "countryCode": "PA",
         "destination": "パナマ",
         "letterPost": {
@@ -3670,7 +3510,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "176",
         "countryCode": "VU",
         "destination": "バヌアツ",
         "letterPost": {
@@ -3692,7 +3531,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "016",
         "countryCode": "BS",
         "destination": "バハマ",
         "letterPost": {
@@ -3714,7 +3552,6 @@
         "notification": ""
     },
     {
-        "number": "130",
         "countryCode": "PG",
         "destination": "パプアニューギニア",
         "letterPost": {
@@ -3738,7 +3575,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "128-2",
         "countryCode": "PW",
         "destination": "パラオ",
         "letterPost": {
@@ -3764,7 +3600,6 @@
         "notification": ""
     },
     {
-        "number": "131",
         "countryCode": "PY",
         "destination": "パラグアイ",
         "letterPost": {
@@ -3786,7 +3621,6 @@
         "notification": ""
     },
     {
-        "number": "019",
         "countryCode": "BB",
         "destination": "バルバドス",
         "letterPost": {
@@ -3808,7 +3642,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "076",
         "countryCode": "HU",
         "destination": "ハンガリー",
         "letterPost": {
@@ -3832,7 +3665,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "018",
         "countryCode": "BD",
         "destination": "バングラデシュ",
         "letterPost": {
@@ -3854,7 +3686,6 @@
         "notification": ""
     },
     {
-        "number": "166",
         "countryCode": "TL",
         "destination": "東ティモール",
         "letterPost": {
@@ -3876,7 +3707,6 @@
         "notification": ""
     },
     {
-        "number": "066.9",
         "countryCode": "PN",
         "destination": "ピトケアン",
         "letterPost": {
@@ -3898,7 +3728,6 @@
         "notification": ""
     },
     {
-        "number": "058",
         "countryCode": "FJ",
         "destination": "フィジー",
         "letterPost": {
@@ -3920,7 +3749,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "059",
         "countryCode": "FI",
         "destination": "フィンランド",
         "letterPost": {
@@ -3944,7 +3772,6 @@
         "notification": ""
     },
     {
-        "number": "024",
         "countryCode": "BT",
         "destination": "ブータン",
         "letterPost": {
@@ -3968,7 +3795,6 @@
         "notification": "名宛国・地域において郵便物のお届けに大幅な遅延が生じます。"
     },
     {
-        "number": "007.2",
         "countryCode": "PR",
         "destination": "プエルト・リコ",
         "letterPost": {
@@ -3992,7 +3818,6 @@
         "notification": ""
     },
     {
-        "number": "047.1",
         "countryCode": "FO",
         "destination": "フェロー島",
         "letterPost": {
@@ -4016,7 +3841,6 @@
         "notification": ""
     },
     {
-        "number": "066.5",
         "countryCode": "FK",
         "destination": "フォークランド諸島（マルヴィナス諸島）",
         "letterPost": {
@@ -4038,7 +3862,6 @@
         "notification": ""
     },
     {
-        "number": "060.1.2",
         "countryCode": "GF",
         "destination": "仏領ギアナ",
         "letterPost": {
@@ -4060,7 +3883,6 @@
         "notification": ""
     },
     {
-        "number": "060.2.2",
         "countryCode": "PF",
         "destination": "仏領ポリネシア",
         "letterPost": {
@@ -4082,7 +3904,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "027",
         "countryCode": "BR",
         "destination": "ブラジル",
         "letterPost": {
@@ -4104,7 +3925,6 @@
         "notification": "名宛国・地域において郵便物のお届けに大幅な遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "060",
         "countryCode": "FR",
         "destination": "フランス",
         "letterPost": {
@@ -4128,7 +3948,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "029",
         "countryCode": "BG",
         "destination": "ブルガリア",
         "letterPost": {
@@ -4150,7 +3969,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "030",
         "countryCode": "BF",
         "destination": "ブルキナファソ",
         "letterPost": {
@@ -4172,7 +3990,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "028",
         "countryCode": "BN",
         "destination": "ブルネイ",
         "letterPost": {
@@ -4196,7 +4013,6 @@
         "notification": ""
     },
     {
-        "number": "031",
         "countryCode": "BI",
         "destination": "ブルンジ",
         "letterPost": {
@@ -4218,7 +4034,6 @@
         "notification": ""
     },
     {
-        "number": "007.2",
         "countryCode": "VI",
         "destination": "米領ヴァージン諸島",
         "letterPost": {
@@ -4242,7 +4057,6 @@
         "notification": ""
     },
     {
-        "number": "007.2",
         "countryCode": "AS",
         "destination": "米領サモア",
         "letterPost": {
@@ -4266,7 +4080,6 @@
         "notification": ""
     },
     {
-        "number": "179",
         "countryCode": "VN",
         "destination": "ベトナム",
         "letterPost": {
@@ -4288,7 +4101,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "023",
         "countryCode": "BJ",
         "destination": "ベナン",
         "letterPost": {
@@ -4312,7 +4124,6 @@
         "notification": ""
     },
     {
-        "number": "178",
         "countryCode": "VE",
         "destination": "ベネズエラ",
         "letterPost": {
@@ -4334,7 +4145,6 @@
         "notification": ""
     },
     {
-        "number": "020",
         "countryCode": "BY",
         "destination": "ベラルーシ",
         "letterPost": {
@@ -4358,7 +4168,6 @@
         "notification": ""
     },
     {
-        "number": "022",
         "countryCode": "BZ",
         "destination": "ベリーズ",
         "letterPost": {
@@ -4380,7 +4189,6 @@
         "notification": ""
     },
     {
-        "number": "134",
         "countryCode": "PE",
         "destination": "ペルー",
         "letterPost": {
@@ -4402,7 +4210,6 @@
         "notification": ""
     },
     {
-        "number": "021",
         "countryCode": "BE",
         "destination": "ベルギー",
         "letterPost": {
@@ -4426,7 +4233,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "136",
         "countryCode": "PL",
         "destination": "ポーランド",
         "letterPost": {
@@ -4450,7 +4256,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "025-2",
         "countryCode": "BA",
         "destination": "ボスニア・ヘルツェゴビナ",
         "letterPost": {
@@ -4474,7 +4279,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "185",
         "countryCode": "JP",
         "destination": "北方諸島",
         "letterPost": {
@@ -4498,7 +4302,6 @@
         "notification": ""
     },
     {
-        "number": "026",
         "countryCode": "BW",
         "destination": "ボツワナ",
         "letterPost": {
@@ -4520,7 +4323,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "025",
         "countryCode": "BO",
         "destination": "ボリビア",
         "letterPost": {
@@ -4542,7 +4344,6 @@
         "notification": ""
     },
     {
-        "number": "137",
         "countryCode": "PT",
         "destination": "ポルトガル",
         "letterPost": {
@@ -4564,7 +4365,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "075",
         "countryCode": "HN",
         "destination": "ホンジュラス",
         "letterPost": {
@@ -4586,7 +4386,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "108-2",
         "countryCode": "MH",
         "destination": "マーシャル",
         "letterPost": {
@@ -4614,7 +4413,6 @@
         "notification": ""
     },
     {
-        "number": "037.2",
         "countryCode": "MO",
         "destination": "マカオ",
         "letterPost": {
@@ -4636,7 +4434,6 @@
         "notification": ""
     },
     {
-        "number": "102",
         "countryCode": "MG",
         "destination": "マダガスカル",
         "letterPost": {
@@ -4658,7 +4455,6 @@
         "notification": ""
     },
     {
-        "number": "104",
         "countryCode": "MW",
         "destination": "マラウイ",
         "letterPost": {
@@ -4680,7 +4476,6 @@
         "notification": "名宛国・地域において一部の郵便サービスを一時停止しています。"
     },
     {
-        "number": "106",
         "countryCode": "ML",
         "destination": "マリ",
         "letterPost": {
@@ -4702,7 +4497,6 @@
         "notification": ""
     },
     {
-        "number": "107",
         "countryCode": "MT",
         "destination": "マルタ",
         "letterPost": {
@@ -4726,7 +4520,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "060.1.3",
         "countryCode": "MQ",
         "destination": "マルチニーク",
         "letterPost": {
@@ -4748,7 +4541,6 @@
         "notification": ""
     },
     {
-        "number": "103",
         "countryCode": "MY",
         "destination": "マレーシア",
         "letterPost": {
@@ -4770,7 +4562,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。閉鎖地域への配達は停止します。"
     },
     {
-        "number": "065",
         "countryCode": "IM",
         "destination": "マン島",
         "letterPost": {
@@ -4792,7 +4583,6 @@
         "notification": ""
     },
     {
-        "number": "111-2",
         "countryCode": "FM",
         "destination": "ミクロネシア",
         "letterPost": {
@@ -4820,7 +4610,6 @@
         "notification": ""
     },
     {
-        "number": "007.1",
         "countryCode": "UM",
         "destination": "ミッドウェイ諸島",
         "letterPost": {
@@ -4844,7 +4633,6 @@
         "notification": ""
     },
     {
-        "number": "002",
         "countryCode": "ZA",
         "destination": "南アフリカ共和国",
         "letterPost": {
@@ -4866,7 +4654,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "154-2",
         "countryCode": "SS",
         "destination": "南スーダン",
         "letterPost": {
@@ -4888,7 +4675,6 @@
         "notification": ""
     },
     {
-        "number": "116",
         "countryCode": "MM",
         "destination": "ミャンマー",
         "letterPost": {
@@ -4912,7 +4698,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "111",
         "countryCode": "MX",
         "destination": "メキシコ",
         "letterPost": {
@@ -4929,12 +4714,13 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "航空機の減便等により運送スペースが不足していることから、航空機への搭載に2～3週間程度の期間を要します。"
+            ]
         },
         "notification": "名宛国・地域において郵便物のお届けに大幅な遅延が生じます。"
     },
     {
-        "number": "109",
         "countryCode": "MU",
         "destination": "モーリシャス",
         "letterPost": {
@@ -4956,7 +4742,6 @@
         "notification": "名宛国・地域において郵便物のお届けに大幅な遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "110",
         "countryCode": "MR",
         "destination": "モーリタニア",
         "letterPost": {
@@ -4978,7 +4763,6 @@
         "notification": "名宛国・地域外からの郵便物の受入れを停止します。"
     },
     {
-        "number": "115",
         "countryCode": "MZ",
         "destination": "モザンビーク",
         "letterPost": {
@@ -5004,7 +4788,6 @@
         "notification": ""
     },
     {
-        "number": "113",
         "countryCode": "MC",
         "destination": "モナコ",
         "letterPost": {
@@ -5026,7 +4809,6 @@
         "notification": ""
     },
     {
-        "number": "105",
         "countryCode": "MV",
         "destination": "モルディブ",
         "letterPost": {
@@ -5050,7 +4832,6 @@
         "notification": ""
     },
     {
-        "number": "112",
         "countryCode": "MD",
         "destination": "モルドバ",
         "letterPost": {
@@ -5074,7 +4855,6 @@
         "notification": ""
     },
     {
-        "number": "108",
         "countryCode": "MA",
         "destination": "モロッコ",
         "letterPost": {
@@ -5098,7 +4878,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "114",
         "countryCode": "MN",
         "destination": "モンゴル",
         "letterPost": {
@@ -5120,7 +4899,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "114-2",
         "countryCode": "ME",
         "destination": "モンテネグロ",
         "letterPost": {
@@ -5144,7 +4922,6 @@
         "notification": ""
     },
     {
-        "number": "066.8",
         "countryCode": "MS",
         "destination": "モントセラト",
         "letterPost": {
@@ -5166,7 +4943,6 @@
         "notification": ""
     },
     {
-        "number": "087",
         "countryCode": "JO",
         "destination": "ヨルダン",
         "letterPost": {
@@ -5190,7 +4966,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "094",
         "countryCode": "LA",
         "destination": "ラオス",
         "letterPost": {
@@ -5214,7 +4989,6 @@
         "notification": ""
     },
     {
-        "number": "096",
         "countryCode": "LV",
         "destination": "ラトビア",
         "letterPost": {
@@ -5238,7 +5012,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "100",
         "countryCode": "LT",
         "destination": "リトアニア",
         "letterPost": {
@@ -5262,7 +5035,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "number": "085",
         "countryCode": "LY",
         "destination": "リビア",
         "letterPost": {
@@ -5284,7 +5056,6 @@
         "notification": ""
     },
     {
-        "number": "099",
         "countryCode": "LI",
         "destination": "リヒテンシュタイン",
         "letterPost": {
@@ -5308,7 +5079,6 @@
         "notification": ""
     },
     {
-        "number": "098",
         "countryCode": "LR",
         "destination": "リベリア",
         "letterPost": {
@@ -5330,7 +5100,6 @@
         "notification": ""
     },
     {
-        "number": "140",
         "countryCode": "RO",
         "destination": "ルーマニア",
         "letterPost": {
@@ -5354,7 +5123,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "101",
         "countryCode": "LU",
         "destination": "ルクセンブルク",
         "letterPost": {
@@ -5376,7 +5144,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。通常郵便物の配達を一時停止します。"
     },
     {
-        "number": "142",
         "countryCode": "RW",
         "destination": "ルワンダ",
         "letterPost": {
@@ -5400,7 +5167,6 @@
         "notification": ""
     },
     {
-        "number": "095",
         "countryCode": "LS",
         "destination": "レソト",
         "letterPost": {
@@ -5422,7 +5188,6 @@
         "notification": ""
     },
     {
-        "number": "097",
         "countryCode": "LB",
         "destination": "レバノン",
         "letterPost": {
@@ -5444,7 +5209,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "060.1.4",
         "countryCode": "RE",
         "destination": "レユニオン",
         "letterPost": {
@@ -5466,7 +5230,6 @@
         "notification": ""
     },
     {
-        "number": "141",
         "countryCode": "RU",
         "destination": "ロシア",
         "letterPost": {
@@ -5492,7 +5255,6 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "number": "060.2.3",
         "countryCode": "WF",
         "destination": "ワリスおよびフツナ",
         "letterPost": {

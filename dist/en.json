@@ -1,6 +1,5 @@
 [
     {
-        "number": "037",
         "countryCode": "CN",
         "destination": "China",
         "letterPost": {
@@ -22,7 +21,6 @@
         "notification": "Due to COVID-19 quarantine enforcement at the main airports, significant delays will be experienced in the delivery of inbound mail products."
     },
     {
-        "number": "006",
         "countryCode": "US",
         "destination": "United States of America",
         "letterPost": {
@@ -50,7 +48,6 @@
         "notification": "Please note that considerable delivery delays are expected due to a large increase in inbound postal items in U.S. Under the circumstances, items will not be handed directly to addressees."
     },
     {
-        "number": "042",
         "countryCode": "KR",
         "destination": "Republic of Korea",
         "letterPost": {
@@ -72,7 +69,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory). Items will not be handed directly to addressees in the following area. Affected area: Daegu"
     },
     {
-        "number": "135",
         "countryCode": "PH",
         "destination": "Philippines",
         "letterPost": {
@@ -98,7 +94,6 @@
         "notification": "International mail processing centers are operating with a skeleton workforce in order to accept inbound mail items. Therefore, delivery delays will be experienced in the country (territory). Only postal items containing cheques or medical supplies will be delivered to quarantine areas."
     },
     {
-        "number": "037.3",
         "countryCode": "TW",
         "destination": "Taiwan",
         "letterPost": {
@@ -120,7 +115,6 @@
         "notification": ""
     },
     {
-        "number": "037.1",
         "countryCode": "HK",
         "destination": "Hong Kong",
         "letterPost": {
@@ -142,7 +136,6 @@
         "notification": ""
     },
     {
-        "number": "013",
         "countryCode": "AU",
         "destination": "Australia",
         "letterPost": {
@@ -168,7 +161,6 @@
         "notification": "Considerable delays will be experienced in the delivery of mail items in the country (territory). and items will not be handed directly to addressees."
     },
     {
-        "number": "165",
         "countryCode": "TH",
         "destination": "Thailand",
         "letterPost": {
@@ -190,7 +182,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "065",
         "countryCode": "GB",
         "destination": "United Kingdom of Great Britain and Northern Ireland",
         "letterPost": {
@@ -214,7 +205,6 @@
         "notification": ""
     },
     {
-        "number": "151",
         "countryCode": "SG",
         "destination": "Singapore",
         "letterPost": {
@@ -236,7 +226,6 @@
         "notification": "Items will not be handed directly to addressees, so writing the addressee's phone number on the item is recommended."
     },
     {
-        "number": "082",
         "countryCode": "IS",
         "destination": "Iceland",
         "letterPost": {
@@ -258,7 +247,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "081",
         "countryCode": "IE",
         "destination": "Ireland",
         "letterPost": {
@@ -282,7 +270,6 @@
         "notification": "Items will not be handed directly to addressees."
     },
     {
-        "number": "015",
         "countryCode": "AZ",
         "destination": "Azerbaijan",
         "letterPost": {
@@ -306,7 +293,6 @@
         "notification": ""
     },
     {
-        "number": "066.2",
         "countryCode": "SH",
         "destination": "Ascension",
         "letterPost": {
@@ -328,7 +314,6 @@
         "notification": ""
     },
     {
-        "number": "001",
         "countryCode": "AF",
         "destination": "Afghanistan",
         "letterPost": {
@@ -350,7 +335,6 @@
         "notification": ""
     },
     {
-        "number": "053",
         "countryCode": "AE",
         "destination": "United Arab Emirates",
         "letterPost": {
@@ -372,7 +356,6 @@
         "notification": ""
     },
     {
-        "number": "004",
         "countryCode": "DZ",
         "destination": "Algeria",
         "letterPost": {
@@ -396,7 +379,6 @@
         "notification": ""
     },
     {
-        "number": "011",
         "countryCode": "AR",
         "destination": "Argentina",
         "letterPost": {
@@ -420,7 +402,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "133.1",
         "countryCode": "AW",
         "destination": "Aruba",
         "letterPost": {
@@ -442,7 +423,6 @@
         "notification": ""
     },
     {
-        "number": "003",
         "countryCode": "AL",
         "destination": "Albania",
         "letterPost": {
@@ -466,7 +446,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "012",
         "countryCode": "AM",
         "destination": "Armenia",
         "letterPost": {
@@ -488,7 +467,6 @@
         "notification": "Considerable delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "066.1",
         "countryCode": "AI",
         "destination": "Anguilla",
         "letterPost": {
@@ -510,7 +488,6 @@
         "notification": ""
     },
     {
-        "number": "008",
         "countryCode": "AO",
         "destination": "Angola",
         "letterPost": {
@@ -532,7 +509,6 @@
         "notification": ""
     },
     {
-        "number": "009",
         "countryCode": "AG",
         "destination": "Antigua and Barbuda",
         "letterPost": {
@@ -556,7 +532,6 @@
         "notification": ""
     },
     {
-        "number": "060",
         "countryCode": "AD",
         "destination": "Andorra",
         "letterPost": {
@@ -578,7 +553,6 @@
         "notification": ""
     },
     {
-        "number": "180",
         "countryCode": "YE",
         "destination": "Yemen",
         "letterPost": {
@@ -600,7 +574,6 @@
         "notification": ""
     },
     {
-        "number": "083",
         "countryCode": "IL",
         "destination": "Israel",
         "letterPost": {
@@ -624,7 +597,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees, so writing the addressee's mobile phone number on the item is recommended."
     },
     {
-        "number": "084",
         "countryCode": "IT",
         "destination": "Italy",
         "letterPost": {
@@ -650,7 +622,6 @@
         "notification": "Loading mail items onto airplanes is expected to take about 1 month due to the shortage of cargo space caused by the reduction of flights.Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "080",
         "countryCode": "IQ",
         "destination": "Iraq",
         "letterPost": {
@@ -674,7 +645,6 @@
         "notification": ""
     },
     {
-        "number": "079",
         "countryCode": "IR",
         "destination": "Iran",
         "letterPost": {
@@ -698,7 +668,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "077",
         "countryCode": "IN",
         "destination": "India",
         "letterPost": {
@@ -720,7 +689,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "078",
         "countryCode": "ID",
         "destination": "Indonesia",
         "letterPost": {
@@ -742,7 +710,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "007.1",
         "countryCode": "UM",
         "destination": "Wake Island",
         "letterPost": {
@@ -766,7 +733,6 @@
         "notification": ""
     },
     {
-        "number": "126",
         "countryCode": "UG",
         "destination": "Uganda",
         "letterPost": {
@@ -790,7 +756,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "174",
         "countryCode": "UA",
         "destination": "Ukraine",
         "letterPost": {
@@ -817,7 +782,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "127",
         "countryCode": "UZ",
         "destination": "Uzbekistan",
         "letterPost": {
@@ -841,7 +805,6 @@
         "notification": ""
     },
     {
-        "number": "175",
         "countryCode": "UY",
         "destination": "Uruguay",
         "letterPost": {
@@ -863,7 +826,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "066.14",
         "countryCode": "VG",
         "destination": "British Virgin Islands",
         "letterPost": {
@@ -885,7 +847,6 @@
         "notification": "Postal services are partially suspended in the country (territory)."
     },
     {
-        "number": "054",
         "countryCode": "EC",
         "destination": "Ecuador",
         "letterPost": {
@@ -907,7 +868,6 @@
         "notification": "Postal services are partially suspended in the country (territory)."
     },
     {
-        "number": "051",
         "countryCode": "EG",
         "destination": "Egypt",
         "letterPost": {
@@ -929,7 +889,6 @@
         "notification": ""
     },
     {
-        "number": "056",
         "countryCode": "EE",
         "destination": "Estonia",
         "letterPost": {
@@ -953,7 +912,6 @@
         "notification": "Items will not be handed directly to addressees."
     },
     {
-        "number": "056-2",
         "countryCode": "SZ",
         "destination": "Eswatini",
         "letterPost": {
@@ -975,7 +933,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "057",
         "countryCode": "ET",
         "destination": "Ethiopia",
         "letterPost": {
@@ -999,7 +956,6 @@
         "notification": ""
     },
     {
-        "number": "054-2",
         "countryCode": "ER",
         "destination": "Eritrea",
         "letterPost": {
@@ -1021,7 +977,6 @@
         "notification": ""
     },
     {
-        "number": "052",
         "countryCode": "SV",
         "destination": "El Salvador",
         "letterPost": {
@@ -1043,7 +998,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "014",
         "countryCode": "AT",
         "destination": "Austria",
         "letterPost": {
@@ -1069,7 +1023,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "125",
         "countryCode": "OM",
         "destination": "Oman",
         "letterPost": {
@@ -1093,7 +1046,6 @@
         "notification": ""
     },
     {
-        "number": "132",
         "countryCode": "NL",
         "destination": "Netherlands",
         "letterPost": {
@@ -1115,7 +1067,6 @@
         "notification": "Items will not be handed directly to addressees."
     },
     {
-        "number": "133.4",
         "countryCode": "NL",
         "destination": "Bonaire, Saba and Sint Eustatius",
         "letterPost": {
@@ -1137,7 +1088,6 @@
         "notification": ""
     },
     {
-        "number": "064",
         "countryCode": "GH",
         "destination": "Ghana",
         "letterPost": {
@@ -1159,7 +1109,6 @@
         "notification": ""
     },
     {
-        "number": "034",
         "countryCode": "CV",
         "destination": "Cape Verde",
         "letterPost": {
@@ -1181,7 +1130,6 @@
         "notification": ""
     },
     {
-        "number": "065",
         "countryCode": "GG",
         "destination": "Guernsey",
         "letterPost": {
@@ -1203,7 +1151,6 @@
         "notification": ""
     },
     {
-        "number": "073",
         "countryCode": "GY",
         "destination": "Guyana",
         "letterPost": {
@@ -1225,7 +1172,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "089",
         "countryCode": "KZ",
         "destination": "Kazakhstan",
         "letterPost": {
@@ -1249,7 +1195,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "138",
         "countryCode": "QA",
         "destination": "Qatar",
         "letterPost": {
@@ -1273,7 +1218,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "060.1.1",
         "countryCode": "GP",
         "destination": "Guadeloupe",
         "letterPost": {
@@ -1295,7 +1239,6 @@
         "notification": ""
     },
     {
-        "number": "033",
         "countryCode": "CA",
         "destination": "Canada",
         "letterPost": {
@@ -1315,13 +1258,12 @@
                 "Among Air items, only some letter-post items are accepted. Check \"Acceptance\/non-acceptance of international mail to the United States, etc.\" for details."
             ],
             "delays": [
-                "Loading mail items onto airplanes and ships is expected to take considerable time due to the shortage of cargo space caused by the reduced number of flights and sailings. Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+                "Loading mail items onto airplanes and ships is expected to take considerable time due to the shortage of cargo space caused by the reduced number of flights and sailings.Airmail items especially to addresses with postal codes starting from V to Y (British Columbia, Nunavut, Northwest Territories and Yukon) may be delayed."
             ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "061",
         "countryCode": "GA",
         "destination": "Gabon",
         "letterPost": {
@@ -1346,7 +1288,6 @@
         "notification": ""
     },
     {
-        "number": "032",
         "countryCode": "CM",
         "destination": "Cameroon",
         "letterPost": {
@@ -1368,7 +1309,6 @@
         "notification": ""
     },
     {
-        "number": "062",
         "countryCode": "GM",
         "destination": "Gambia",
         "letterPost": {
@@ -1390,7 +1330,6 @@
         "notification": ""
     },
     {
-        "number": "088",
         "countryCode": "KH",
         "destination": "Cambodia",
         "letterPost": {
@@ -1412,7 +1351,6 @@
         "notification": ""
     },
     {
-        "number": "139",
         "countryCode": "KP",
         "destination": "North Korea",
         "letterPost": {
@@ -1434,7 +1372,6 @@
         "notification": ""
     },
     {
-        "number": "101-2",
         "countryCode": "MK",
         "destination": "North Macedonia",
         "letterPost": {
@@ -1456,7 +1393,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "007.1",
         "countryCode": "MP",
         "destination": "Northern Mariana Islands",
         "letterPost": {
@@ -1482,7 +1418,6 @@
         "notification": ""
     },
     {
-        "number": "070",
         "countryCode": "GN",
         "destination": "Guinea",
         "letterPost": {
@@ -1504,7 +1439,6 @@
         "notification": ""
     },
     {
-        "number": "071",
         "countryCode": "GW",
         "destination": "Guinea-Bissau",
         "letterPost": {
@@ -1526,7 +1460,6 @@
         "notification": ""
     },
     {
-        "number": "038",
         "countryCode": "CY",
         "destination": "Cyprus",
         "letterPost": {
@@ -1550,7 +1483,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "046",
         "countryCode": "CU",
         "destination": "Cuba",
         "letterPost": {
@@ -1572,7 +1504,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "133.2",
         "countryCode": "CW",
         "destination": "Curacao",
         "letterPost": {
@@ -1594,7 +1525,6 @@
         "notification": "Items will not be handed directly to addressees."
     },
     {
-        "number": "067",
         "countryCode": "GR",
         "destination": "Greece",
         "letterPost": {
@@ -1616,7 +1546,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "092",
         "countryCode": "KI",
         "destination": "Kiribati",
         "letterPost": {
@@ -1638,7 +1567,6 @@
         "notification": ""
     },
     {
-        "number": "091",
         "countryCode": "KG",
         "destination": "Kyrgyz",
         "letterPost": {
@@ -1662,7 +1590,6 @@
         "notification": ""
     },
     {
-        "number": "069",
         "countryCode": "GT",
         "destination": "Guatemala",
         "letterPost": {
@@ -1684,7 +1611,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "007.1",
         "countryCode": "GU",
         "destination": "Guam",
         "letterPost": {
@@ -1712,7 +1638,6 @@
         "notification": ""
     },
     {
-        "number": "093",
         "countryCode": "KW",
         "destination": "Kuwait",
         "letterPost": {
@@ -1736,7 +1661,6 @@
         "notification": ""
     },
     {
-        "number": "124.1",
         "countryCode": "CK",
         "destination": "Cook Islands",
         "letterPost": {
@@ -1760,7 +1684,6 @@
         "notification": ""
     },
     {
-        "number": "047.2",
         "countryCode": "GL",
         "destination": "Greenland",
         "letterPost": {
@@ -1784,7 +1707,6 @@
         "notification": ""
     },
     {
-        "number": "013.1",
         "countryCode": "CX",
         "destination": "Christmas Island",
         "letterPost": {
@@ -1806,7 +1728,6 @@
         "notification": ""
     },
     {
-        "number": "068",
         "countryCode": "GD",
         "destination": "Grenada",
         "letterPost": {
@@ -1828,7 +1749,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "045",
         "countryCode": "HR",
         "destination": "Croatia",
         "letterPost": {
@@ -1850,7 +1770,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory).Items will not be handed directly to addressees."
     },
     {
-        "number": "066.4",
         "countryCode": "KY",
         "destination": "Cayman Islands",
         "letterPost": {
@@ -1874,7 +1793,6 @@
         "notification": ""
     },
     {
-        "number": "090",
         "countryCode": "KE",
         "destination": "Kenya",
         "letterPost": {
@@ -1898,7 +1816,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "044",
         "countryCode": "CI",
         "destination": "Ivory Coast",
         "letterPost": {
@@ -1922,7 +1839,6 @@
         "notification": ""
     },
     {
-        "number": "013.2",
         "countryCode": "CC",
         "destination": "Cocos (Keeling) Islands",
         "letterPost": {
@@ -1944,7 +1860,6 @@
         "notification": ""
     },
     {
-        "number": "043",
         "countryCode": "CR",
         "destination": "Costa Rica",
         "letterPost": {
@@ -1966,7 +1881,6 @@
         "notification": "Items will not be handed directly to addressees."
     },
     {
-        "number": "92-2",
         "countryCode": "XK",
         "destination": "Kosovo",
         "letterPost": {
@@ -1990,7 +1904,6 @@
         "notification": ""
     },
     {
-        "number": "040",
         "countryCode": "KM",
         "destination": "Comoros Islands",
         "letterPost": {
@@ -2012,7 +1925,6 @@
         "notification": ""
     },
     {
-        "number": "039",
         "countryCode": "CO",
         "destination": "Colombia",
         "letterPost": {
@@ -2036,7 +1948,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "041",
         "countryCode": "CG",
         "destination": "Congo",
         "letterPost": {
@@ -2062,7 +1973,6 @@
         "notification": ""
     },
     {
-        "number": "138-2",
         "countryCode": "CD",
         "destination": "The Democratic Republic of the Congo",
         "letterPost": {
@@ -2084,7 +1994,6 @@
         "notification": ""
     },
     {
-        "number": "007.1",
         "countryCode": "MP",
         "destination": "Saipan",
         "letterPost": {
@@ -2110,7 +2019,6 @@
         "notification": ""
     },
     {
-        "number": "010",
         "countryCode": "SA",
         "destination": "Saudi Arabia",
         "letterPost": {
@@ -2132,7 +2040,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "124-2",
         "countryCode": "WS",
         "destination": "Independent State of Samoa",
         "letterPost": {
@@ -2154,7 +2061,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "147",
         "countryCode": "ST",
         "destination": "Sao Tome and Principe",
         "letterPost": {
@@ -2176,7 +2082,6 @@
         "notification": ""
     },
     {
-        "number": "183",
         "countryCode": "ZM",
         "destination": "Zambia",
         "letterPost": {
@@ -2198,7 +2103,6 @@
         "notification": ""
     },
     {
-        "number": "060.1.5",
         "countryCode": "PM",
         "destination": "St. Pierre and Miquelon",
         "letterPost": {
@@ -2220,7 +2124,6 @@
         "notification": ""
     },
     {
-        "number": "144",
         "countryCode": "SM",
         "destination": "San Marino",
         "letterPost": {
@@ -2244,7 +2147,6 @@
         "notification": ""
     },
     {
-        "number": "150",
         "countryCode": "SL",
         "destination": "Sierra Leone",
         "letterPost": {
@@ -2266,7 +2168,6 @@
         "notification": ""
     },
     {
-        "number": "048",
         "countryCode": "DJ",
         "destination": "Djibouti",
         "letterPost": {
@@ -2288,7 +2189,6 @@
         "notification": ""
     },
     {
-        "number": "066.6",
         "countryCode": "GI",
         "destination": "Gibraltar",
         "letterPost": {
@@ -2310,7 +2210,6 @@
         "notification": ""
     },
     {
-        "number": "065",
         "countryCode": "JE",
         "destination": "Jersey",
         "letterPost": {
@@ -2332,7 +2231,6 @@
         "notification": ""
     },
     {
-        "number": "086",
         "countryCode": "JM",
         "destination": "Jamaica",
         "letterPost": {
@@ -2354,7 +2252,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "063",
         "countryCode": "GE",
         "destination": "Georgia",
         "letterPost": {
@@ -2376,7 +2273,6 @@
         "notification": "Considerable delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "160",
         "countryCode": "SY",
         "destination": "Syria",
         "letterPost": {
@@ -2398,7 +2294,6 @@
         "notification": ""
     },
     {
-        "number": "133.3",
         "countryCode": "SX",
         "destination": "Saint Maarten",
         "letterPost": {
@@ -2420,7 +2315,6 @@
         "notification": ""
     },
     {
-        "number": "184",
         "countryCode": "ZW",
         "destination": "Zimbabwe",
         "letterPost": {
@@ -2442,7 +2336,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "157",
         "countryCode": "CH",
         "destination": "Switzerland",
         "letterPost": {
@@ -2466,7 +2359,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "156",
         "countryCode": "SE",
         "destination": "Sweden",
         "letterPost": {
@@ -2488,7 +2380,6 @@
         "notification": "Items will not be handed directly to addressees."
     },
     {
-        "number": "154",
         "countryCode": "SD",
         "destination": "Sudan",
         "letterPost": {
@@ -2514,7 +2405,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "055",
         "countryCode": "ES",
         "destination": "Spain",
         "letterPost": {
@@ -2538,7 +2428,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "158",
         "countryCode": "SR",
         "destination": "Suriname",
         "letterPost": {
@@ -2560,7 +2449,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "155",
         "countryCode": "LK",
         "destination": "Sri Lanka",
         "letterPost": {
@@ -2582,7 +2470,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "151-2",
         "countryCode": "SK",
         "destination": "Slovakia",
         "letterPost": {
@@ -2604,7 +2491,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "152",
         "countryCode": "SI",
         "destination": "Slovenia",
         "letterPost": {
@@ -2626,7 +2512,6 @@
         "notification": "Items will not be handed directly to addressees."
     },
     {
-        "number": "149",
         "countryCode": "SC",
         "destination": "Seychelles",
         "letterPost": {
@@ -2648,7 +2533,6 @@
         "notification": ""
     },
     {
-        "number": "072",
         "countryCode": "GQ",
         "destination": "Equatorial Guinea",
         "letterPost": {
@@ -2670,7 +2554,6 @@
         "notification": ""
     },
     {
-        "number": "148",
         "countryCode": "SN",
         "destination": "Senegal",
         "letterPost": {
@@ -2692,7 +2575,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "181",
         "countryCode": "RS",
         "destination": "Serbia",
         "letterPost": {
@@ -2716,7 +2598,6 @@
         "notification": ""
     },
     {
-        "number": "066.11",
         "countryCode": "SH",
         "destination": "St. Helena",
         "letterPost": {
@@ -2738,7 +2619,6 @@
         "notification": ""
     },
     {
-        "number": "066.10",
         "countryCode": "KN",
         "destination": "Saint Christopher and Nevis",
         "letterPost": {
@@ -2762,7 +2642,6 @@
         "notification": ""
     },
     {
-        "number": "145",
         "countryCode": "VC",
         "destination": "Saint Vincent",
         "letterPost": {
@@ -2784,7 +2663,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "143",
         "countryCode": "LC",
         "destination": "Saint Lucia",
         "letterPost": {
@@ -2806,7 +2684,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "153",
         "countryCode": "SO",
         "destination": "Somalia",
         "letterPost": {
@@ -2828,7 +2705,6 @@
         "notification": ""
     },
     {
-        "number": "146",
         "countryCode": "SB",
         "destination": "Solomon Islands",
         "letterPost": {
@@ -2852,7 +2728,6 @@
         "notification": ""
     },
     {
-        "number": "066.13",
         "countryCode": "TC",
         "destination": "Turks and Caicos",
         "letterPost": {
@@ -2874,7 +2749,6 @@
         "notification": ""
     },
     {
-        "number": "161",
         "countryCode": "TJ",
         "destination": "Tajikistan",
         "letterPost": {
@@ -2898,7 +2772,6 @@
         "notification": ""
     },
     {
-        "number": "162",
         "countryCode": "TZ",
         "destination": "Tanzania (United Rep.)",
         "letterPost": {
@@ -2922,7 +2795,6 @@
         "notification": ""
     },
     {
-        "number": "164",
         "countryCode": "CZ",
         "destination": "Czech Republic",
         "letterPost": {
@@ -2946,7 +2818,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees. Services are suspended at post offices in areas shut down due to COVID-19."
     },
     {
-        "number": "163",
         "countryCode": "TD",
         "destination": "Chad",
         "letterPost": {
@@ -2968,7 +2839,6 @@
         "notification": ""
     },
     {
-        "number": "035",
         "countryCode": "CF",
         "destination": "Central Africa",
         "letterPost": {
@@ -2990,7 +2860,6 @@
         "notification": ""
     },
     {
-        "number": "170",
         "countryCode": "TN",
         "destination": "Tunisia",
         "letterPost": {
@@ -3012,7 +2881,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "036",
         "countryCode": "CL",
         "destination": "Chile",
         "letterPost": {
@@ -3034,7 +2902,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "173",
         "countryCode": "TV",
         "destination": "Tuvalu",
         "letterPost": {
@@ -3056,7 +2923,6 @@
         "notification": ""
     },
     {
-        "number": "047",
         "countryCode": "DK",
         "destination": "Denmark",
         "letterPost": {
@@ -3080,7 +2946,6 @@
         "notification": "Items will not be handed directly to addressees."
     },
     {
-        "number": "005",
         "countryCode": "DE",
         "destination": "Germany",
         "letterPost": {
@@ -3104,7 +2969,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "167",
         "countryCode": "TG",
         "destination": "Togo",
         "letterPost": {
@@ -3126,7 +2990,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "050",
         "countryCode": "DO",
         "destination": "Dominica",
         "letterPost": {
@@ -3148,7 +3011,6 @@
         "notification": ""
     },
     {
-        "number": "049",
         "countryCode": "DO",
         "destination": "Dominican Republic",
         "letterPost": {
@@ -3170,7 +3032,6 @@
         "notification": ""
     },
     {
-        "number": "066.12",
         "countryCode": "SH",
         "destination": "Tristan da Cunha",
         "letterPost": {
@@ -3192,7 +3053,6 @@
         "notification": ""
     },
     {
-        "number": "169",
         "countryCode": "TT",
         "destination": "Trinidad and Tobago",
         "letterPost": {
@@ -3214,7 +3074,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "171",
         "countryCode": "TM",
         "destination": "Turkmenistan",
         "letterPost": {
@@ -3236,7 +3095,6 @@
         "notification": ""
     },
     {
-        "number": "172",
         "countryCode": "TR",
         "destination": "Turkey",
         "letterPost": {
@@ -3258,7 +3116,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "168",
         "countryCode": "TO",
         "destination": "Tonga",
         "letterPost": {
@@ -3280,7 +3137,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "122",
         "countryCode": "NG",
         "destination": "Nigeria",
         "letterPost": {
@@ -3302,7 +3158,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "118",
         "countryCode": "NR",
         "destination": "Nauru",
         "letterPost": {
@@ -3324,7 +3179,6 @@
         "notification": ""
     },
     {
-        "number": "117",
         "countryCode": "NA",
         "destination": "Namibia",
         "letterPost": {
@@ -3346,7 +3200,6 @@
         "notification": ""
     },
     {
-        "number": "060.2.4",
         "countryCode": "TF",
         "destination": "French Southern and Antarctic Territories",
         "letterPost": {
@@ -3368,7 +3221,6 @@
         "notification": ""
     },
     {
-        "number": "120",
         "countryCode": "NI",
         "destination": "Nicaragua",
         "letterPost": {
@@ -3390,7 +3242,6 @@
         "notification": ""
     },
     {
-        "number": "121",
         "countryCode": "NE",
         "destination": "Niger",
         "letterPost": {
@@ -3414,7 +3265,6 @@
         "notification": ""
     },
     {
-        "number": "60.2.1",
         "countryCode": "NC",
         "destination": "New Caledonia",
         "letterPost": {
@@ -3436,7 +3286,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "124",
         "countryCode": "NZ",
         "destination": "New Zealand",
         "letterPost": {
@@ -3462,7 +3311,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "119",
         "countryCode": "NP",
         "destination": "Nepal",
         "letterPost": {
@@ -3486,7 +3334,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "013.3",
         "countryCode": "NF",
         "destination": "Norfolk Island",
         "letterPost": {
@@ -3508,7 +3355,6 @@
         "notification": ""
     },
     {
-        "number": "123",
         "countryCode": "NO",
         "destination": "Norway",
         "letterPost": {
@@ -3532,7 +3378,6 @@
         "notification": ""
     },
     {
-        "number": "066.3",
         "countryCode": "BM",
         "destination": "Bermuda",
         "letterPost": {
@@ -3554,7 +3399,6 @@
         "notification": ""
     },
     {
-        "number": "017",
         "countryCode": "BH",
         "destination": "Bahrain",
         "letterPost": {
@@ -3576,7 +3420,6 @@
         "notification": ""
     },
     {
-        "number": "074",
         "countryCode": "HT",
         "destination": "Haiti",
         "letterPost": {
@@ -3598,7 +3441,6 @@
         "notification": ""
     },
     {
-        "number": "128",
         "countryCode": "PK",
         "destination": "Pakistan",
         "letterPost": {
@@ -3624,7 +3466,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "177",
         "countryCode": "VA",
         "destination": "Vatican",
         "letterPost": {
@@ -3648,7 +3489,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "129",
         "countryCode": "PA",
         "destination": "Panama",
         "letterPost": {
@@ -3670,7 +3510,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "176",
         "countryCode": "VU",
         "destination": "Vanuatu",
         "letterPost": {
@@ -3692,7 +3531,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "016",
         "countryCode": "BS",
         "destination": "Bahamas",
         "letterPost": {
@@ -3714,7 +3552,6 @@
         "notification": ""
     },
     {
-        "number": "130",
         "countryCode": "PG",
         "destination": "Papua New Guinea",
         "letterPost": {
@@ -3738,7 +3575,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "128-2",
         "countryCode": "PW",
         "destination": "Palau",
         "letterPost": {
@@ -3764,7 +3600,6 @@
         "notification": ""
     },
     {
-        "number": "131",
         "countryCode": "PY",
         "destination": "Paraguay",
         "letterPost": {
@@ -3786,7 +3621,6 @@
         "notification": ""
     },
     {
-        "number": "019",
         "countryCode": "BB",
         "destination": "Barbados",
         "letterPost": {
@@ -3808,7 +3642,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "076",
         "countryCode": "HU",
         "destination": "Hungary",
         "letterPost": {
@@ -3832,7 +3665,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "018",
         "countryCode": "BD",
         "destination": "Bangladesh",
         "letterPost": {
@@ -3854,7 +3686,6 @@
         "notification": ""
     },
     {
-        "number": "166",
         "countryCode": "TL",
         "destination": "East Timor",
         "letterPost": {
@@ -3876,7 +3707,6 @@
         "notification": ""
     },
     {
-        "number": "066.9",
         "countryCode": "PN",
         "destination": "Pitcairn",
         "letterPost": {
@@ -3898,7 +3728,6 @@
         "notification": ""
     },
     {
-        "number": "058",
         "countryCode": "FJ",
         "destination": "Fiji",
         "letterPost": {
@@ -3920,7 +3749,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "059",
         "countryCode": "FI",
         "destination": "Finland",
         "letterPost": {
@@ -3944,7 +3772,6 @@
         "notification": ""
     },
     {
-        "number": "024",
         "countryCode": "BT",
         "destination": "Bhutan",
         "letterPost": {
@@ -3968,7 +3795,6 @@
         "notification": "Considerable delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "007.2",
         "countryCode": "PR",
         "destination": "Puerto Rico",
         "letterPost": {
@@ -3992,7 +3818,6 @@
         "notification": ""
     },
     {
-        "number": "047.1",
         "countryCode": "FO",
         "destination": "Faroe Islands",
         "letterPost": {
@@ -4016,7 +3841,6 @@
         "notification": ""
     },
     {
-        "number": "066.5",
         "countryCode": "FK",
         "destination": "Falkland",
         "letterPost": {
@@ -4038,7 +3862,6 @@
         "notification": ""
     },
     {
-        "number": "060.1.2",
         "countryCode": "GF",
         "destination": "French Guiana",
         "letterPost": {
@@ -4060,7 +3883,6 @@
         "notification": ""
     },
     {
-        "number": "060.2.2",
         "countryCode": "PF",
         "destination": "French Polynesia",
         "letterPost": {
@@ -4082,7 +3904,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "027",
         "countryCode": "BR",
         "destination": "Brazil",
         "letterPost": {
@@ -4104,7 +3925,6 @@
         "notification": "Considerable delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "060",
         "countryCode": "FR",
         "destination": "France",
         "letterPost": {
@@ -4128,7 +3948,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "029",
         "countryCode": "BG",
         "destination": "Bulgaria",
         "letterPost": {
@@ -4150,7 +3969,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "030",
         "countryCode": "BF",
         "destination": "Burkina Faso",
         "letterPost": {
@@ -4172,7 +3990,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "028",
         "countryCode": "BN",
         "destination": "Brunei",
         "letterPost": {
@@ -4196,7 +4013,6 @@
         "notification": ""
     },
     {
-        "number": "031",
         "countryCode": "BI",
         "destination": "Burundi",
         "letterPost": {
@@ -4218,7 +4034,6 @@
         "notification": ""
     },
     {
-        "number": "007.2",
         "countryCode": "VI",
         "destination": "Virgin Islands",
         "letterPost": {
@@ -4242,7 +4057,6 @@
         "notification": ""
     },
     {
-        "number": "007.2",
         "countryCode": "AS",
         "destination": "American Samoa",
         "letterPost": {
@@ -4266,7 +4080,6 @@
         "notification": ""
     },
     {
-        "number": "179",
         "countryCode": "VN",
         "destination": "Viet Nam",
         "letterPost": {
@@ -4288,7 +4101,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "023",
         "countryCode": "BJ",
         "destination": "Benin",
         "letterPost": {
@@ -4312,7 +4124,6 @@
         "notification": ""
     },
     {
-        "number": "178",
         "countryCode": "VE",
         "destination": "Venezuela",
         "letterPost": {
@@ -4334,7 +4145,6 @@
         "notification": ""
     },
     {
-        "number": "020",
         "countryCode": "BY",
         "destination": "Belarus",
         "letterPost": {
@@ -4358,7 +4168,6 @@
         "notification": ""
     },
     {
-        "number": "022",
         "countryCode": "BZ",
         "destination": "Belize",
         "letterPost": {
@@ -4380,7 +4189,6 @@
         "notification": ""
     },
     {
-        "number": "134",
         "countryCode": "PE",
         "destination": "Peru",
         "letterPost": {
@@ -4402,7 +4210,6 @@
         "notification": ""
     },
     {
-        "number": "021",
         "countryCode": "BE",
         "destination": "Belgium",
         "letterPost": {
@@ -4426,7 +4233,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "136",
         "countryCode": "PL",
         "destination": "Poland",
         "letterPost": {
@@ -4450,7 +4256,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "025-2",
         "countryCode": "BA",
         "destination": "Bosnia and Herzegovina",
         "letterPost": {
@@ -4474,7 +4279,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "185",
         "countryCode": "JP",
         "destination": "North Islands",
         "letterPost": {
@@ -4498,7 +4302,6 @@
         "notification": ""
     },
     {
-        "number": "026",
         "countryCode": "BW",
         "destination": "Botswana",
         "letterPost": {
@@ -4520,7 +4323,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "025",
         "countryCode": "BO",
         "destination": "Bolivia",
         "letterPost": {
@@ -4542,7 +4344,6 @@
         "notification": ""
     },
     {
-        "number": "137",
         "countryCode": "PT",
         "destination": "Portugal",
         "letterPost": {
@@ -4564,7 +4365,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "075",
         "countryCode": "HN",
         "destination": "Honduras",
         "letterPost": {
@@ -4586,7 +4386,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "108-2",
         "countryCode": "MH",
         "destination": "Marshall Islands",
         "letterPost": {
@@ -4614,7 +4413,6 @@
         "notification": ""
     },
     {
-        "number": "037.2",
         "countryCode": "MO",
         "destination": "Macao",
         "letterPost": {
@@ -4636,7 +4434,6 @@
         "notification": ""
     },
     {
-        "number": "102",
         "countryCode": "MG",
         "destination": "Madagascar",
         "letterPost": {
@@ -4658,7 +4455,6 @@
         "notification": ""
     },
     {
-        "number": "104",
         "countryCode": "MW",
         "destination": "Malawi",
         "letterPost": {
@@ -4680,7 +4476,6 @@
         "notification": "Postal services are partially suspended in the country (territory)."
     },
     {
-        "number": "106",
         "countryCode": "ML",
         "destination": "Mali",
         "letterPost": {
@@ -4702,7 +4497,6 @@
         "notification": ""
     },
     {
-        "number": "107",
         "countryCode": "MT",
         "destination": "Malta",
         "letterPost": {
@@ -4726,7 +4520,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "060.1.3",
         "countryCode": "MQ",
         "destination": "Martinique",
         "letterPost": {
@@ -4748,7 +4541,6 @@
         "notification": ""
     },
     {
-        "number": "103",
         "countryCode": "MY",
         "destination": "Malaysia",
         "letterPost": {
@@ -4770,7 +4562,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees. Delivery service is suspended to premises or areas shut down due to COVID-19."
     },
     {
-        "number": "065",
         "countryCode": "IM",
         "destination": "Isle of Man",
         "letterPost": {
@@ -4792,7 +4583,6 @@
         "notification": ""
     },
     {
-        "number": "111-2",
         "countryCode": "FM",
         "destination": "Federated States of Micronesia",
         "letterPost": {
@@ -4820,7 +4610,6 @@
         "notification": ""
     },
     {
-        "number": "007.1",
         "countryCode": "UM",
         "destination": "Midway Islands",
         "letterPost": {
@@ -4844,7 +4633,6 @@
         "notification": ""
     },
     {
-        "number": "002",
         "countryCode": "ZA",
         "destination": "South Africa",
         "letterPost": {
@@ -4866,7 +4654,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "154-2",
         "countryCode": "SS",
         "destination": "South Sudan",
         "letterPost": {
@@ -4888,7 +4675,6 @@
         "notification": ""
     },
     {
-        "number": "116",
         "countryCode": "MM",
         "destination": "Myanmar",
         "letterPost": {
@@ -4912,7 +4698,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "111",
         "countryCode": "MX",
         "destination": "Mexico",
         "letterPost": {
@@ -4929,12 +4714,13 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Loading items onto airplanes is expected to take about two to three weeks due to the shortage of loading space caused by the reduction of flights."
+            ]
         },
         "notification": "Considerable delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "109",
         "countryCode": "MU",
         "destination": "Mauritius",
         "letterPost": {
@@ -4956,7 +4742,6 @@
         "notification": "Considerable delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "110",
         "countryCode": "MR",
         "destination": "Mauritania",
         "letterPost": {
@@ -4978,7 +4763,6 @@
         "notification": "Acceptance of inbound mail items is suspended."
     },
     {
-        "number": "115",
         "countryCode": "MZ",
         "destination": "Mozambique",
         "letterPost": {
@@ -5004,7 +4788,6 @@
         "notification": ""
     },
     {
-        "number": "113",
         "countryCode": "MC",
         "destination": "Monaco",
         "letterPost": {
@@ -5026,7 +4809,6 @@
         "notification": ""
     },
     {
-        "number": "105",
         "countryCode": "MV",
         "destination": "Maldives",
         "letterPost": {
@@ -5050,7 +4832,6 @@
         "notification": ""
     },
     {
-        "number": "112",
         "countryCode": "MD",
         "destination": "Moldova",
         "letterPost": {
@@ -5074,7 +4855,6 @@
         "notification": ""
     },
     {
-        "number": "108",
         "countryCode": "MA",
         "destination": "Morocco",
         "letterPost": {
@@ -5098,7 +4878,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "114",
         "countryCode": "MN",
         "destination": "Mongolia",
         "letterPost": {
@@ -5120,7 +4899,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "114-2",
         "countryCode": "ME",
         "destination": "Montenegro",
         "letterPost": {
@@ -5144,7 +4922,6 @@
         "notification": ""
     },
     {
-        "number": "066.8",
         "countryCode": "MS",
         "destination": "Montserrat",
         "letterPost": {
@@ -5166,7 +4943,6 @@
         "notification": ""
     },
     {
-        "number": "087",
         "countryCode": "JO",
         "destination": "Jordan",
         "letterPost": {
@@ -5190,7 +4966,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "094",
         "countryCode": "LA",
         "destination": "Lao People's Democratic Republic",
         "letterPost": {
@@ -5214,7 +4989,6 @@
         "notification": ""
     },
     {
-        "number": "096",
         "countryCode": "LV",
         "destination": "Latvia",
         "letterPost": {
@@ -5238,7 +5012,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "100",
         "countryCode": "LT",
         "destination": "Lithuania",
         "letterPost": {
@@ -5262,7 +5035,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
     {
-        "number": "085",
         "countryCode": "LY",
         "destination": "Libya",
         "letterPost": {
@@ -5284,7 +5056,6 @@
         "notification": ""
     },
     {
-        "number": "099",
         "countryCode": "LI",
         "destination": "Liechtenstein",
         "letterPost": {
@@ -5308,7 +5079,6 @@
         "notification": ""
     },
     {
-        "number": "098",
         "countryCode": "LR",
         "destination": "Liberia",
         "letterPost": {
@@ -5330,7 +5100,6 @@
         "notification": ""
     },
     {
-        "number": "140",
         "countryCode": "RO",
         "destination": "Romania",
         "letterPost": {
@@ -5354,7 +5123,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "101",
         "countryCode": "LU",
         "destination": "Luxembourg",
         "letterPost": {
@@ -5376,7 +5144,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees. Letter post delivery is temporarily suspended."
     },
     {
-        "number": "142",
         "countryCode": "RW",
         "destination": "Rwanda",
         "letterPost": {
@@ -5400,7 +5167,6 @@
         "notification": ""
     },
     {
-        "number": "095",
         "countryCode": "LS",
         "destination": "Lesotho",
         "letterPost": {
@@ -5422,7 +5188,6 @@
         "notification": ""
     },
     {
-        "number": "097",
         "countryCode": "LB",
         "destination": "Lebanon",
         "letterPost": {
@@ -5444,7 +5209,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "060.1.4",
         "countryCode": "RE",
         "destination": "Reunion",
         "letterPost": {
@@ -5466,7 +5230,6 @@
         "notification": ""
     },
     {
-        "number": "141",
         "countryCode": "RU",
         "destination": "Russian Federation",
         "letterPost": {
@@ -5492,7 +5255,6 @@
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
-        "number": "060.2.3",
         "countryCode": "WF",
         "destination": "Wallis and Futuna",
         "letterPost": {
