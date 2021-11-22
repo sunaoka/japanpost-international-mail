@@ -1,6 +1,5 @@
 [
     {
-        "number": "037",
         "countryCode": "CN",
         "destination": "中国",
         "letterPost": {
@@ -22,7 +21,6 @@
         "notification": "在主要机场采取了加强新冠病毒感染检疫的措施等，邮件配送会大幅延迟。"
     },
     {
-        "number": "006",
         "countryCode": "US",
         "destination": "美国",
         "letterPost": {
@@ -48,7 +46,6 @@
         "notification": "目前到达美国的邮件量突然增加，因此邮件配送在出现大幅延误。此外，邮件投递以非对面形式进行。"
     },
     {
-        "number": "042",
         "countryCode": "KR",
         "destination": "韩国",
         "letterPost": {
@@ -70,7 +67,6 @@
         "notification": "在该国家，快递的送达将发生延迟。 以下地区的配送将采取非见面无接触的方式等进行。 对象地区：Daegu（大邱）"
     },
     {
-        "number": "135",
         "countryCode": "PH",
         "destination": "菲律宾",
         "letterPost": {
@@ -96,7 +92,6 @@
         "notification": "国际交换局将以最低限度的人员来接收规定国家\/地区以外的快递，在该国家，快递的送达将发生延迟。 隔离地区仅配送内含支票、医药品等的快递。"
     },
     {
-        "number": "037.3",
         "countryCode": "TW",
         "destination": "台湾",
         "letterPost": {
@@ -118,7 +113,6 @@
         "notification": ""
     },
     {
-        "number": "037.1",
         "countryCode": "HK",
         "destination": "香港",
         "letterPost": {
@@ -140,7 +134,6 @@
         "notification": ""
     },
     {
-        "number": "013",
         "countryCode": "AU",
         "destination": "澳大利亚",
         "letterPost": {
@@ -166,7 +159,6 @@
         "notification": "在该国家，快递的送达将大幅度延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "165",
         "countryCode": "TH",
         "destination": "泰国",
         "letterPost": {
@@ -188,7 +180,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "065",
         "countryCode": "GB",
         "destination": "英国",
         "letterPost": {
@@ -212,7 +203,6 @@
         "notification": ""
     },
     {
-        "number": "151",
         "countryCode": "SG",
         "destination": "新加坡",
         "letterPost": {
@@ -234,7 +224,6 @@
         "notification": "配送将采取非见面无接触的方式等进行。因此，建议填写收件人的电话号码。"
     },
     {
-        "number": "082",
         "countryCode": "IS",
         "destination": "冰岛",
         "letterPost": {
@@ -256,7 +245,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "081",
         "countryCode": "IE",
         "destination": "爱尔兰",
         "letterPost": {
@@ -280,7 +268,6 @@
         "notification": "配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "015",
         "countryCode": "AZ",
         "destination": "阿塞拜疆",
         "letterPost": {
@@ -304,7 +291,6 @@
         "notification": ""
     },
     {
-        "number": "066.2",
         "countryCode": "SH",
         "destination": "阿森松",
         "letterPost": {
@@ -326,7 +312,6 @@
         "notification": ""
     },
     {
-        "number": "001",
         "countryCode": "AF",
         "destination": "阿富汗",
         "letterPost": {
@@ -348,7 +333,6 @@
         "notification": ""
     },
     {
-        "number": "053",
         "countryCode": "AE",
         "destination": "阿拉伯联合酋长国",
         "letterPost": {
@@ -370,7 +354,6 @@
         "notification": ""
     },
     {
-        "number": "004",
         "countryCode": "DZ",
         "destination": "阿尔及利亚",
         "letterPost": {
@@ -394,7 +377,6 @@
         "notification": ""
     },
     {
-        "number": "011",
         "countryCode": "AR",
         "destination": "阿根廷",
         "letterPost": {
@@ -418,7 +400,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "133.1",
         "countryCode": "AW",
         "destination": "阿鲁巴",
         "letterPost": {
@@ -440,7 +421,6 @@
         "notification": ""
     },
     {
-        "number": "003",
         "countryCode": "AL",
         "destination": "阿尔巴尼亚",
         "letterPost": {
@@ -464,7 +444,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "012",
         "countryCode": "AM",
         "destination": "亚美尼亚",
         "letterPost": {
@@ -486,7 +465,6 @@
         "notification": "在该国家，快递的送达将大幅度延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "066.1",
         "countryCode": "AI",
         "destination": "安圭拉",
         "letterPost": {
@@ -508,7 +486,6 @@
         "notification": ""
     },
     {
-        "number": "008",
         "countryCode": "AO",
         "destination": "安哥拉",
         "letterPost": {
@@ -530,7 +507,6 @@
         "notification": ""
     },
     {
-        "number": "009",
         "countryCode": "AG",
         "destination": "安提瓜和巴布达",
         "letterPost": {
@@ -554,7 +530,6 @@
         "notification": ""
     },
     {
-        "number": "060",
         "countryCode": "AD",
         "destination": "安道尔",
         "letterPost": {
@@ -576,7 +551,6 @@
         "notification": ""
     },
     {
-        "number": "180",
         "countryCode": "YE",
         "destination": "也门",
         "letterPost": {
@@ -598,7 +572,6 @@
         "notification": ""
     },
     {
-        "number": "083",
         "countryCode": "IL",
         "destination": "以色列",
         "letterPost": {
@@ -622,7 +595,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。因此，推荐您在快递单上填写收件人的手机号码。"
     },
     {
-        "number": "084",
         "countryCode": "IT",
         "destination": "意大利",
         "letterPost": {
@@ -648,7 +620,6 @@
         "notification": "由于航班的减少等因素导致货舱空间紧张，邮件到达该国家大约需要一个月的时间。在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "080",
         "countryCode": "IQ",
         "destination": "伊拉克",
         "letterPost": {
@@ -672,7 +643,6 @@
         "notification": ""
     },
     {
-        "number": "079",
         "countryCode": "IR",
         "destination": "伊朗",
         "letterPost": {
@@ -696,7 +666,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "077",
         "countryCode": "IN",
         "destination": "印度",
         "letterPost": {
@@ -718,7 +687,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "078",
         "countryCode": "ID",
         "destination": "印度尼西亚",
         "letterPost": {
@@ -740,7 +708,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "007.1",
         "countryCode": "UM",
         "destination": "威克岛",
         "letterPost": {
@@ -764,7 +731,6 @@
         "notification": ""
     },
     {
-        "number": "126",
         "countryCode": "UG",
         "destination": "乌干达",
         "letterPost": {
@@ -788,7 +754,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "174",
         "countryCode": "UA",
         "destination": "乌克兰",
         "letterPost": {
@@ -815,7 +780,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "127",
         "countryCode": "UZ",
         "destination": "乌兹别克斯坦",
         "letterPost": {
@@ -839,7 +803,6 @@
         "notification": ""
     },
     {
-        "number": "175",
         "countryCode": "UY",
         "destination": "乌拉圭",
         "letterPost": {
@@ -861,7 +824,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "066.14",
         "countryCode": "VG",
         "destination": "英属维京群岛",
         "letterPost": {
@@ -883,7 +845,6 @@
         "notification": "在该国家，部分寄件服务已暂停。"
     },
     {
-        "number": "054",
         "countryCode": "EC",
         "destination": "厄瓜多尔",
         "letterPost": {
@@ -905,7 +866,6 @@
         "notification": "在该国家，部分寄件服务已暂停。"
     },
     {
-        "number": "051",
         "countryCode": "EG",
         "destination": "埃及",
         "letterPost": {
@@ -927,7 +887,6 @@
         "notification": ""
     },
     {
-        "number": "056",
         "countryCode": "EE",
         "destination": "爱沙尼亚",
         "letterPost": {
@@ -951,7 +910,6 @@
         "notification": "配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "056-2",
         "countryCode": "SZ",
         "destination": "斯威士兰",
         "letterPost": {
@@ -973,7 +931,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "057",
         "countryCode": "ET",
         "destination": "埃塞俄比亚",
         "letterPost": {
@@ -997,7 +954,6 @@
         "notification": ""
     },
     {
-        "number": "054-2",
         "countryCode": "ER",
         "destination": "厄立特里亚",
         "letterPost": {
@@ -1019,7 +975,6 @@
         "notification": ""
     },
     {
-        "number": "052",
         "countryCode": "SV",
         "destination": "萨尔瓦多",
         "letterPost": {
@@ -1041,7 +996,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "014",
         "countryCode": "AT",
         "destination": "奥地利",
         "letterPost": {
@@ -1067,7 +1021,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "125",
         "countryCode": "OM",
         "destination": "阿曼",
         "letterPost": {
@@ -1091,7 +1044,6 @@
         "notification": ""
     },
     {
-        "number": "132",
         "countryCode": "NL",
         "destination": "荷兰",
         "letterPost": {
@@ -1113,7 +1065,6 @@
         "notification": "配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "133.4",
         "countryCode": "NL",
         "destination": "荷兰加勒比区",
         "letterPost": {
@@ -1135,7 +1086,6 @@
         "notification": ""
     },
     {
-        "number": "064",
         "countryCode": "GH",
         "destination": "加纳",
         "letterPost": {
@@ -1157,7 +1107,6 @@
         "notification": ""
     },
     {
-        "number": "034",
         "countryCode": "CV",
         "destination": "佛得角",
         "letterPost": {
@@ -1179,7 +1128,6 @@
         "notification": ""
     },
     {
-        "number": "065",
         "countryCode": "GG",
         "destination": "根西岛",
         "letterPost": {
@@ -1201,7 +1149,6 @@
         "notification": ""
     },
     {
-        "number": "073",
         "countryCode": "GY",
         "destination": "圭亚那",
         "letterPost": {
@@ -1223,7 +1170,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "089",
         "countryCode": "KZ",
         "destination": "哈萨克斯坦",
         "letterPost": {
@@ -1247,7 +1193,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "138",
         "countryCode": "QA",
         "destination": "卡塔尔",
         "letterPost": {
@@ -1271,7 +1216,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "060.1.1",
         "countryCode": "GP",
         "destination": "瓜得鲁普",
         "letterPost": {
@@ -1293,7 +1237,6 @@
         "notification": ""
     },
     {
-        "number": "033",
         "countryCode": "CA",
         "destination": "加拿大",
         "letterPost": {
@@ -1313,13 +1256,12 @@
                 "航空邮件中，有部分普通邮件可寄送。详情请见“寄往美国等的国际邮件受理情况”。"
             ],
             "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装飞机及船舶需要很多时间。海运邮件，由于舱位紧张，邮件比正常时期可能延误3个月左右才到达。"
+                "由于航班减少等造成的货舱紧张，邮件装在飞机及船舶上需要大幅度时间。尤其，寄往邮政编码从V至Y开始的地区（不列颠哥伦比亚州，纳武特地区，西北地区以及育空地区）的航空邮件将可能大幅度延迟。"
             ]
         },
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "061",
         "countryCode": "GA",
         "destination": "加蓬",
         "letterPost": {
@@ -1344,7 +1286,6 @@
         "notification": ""
     },
     {
-        "number": "032",
         "countryCode": "CM",
         "destination": "喀麦隆",
         "letterPost": {
@@ -1366,7 +1307,6 @@
         "notification": ""
     },
     {
-        "number": "062",
         "countryCode": "GM",
         "destination": "冈比亚",
         "letterPost": {
@@ -1388,7 +1328,6 @@
         "notification": ""
     },
     {
-        "number": "088",
         "countryCode": "KH",
         "destination": "柬埔寨",
         "letterPost": {
@@ -1410,7 +1349,6 @@
         "notification": ""
     },
     {
-        "number": "139",
         "countryCode": "KP",
         "destination": "北朝鲜",
         "letterPost": {
@@ -1432,7 +1370,6 @@
         "notification": ""
     },
     {
-        "number": "101-2",
         "countryCode": "MK",
         "destination": "北马其顿",
         "letterPost": {
@@ -1454,7 +1391,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "007.1",
         "countryCode": "MP",
         "destination": "北马里亚纳群岛",
         "letterPost": {
@@ -1480,7 +1416,6 @@
         "notification": ""
     },
     {
-        "number": "070",
         "countryCode": "GN",
         "destination": "几内亚",
         "letterPost": {
@@ -1502,7 +1437,6 @@
         "notification": ""
     },
     {
-        "number": "071",
         "countryCode": "GW",
         "destination": "几内亚比绍",
         "letterPost": {
@@ -1524,7 +1458,6 @@
         "notification": ""
     },
     {
-        "number": "038",
         "countryCode": "CY",
         "destination": "塞浦路斯",
         "letterPost": {
@@ -1548,7 +1481,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "046",
         "countryCode": "CU",
         "destination": "古巴",
         "letterPost": {
@@ -1570,7 +1502,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "133.2",
         "countryCode": "CW",
         "destination": "库拉索岛",
         "letterPost": {
@@ -1592,7 +1523,6 @@
         "notification": "配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "067",
         "countryCode": "GR",
         "destination": "希腊",
         "letterPost": {
@@ -1614,7 +1544,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "092",
         "countryCode": "KI",
         "destination": "基里巴斯",
         "letterPost": {
@@ -1636,7 +1565,6 @@
         "notification": ""
     },
     {
-        "number": "091",
         "countryCode": "KG",
         "destination": "吉尔吉斯",
         "letterPost": {
@@ -1660,7 +1588,6 @@
         "notification": ""
     },
     {
-        "number": "069",
         "countryCode": "GT",
         "destination": "危地马拉",
         "letterPost": {
@@ -1682,7 +1609,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "007.1",
         "countryCode": "GU",
         "destination": "关岛",
         "letterPost": {
@@ -1710,7 +1636,6 @@
         "notification": ""
     },
     {
-        "number": "093",
         "countryCode": "KW",
         "destination": "科威特",
         "letterPost": {
@@ -1734,7 +1659,6 @@
         "notification": ""
     },
     {
-        "number": "124.1",
         "countryCode": "CK",
         "destination": "库克群岛",
         "letterPost": {
@@ -1758,7 +1682,6 @@
         "notification": ""
     },
     {
-        "number": "047.2",
         "countryCode": "GL",
         "destination": "格陵兰岛",
         "letterPost": {
@@ -1782,7 +1705,6 @@
         "notification": ""
     },
     {
-        "number": "013.1",
         "countryCode": "CX",
         "destination": "圣诞岛",
         "letterPost": {
@@ -1804,7 +1726,6 @@
         "notification": ""
     },
     {
-        "number": "068",
         "countryCode": "GD",
         "destination": "格林纳达",
         "letterPost": {
@@ -1826,7 +1747,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "045",
         "countryCode": "HR",
         "destination": "克罗地亚",
         "letterPost": {
@@ -1848,7 +1768,6 @@
         "notification": "在该国家，快递的送达将发生延迟。配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "066.4",
         "countryCode": "KY",
         "destination": "开曼群岛",
         "letterPost": {
@@ -1872,7 +1791,6 @@
         "notification": ""
     },
     {
-        "number": "090",
         "countryCode": "KE",
         "destination": "肯尼亚",
         "letterPost": {
@@ -1896,7 +1814,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "044",
         "countryCode": "CI",
         "destination": "科特迪瓦（象牙海岸）",
         "letterPost": {
@@ -1920,7 +1837,6 @@
         "notification": ""
     },
     {
-        "number": "013.2",
         "countryCode": "CC",
         "destination": "科科斯（基林）群岛",
         "letterPost": {
@@ -1942,7 +1858,6 @@
         "notification": ""
     },
     {
-        "number": "043",
         "countryCode": "CR",
         "destination": "哥斯达黎加",
         "letterPost": {
@@ -1964,7 +1879,6 @@
         "notification": "配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "92-2",
         "countryCode": "XK",
         "destination": "科索沃",
         "letterPost": {
@@ -1988,7 +1902,6 @@
         "notification": ""
     },
     {
-        "number": "040",
         "countryCode": "KM",
         "destination": "科摩罗",
         "letterPost": {
@@ -2010,7 +1923,6 @@
         "notification": ""
     },
     {
-        "number": "039",
         "countryCode": "CO",
         "destination": "哥伦比亚",
         "letterPost": {
@@ -2034,7 +1946,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "041",
         "countryCode": "CG",
         "destination": "刚果共和国",
         "letterPost": {
@@ -2060,7 +1971,6 @@
         "notification": ""
     },
     {
-        "number": "138-2",
         "countryCode": "CD",
         "destination": "刚果民主共和国",
         "letterPost": {
@@ -2082,7 +1992,6 @@
         "notification": ""
     },
     {
-        "number": "007.1",
         "countryCode": "MP",
         "destination": "塞班岛",
         "letterPost": {
@@ -2108,7 +2017,6 @@
         "notification": ""
     },
     {
-        "number": "010",
         "countryCode": "SA",
         "destination": "沙特阿拉伯",
         "letterPost": {
@@ -2130,7 +2038,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "124-2",
         "countryCode": "WS",
         "destination": "萨摩亚",
         "letterPost": {
@@ -2152,7 +2059,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "147",
         "countryCode": "ST",
         "destination": "圣多美普林西比",
         "letterPost": {
@@ -2174,7 +2080,6 @@
         "notification": ""
     },
     {
-        "number": "183",
         "countryCode": "ZM",
         "destination": "赞比亚",
         "letterPost": {
@@ -2196,7 +2101,6 @@
         "notification": ""
     },
     {
-        "number": "060.1.5",
         "countryCode": "PM",
         "destination": "圣皮埃尔和密克隆群岛",
         "letterPost": {
@@ -2218,7 +2122,6 @@
         "notification": ""
     },
     {
-        "number": "144",
         "countryCode": "SM",
         "destination": "圣马力诺",
         "letterPost": {
@@ -2242,7 +2145,6 @@
         "notification": ""
     },
     {
-        "number": "150",
         "countryCode": "SL",
         "destination": "塞拉利昂",
         "letterPost": {
@@ -2264,7 +2166,6 @@
         "notification": ""
     },
     {
-        "number": "048",
         "countryCode": "DJ",
         "destination": "吉布提",
         "letterPost": {
@@ -2286,7 +2187,6 @@
         "notification": ""
     },
     {
-        "number": "066.6",
         "countryCode": "GI",
         "destination": "直布罗陀",
         "letterPost": {
@@ -2308,7 +2208,6 @@
         "notification": ""
     },
     {
-        "number": "065",
         "countryCode": "JE",
         "destination": "泽西",
         "letterPost": {
@@ -2330,7 +2229,6 @@
         "notification": ""
     },
     {
-        "number": "086",
         "countryCode": "JM",
         "destination": "牙买加",
         "letterPost": {
@@ -2352,7 +2250,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "063",
         "countryCode": "GE",
         "destination": "格鲁吉亚",
         "letterPost": {
@@ -2374,7 +2271,6 @@
         "notification": "在该国家，快递的送达将大幅度延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "160",
         "countryCode": "SY",
         "destination": "叙利亚",
         "letterPost": {
@@ -2396,7 +2292,6 @@
         "notification": ""
     },
     {
-        "number": "133.3",
         "countryCode": "SX",
         "destination": "荷属圣马丁",
         "letterPost": {
@@ -2418,7 +2313,6 @@
         "notification": ""
     },
     {
-        "number": "184",
         "countryCode": "ZW",
         "destination": "津巴布韦",
         "letterPost": {
@@ -2440,7 +2334,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "157",
         "countryCode": "CH",
         "destination": "瑞士",
         "letterPost": {
@@ -2464,7 +2357,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "156",
         "countryCode": "SE",
         "destination": "瑞典",
         "letterPost": {
@@ -2486,7 +2378,6 @@
         "notification": "配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "154",
         "countryCode": "SD",
         "destination": "苏丹",
         "letterPost": {
@@ -2512,7 +2403,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "055",
         "countryCode": "ES",
         "destination": "西班牙",
         "letterPost": {
@@ -2536,7 +2426,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "158",
         "countryCode": "SR",
         "destination": "苏里南",
         "letterPost": {
@@ -2558,7 +2447,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "155",
         "countryCode": "LK",
         "destination": "斯里兰卡",
         "letterPost": {
@@ -2580,7 +2468,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "151-2",
         "countryCode": "SK",
         "destination": "斯洛伐克",
         "letterPost": {
@@ -2602,7 +2489,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "152",
         "countryCode": "SI",
         "destination": "斯洛文尼亚",
         "letterPost": {
@@ -2624,7 +2510,6 @@
         "notification": "配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "149",
         "countryCode": "SC",
         "destination": "塞舌尔",
         "letterPost": {
@@ -2646,7 +2531,6 @@
         "notification": ""
     },
     {
-        "number": "072",
         "countryCode": "GQ",
         "destination": "赤道几内亚",
         "letterPost": {
@@ -2668,7 +2552,6 @@
         "notification": ""
     },
     {
-        "number": "148",
         "countryCode": "SN",
         "destination": "塞内加尔",
         "letterPost": {
@@ -2690,7 +2573,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "181",
         "countryCode": "RS",
         "destination": "塞尔维亚",
         "letterPost": {
@@ -2714,7 +2596,6 @@
         "notification": ""
     },
     {
-        "number": "066.11",
         "countryCode": "SH",
         "destination": "圣海伦娜岛",
         "letterPost": {
@@ -2736,7 +2617,6 @@
         "notification": ""
     },
     {
-        "number": "066.10",
         "countryCode": "KN",
         "destination": "圣基茨和尼维斯联邦",
         "letterPost": {
@@ -2760,7 +2640,6 @@
         "notification": ""
     },
     {
-        "number": "145",
         "countryCode": "VC",
         "destination": "圣文森特",
         "letterPost": {
@@ -2782,7 +2661,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "143",
         "countryCode": "LC",
         "destination": "圣卢西亚",
         "letterPost": {
@@ -2804,7 +2682,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "153",
         "countryCode": "SO",
         "destination": "索马里",
         "letterPost": {
@@ -2826,7 +2703,6 @@
         "notification": ""
     },
     {
-        "number": "146",
         "countryCode": "SB",
         "destination": "所罗门",
         "letterPost": {
@@ -2850,7 +2726,6 @@
         "notification": ""
     },
     {
-        "number": "066.13",
         "countryCode": "TC",
         "destination": "特克斯和凯科斯群岛",
         "letterPost": {
@@ -2872,7 +2747,6 @@
         "notification": ""
     },
     {
-        "number": "161",
         "countryCode": "TJ",
         "destination": "塔吉克斯坦共和国",
         "letterPost": {
@@ -2896,7 +2770,6 @@
         "notification": ""
     },
     {
-        "number": "162",
         "countryCode": "TZ",
         "destination": "坦桑尼亚",
         "letterPost": {
@@ -2920,7 +2793,6 @@
         "notification": ""
     },
     {
-        "number": "164",
         "countryCode": "CZ",
         "destination": "捷克",
         "letterPost": {
@@ -2944,7 +2816,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。封城地区的邮局将停止营业。"
     },
     {
-        "number": "163",
         "countryCode": "TD",
         "destination": "乍得",
         "letterPost": {
@@ -2966,7 +2837,6 @@
         "notification": ""
     },
     {
-        "number": "035",
         "countryCode": "CF",
         "destination": "中非",
         "letterPost": {
@@ -2988,7 +2858,6 @@
         "notification": ""
     },
     {
-        "number": "170",
         "countryCode": "TN",
         "destination": "突尼斯",
         "letterPost": {
@@ -3010,7 +2879,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "036",
         "countryCode": "CL",
         "destination": "智利",
         "letterPost": {
@@ -3032,7 +2900,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "173",
         "countryCode": "TV",
         "destination": "图瓦卢",
         "letterPost": {
@@ -3054,7 +2921,6 @@
         "notification": ""
     },
     {
-        "number": "047",
         "countryCode": "DK",
         "destination": "丹麦",
         "letterPost": {
@@ -3078,7 +2944,6 @@
         "notification": "配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "005",
         "countryCode": "DE",
         "destination": "德国",
         "letterPost": {
@@ -3102,7 +2967,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "167",
         "countryCode": "TG",
         "destination": "多哥",
         "letterPost": {
@@ -3124,7 +2988,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "050",
         "countryCode": "DO",
         "destination": "多米尼加",
         "letterPost": {
@@ -3146,7 +3009,6 @@
         "notification": ""
     },
     {
-        "number": "049",
         "countryCode": "DO",
         "destination": "多米尼加共和国",
         "letterPost": {
@@ -3168,7 +3030,6 @@
         "notification": ""
     },
     {
-        "number": "066.12",
         "countryCode": "SH",
         "destination": "特里斯坦-达库尼亚群岛",
         "letterPost": {
@@ -3190,7 +3051,6 @@
         "notification": ""
     },
     {
-        "number": "169",
         "countryCode": "TT",
         "destination": "特立尼达和多巴哥",
         "letterPost": {
@@ -3212,7 +3072,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "171",
         "countryCode": "TM",
         "destination": "土库曼斯坦",
         "letterPost": {
@@ -3234,7 +3093,6 @@
         "notification": ""
     },
     {
-        "number": "172",
         "countryCode": "TR",
         "destination": "土耳其",
         "letterPost": {
@@ -3256,7 +3114,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "168",
         "countryCode": "TO",
         "destination": "汤加",
         "letterPost": {
@@ -3278,7 +3135,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "122",
         "countryCode": "NG",
         "destination": "尼日利亚",
         "letterPost": {
@@ -3300,7 +3156,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "118",
         "countryCode": "NR",
         "destination": "瑙鲁",
         "letterPost": {
@@ -3322,7 +3177,6 @@
         "notification": ""
     },
     {
-        "number": "117",
         "countryCode": "NA",
         "destination": "纳米比亚",
         "letterPost": {
@@ -3344,7 +3198,6 @@
         "notification": ""
     },
     {
-        "number": "060.2.4",
         "countryCode": "TF",
         "destination": "法属南部和南极领地",
         "letterPost": {
@@ -3366,7 +3219,6 @@
         "notification": ""
     },
     {
-        "number": "120",
         "countryCode": "NI",
         "destination": "尼加拉瓜",
         "letterPost": {
@@ -3388,7 +3240,6 @@
         "notification": ""
     },
     {
-        "number": "121",
         "countryCode": "NE",
         "destination": "尼日尔",
         "letterPost": {
@@ -3412,7 +3263,6 @@
         "notification": ""
     },
     {
-        "number": "60.2.1",
         "countryCode": "NC",
         "destination": "新喀里多尼亚",
         "letterPost": {
@@ -3434,7 +3284,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "124",
         "countryCode": "NZ",
         "destination": "新西兰",
         "letterPost": {
@@ -3460,7 +3309,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "119",
         "countryCode": "NP",
         "destination": "尼泊尔",
         "letterPost": {
@@ -3484,7 +3332,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "013.3",
         "countryCode": "NF",
         "destination": "诺福克岛",
         "letterPost": {
@@ -3506,7 +3353,6 @@
         "notification": ""
     },
     {
-        "number": "123",
         "countryCode": "NO",
         "destination": "挪威",
         "letterPost": {
@@ -3530,7 +3376,6 @@
         "notification": ""
     },
     {
-        "number": "066.3",
         "countryCode": "BM",
         "destination": "百慕大群岛",
         "letterPost": {
@@ -3552,7 +3397,6 @@
         "notification": ""
     },
     {
-        "number": "017",
         "countryCode": "BH",
         "destination": "巴林",
         "letterPost": {
@@ -3574,7 +3418,6 @@
         "notification": ""
     },
     {
-        "number": "074",
         "countryCode": "HT",
         "destination": "海地",
         "letterPost": {
@@ -3596,7 +3439,6 @@
         "notification": ""
     },
     {
-        "number": "128",
         "countryCode": "PK",
         "destination": "巴基斯坦",
         "letterPost": {
@@ -3622,7 +3464,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "177",
         "countryCode": "VA",
         "destination": "梵蒂冈",
         "letterPost": {
@@ -3646,7 +3487,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "129",
         "countryCode": "PA",
         "destination": "巴拿马",
         "letterPost": {
@@ -3668,7 +3508,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "176",
         "countryCode": "VU",
         "destination": "瓦努阿图",
         "letterPost": {
@@ -3690,7 +3529,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "016",
         "countryCode": "BS",
         "destination": "巴哈马",
         "letterPost": {
@@ -3712,7 +3550,6 @@
         "notification": ""
     },
     {
-        "number": "130",
         "countryCode": "PG",
         "destination": "巴布亚新几内亚",
         "letterPost": {
@@ -3736,7 +3573,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "128-2",
         "countryCode": "PW",
         "destination": "帕劳群岛",
         "letterPost": {
@@ -3762,7 +3598,6 @@
         "notification": ""
     },
     {
-        "number": "131",
         "countryCode": "PY",
         "destination": "巴拉圭",
         "letterPost": {
@@ -3784,7 +3619,6 @@
         "notification": ""
     },
     {
-        "number": "019",
         "countryCode": "BB",
         "destination": "巴巴多斯",
         "letterPost": {
@@ -3806,7 +3640,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "076",
         "countryCode": "HU",
         "destination": "匈牙利",
         "letterPost": {
@@ -3830,7 +3663,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "018",
         "countryCode": "BD",
         "destination": "孟加拉国",
         "letterPost": {
@@ -3852,7 +3684,6 @@
         "notification": ""
     },
     {
-        "number": "166",
         "countryCode": "TL",
         "destination": "东帝汶",
         "letterPost": {
@@ -3874,7 +3705,6 @@
         "notification": ""
     },
     {
-        "number": "066.9",
         "countryCode": "PN",
         "destination": "皮特克恩岛",
         "letterPost": {
@@ -3896,7 +3726,6 @@
         "notification": ""
     },
     {
-        "number": "058",
         "countryCode": "FJ",
         "destination": "斐济",
         "letterPost": {
@@ -3918,7 +3747,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "059",
         "countryCode": "FI",
         "destination": "芬兰",
         "letterPost": {
@@ -3942,7 +3770,6 @@
         "notification": ""
     },
     {
-        "number": "024",
         "countryCode": "BT",
         "destination": "不丹",
         "letterPost": {
@@ -3966,7 +3793,6 @@
         "notification": "在该国家，快递的送达将大幅度延迟。"
     },
     {
-        "number": "007.2",
         "countryCode": "PR",
         "destination": "波多黎各",
         "letterPost": {
@@ -3990,7 +3816,6 @@
         "notification": ""
     },
     {
-        "number": "047.1",
         "countryCode": "FO",
         "destination": "法罗岛",
         "letterPost": {
@@ -4014,7 +3839,6 @@
         "notification": ""
     },
     {
-        "number": "066.5",
         "countryCode": "FK",
         "destination": "福克兰群岛（马尔维纳斯群岛）",
         "letterPost": {
@@ -4036,7 +3860,6 @@
         "notification": ""
     },
     {
-        "number": "060.1.2",
         "countryCode": "GF",
         "destination": "法属圭亚那",
         "letterPost": {
@@ -4058,7 +3881,6 @@
         "notification": ""
     },
     {
-        "number": "060.2.2",
         "countryCode": "PF",
         "destination": "法属波里尼西亚",
         "letterPost": {
@@ -4080,7 +3902,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "027",
         "countryCode": "BR",
         "destination": "巴西",
         "letterPost": {
@@ -4102,7 +3923,6 @@
         "notification": "在该国家，快递的送达将大幅度延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "060",
         "countryCode": "FR",
         "destination": "法国",
         "letterPost": {
@@ -4126,7 +3946,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "029",
         "countryCode": "BG",
         "destination": "保加利亚",
         "letterPost": {
@@ -4148,7 +3967,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "030",
         "countryCode": "BF",
         "destination": "布基纳法索",
         "letterPost": {
@@ -4170,7 +3988,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "028",
         "countryCode": "BN",
         "destination": "文莱",
         "letterPost": {
@@ -4194,7 +4011,6 @@
         "notification": ""
     },
     {
-        "number": "031",
         "countryCode": "BI",
         "destination": "布隆迪",
         "letterPost": {
@@ -4216,7 +4032,6 @@
         "notification": ""
     },
     {
-        "number": "007.2",
         "countryCode": "VI",
         "destination": "美属维京群岛",
         "letterPost": {
@@ -4240,7 +4055,6 @@
         "notification": ""
     },
     {
-        "number": "007.2",
         "countryCode": "AS",
         "destination": "美属萨摩亚",
         "letterPost": {
@@ -4264,7 +4078,6 @@
         "notification": ""
     },
     {
-        "number": "179",
         "countryCode": "VN",
         "destination": "越南",
         "letterPost": {
@@ -4286,7 +4099,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "023",
         "countryCode": "BJ",
         "destination": "贝宁",
         "letterPost": {
@@ -4310,7 +4122,6 @@
         "notification": ""
     },
     {
-        "number": "178",
         "countryCode": "VE",
         "destination": "委内瑞拉",
         "letterPost": {
@@ -4332,7 +4143,6 @@
         "notification": ""
     },
     {
-        "number": "020",
         "countryCode": "BY",
         "destination": "白俄罗斯",
         "letterPost": {
@@ -4356,7 +4166,6 @@
         "notification": ""
     },
     {
-        "number": "022",
         "countryCode": "BZ",
         "destination": "伯利兹",
         "letterPost": {
@@ -4378,7 +4187,6 @@
         "notification": ""
     },
     {
-        "number": "134",
         "countryCode": "PE",
         "destination": "秘鲁",
         "letterPost": {
@@ -4400,7 +4208,6 @@
         "notification": ""
     },
     {
-        "number": "021",
         "countryCode": "BE",
         "destination": "比利时",
         "letterPost": {
@@ -4424,7 +4231,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "136",
         "countryCode": "PL",
         "destination": "波兰",
         "letterPost": {
@@ -4448,7 +4254,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "025-2",
         "countryCode": "BA",
         "destination": "波斯尼亚和黑塞哥维那",
         "letterPost": {
@@ -4472,7 +4277,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "185",
         "countryCode": "JP",
         "destination": "北方群岛",
         "letterPost": {
@@ -4496,7 +4300,6 @@
         "notification": ""
     },
     {
-        "number": "026",
         "countryCode": "BW",
         "destination": "博茨瓦纳",
         "letterPost": {
@@ -4518,7 +4321,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "025",
         "countryCode": "BO",
         "destination": "玻利维亚",
         "letterPost": {
@@ -4540,7 +4342,6 @@
         "notification": ""
     },
     {
-        "number": "137",
         "countryCode": "PT",
         "destination": "葡萄牙",
         "letterPost": {
@@ -4562,7 +4363,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "075",
         "countryCode": "HN",
         "destination": "洪都拉斯",
         "letterPost": {
@@ -4584,7 +4384,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "108-2",
         "countryCode": "MH",
         "destination": "马绍尔群岛",
         "letterPost": {
@@ -4612,7 +4411,6 @@
         "notification": ""
     },
     {
-        "number": "037.2",
         "countryCode": "MO",
         "destination": "澳门",
         "letterPost": {
@@ -4634,7 +4432,6 @@
         "notification": ""
     },
     {
-        "number": "102",
         "countryCode": "MG",
         "destination": "马达加斯加",
         "letterPost": {
@@ -4656,7 +4453,6 @@
         "notification": ""
     },
     {
-        "number": "104",
         "countryCode": "MW",
         "destination": "马拉维",
         "letterPost": {
@@ -4678,7 +4474,6 @@
         "notification": "在该国家，部分寄件服务已暂停。"
     },
     {
-        "number": "106",
         "countryCode": "ML",
         "destination": "马里",
         "letterPost": {
@@ -4700,7 +4495,6 @@
         "notification": ""
     },
     {
-        "number": "107",
         "countryCode": "MT",
         "destination": "马耳他",
         "letterPost": {
@@ -4724,7 +4518,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "060.1.3",
         "countryCode": "MQ",
         "destination": "马提尼克",
         "letterPost": {
@@ -4746,7 +4539,6 @@
         "notification": ""
     },
     {
-        "number": "103",
         "countryCode": "MY",
         "destination": "马来西亚",
         "letterPost": {
@@ -4768,7 +4560,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。将停止配送到封城地区。"
     },
     {
-        "number": "065",
         "countryCode": "IM",
         "destination": "马恩岛",
         "letterPost": {
@@ -4790,7 +4581,6 @@
         "notification": ""
     },
     {
-        "number": "111-2",
         "countryCode": "FM",
         "destination": "密克罗尼西亚联邦",
         "letterPost": {
@@ -4818,7 +4608,6 @@
         "notification": ""
     },
     {
-        "number": "007.1",
         "countryCode": "UM",
         "destination": "中途岛",
         "letterPost": {
@@ -4842,7 +4631,6 @@
         "notification": ""
     },
     {
-        "number": "002",
         "countryCode": "ZA",
         "destination": "南非共和国",
         "letterPost": {
@@ -4864,7 +4652,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "154-2",
         "countryCode": "SS",
         "destination": "南苏丹",
         "letterPost": {
@@ -4886,7 +4673,6 @@
         "notification": ""
     },
     {
-        "number": "116",
         "countryCode": "MM",
         "destination": "缅甸",
         "letterPost": {
@@ -4910,7 +4696,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "111",
         "countryCode": "MX",
         "destination": "墨西哥",
         "letterPost": {
@@ -4927,12 +4712,13 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "由于航班减少产生的运送空间不足状况，将会导致邮件搭载航班的排期需要花费2～3周时间。"
+            ]
         },
         "notification": "在该国家，快递的送达将大幅度延迟。"
     },
     {
-        "number": "109",
         "countryCode": "MU",
         "destination": "毛里求斯",
         "letterPost": {
@@ -4954,7 +4740,6 @@
         "notification": "在该国家，快递的送达将大幅度延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "110",
         "countryCode": "MR",
         "destination": "毛里塔尼亚",
         "letterPost": {
@@ -4976,7 +4761,6 @@
         "notification": "停止接收规定国家\/地区以外的快递。"
     },
     {
-        "number": "115",
         "countryCode": "MZ",
         "destination": "莫桑比克",
         "letterPost": {
@@ -5002,7 +4786,6 @@
         "notification": ""
     },
     {
-        "number": "113",
         "countryCode": "MC",
         "destination": "摩纳哥",
         "letterPost": {
@@ -5024,7 +4807,6 @@
         "notification": ""
     },
     {
-        "number": "105",
         "countryCode": "MV",
         "destination": "马尔代夫",
         "letterPost": {
@@ -5048,7 +4830,6 @@
         "notification": ""
     },
     {
-        "number": "112",
         "countryCode": "MD",
         "destination": "摩尔多瓦",
         "letterPost": {
@@ -5072,7 +4853,6 @@
         "notification": ""
     },
     {
-        "number": "108",
         "countryCode": "MA",
         "destination": "摩洛哥",
         "letterPost": {
@@ -5096,7 +4876,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "114",
         "countryCode": "MN",
         "destination": "蒙古",
         "letterPost": {
@@ -5118,7 +4897,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "114-2",
         "countryCode": "ME",
         "destination": "蒙特內哥罗",
         "letterPost": {
@@ -5142,7 +4920,6 @@
         "notification": ""
     },
     {
-        "number": "066.8",
         "countryCode": "MS",
         "destination": "蒙特塞拉特",
         "letterPost": {
@@ -5164,7 +4941,6 @@
         "notification": ""
     },
     {
-        "number": "087",
         "countryCode": "JO",
         "destination": "约旦",
         "letterPost": {
@@ -5188,7 +4964,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "094",
         "countryCode": "LA",
         "destination": "老挝",
         "letterPost": {
@@ -5212,7 +4987,6 @@
         "notification": ""
     },
     {
-        "number": "096",
         "countryCode": "LV",
         "destination": "拉托维亚",
         "letterPost": {
@@ -5236,7 +5010,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "100",
         "countryCode": "LT",
         "destination": "立陶宛",
         "letterPost": {
@@ -5260,7 +5033,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "number": "085",
         "countryCode": "LY",
         "destination": "利比亚",
         "letterPost": {
@@ -5282,7 +5054,6 @@
         "notification": ""
     },
     {
-        "number": "099",
         "countryCode": "LI",
         "destination": "列支敦士登",
         "letterPost": {
@@ -5306,7 +5077,6 @@
         "notification": ""
     },
     {
-        "number": "098",
         "countryCode": "LR",
         "destination": "利比里亚",
         "letterPost": {
@@ -5328,7 +5098,6 @@
         "notification": ""
     },
     {
-        "number": "140",
         "countryCode": "RO",
         "destination": "罗马尼亚",
         "letterPost": {
@@ -5352,7 +5121,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "101",
         "countryCode": "LU",
         "destination": "卢森堡",
         "letterPost": {
@@ -5374,7 +5142,6 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。普通快递的配送将暂停。"
     },
     {
-        "number": "142",
         "countryCode": "RW",
         "destination": "卢旺达",
         "letterPost": {
@@ -5398,7 +5165,6 @@
         "notification": ""
     },
     {
-        "number": "095",
         "countryCode": "LS",
         "destination": "莱索托",
         "letterPost": {
@@ -5420,7 +5186,6 @@
         "notification": ""
     },
     {
-        "number": "097",
         "countryCode": "LB",
         "destination": "黎巴嫩",
         "letterPost": {
@@ -5442,7 +5207,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "060.1.4",
         "countryCode": "RE",
         "destination": "留尼汪",
         "letterPost": {
@@ -5464,7 +5228,6 @@
         "notification": ""
     },
     {
-        "number": "141",
         "countryCode": "RU",
         "destination": "俄罗斯",
         "letterPost": {
@@ -5490,7 +5253,6 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "number": "060.2.3",
         "countryCode": "WF",
         "destination": "瓦利斯和富图纳",
         "letterPost": {
