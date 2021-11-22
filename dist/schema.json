@@ -5,7 +5,6 @@
     "items": {
         "type": "object",
         "required": [
-            "number",
             "countryCode",
             "destination",
             "letterPost",
@@ -15,10 +14,6 @@
             "notification"
         ],
         "properties": {
-            "number": {
-                "type": "string",
-                "title": "Number of 'Information by countries and regions'"
-            },
             "countryCode": {
                 "type": "string",
                 "title": "Country code (ISO 3166-1 Alpha-2 code)"

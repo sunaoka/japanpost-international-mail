@@ -11,8 +11,6 @@ use Sunaoka\JapanPostInternationalMail\Destination\Restrictions;
 
 class Destination implements JsonSerializable
 {
-    private string $number;
-
     private string $countryCode;
 
     private string $destination;
@@ -29,14 +27,13 @@ class Destination implements JsonSerializable
 
     private function __construct(Language $language, array $attributes)
     {
-        $this->number = str_replace('の', '-', $attributes[0]);
-        $this->countryCode = $this->getCountryCode($language, $attributes[1]);
-        $this->destination = $attributes[1];
-        $this->letterPost = Mail::make($language, $attributes[2], $attributes[3], $attributes[4]);
-        $this->parcels = Mail::make($language, $attributes[5], $attributes[6], $attributes[7]);
-        $this->ems = config("{$language->getValue()}.delivery")[$attributes[8]];
-        $this->restrictions = Restrictions::make($language, $attributes[9]);
-        $this->notification = $attributes[10];
+        $this->countryCode = $this->getCountryCode($language, $attributes[0]);
+        $this->destination = $attributes[0];
+        $this->letterPost = Mail::make($language, $attributes[1], $attributes[2], $attributes[3]);
+        $this->parcels = Mail::make($language, $attributes[4], $attributes[5], $attributes[6]);
+        $this->ems = config("{$language->getValue()}.delivery")[$attributes[7]];
+        $this->restrictions = Restrictions::make($language, $attributes[8]);
+        $this->notification = $attributes[9];
     }
 
     public static function make(Language $language, array $attributes): self
@@ -57,7 +54,6 @@ class Destination implements JsonSerializable
     public function jsonSerialize(): array
     {
         return [
-            'number'       => $this->number,
             'countryCode'  => $this->countryCode,
             'destination'  => $this->destination,
             'letterPost'   => $this->letterPost,
