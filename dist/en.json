@@ -42,7 +42,7 @@
                 "Among Air items, only some letter-post items are accepted. Check \"Acceptance\/non-acceptance of international mail to the United States, etc.\" for details."
             ],
             "delays": [
-                "Due to reduction or suspension of flights, considerable time will be needed for delivery of items to their destination."
+                "Loading items onto airplanes is expected to take about two to three weeks due to the shortage of loading space caused by the reduction of flights."
             ]
         },
         "notification": "Please note that considerable delivery delays are expected due to a large increase in inbound postal items in U.S. Under the circumstances, items will not be handed directly to addressees."
@@ -906,7 +906,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion.Loading items onto airplanes is expected to take about two to three weeks due to the shortage of loading space caused by the reduction of flights."
             ]
         },
         "notification": "Items will not be handed directly to addressees."
@@ -1017,7 +1017,7 @@
             ],
             "temporary": [],
             "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion.Loading items onto airplanes is expected to take about two to three weeks due to the shortage of loading space caused by the reduction of flights."
             ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
@@ -1765,7 +1765,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Loading items onto airplanes is expected to take about two to three weeks due to the shortage of loading space caused by the reduction of flights."
+            ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory).Items will not be handed directly to addressees."
     },
@@ -2375,7 +2377,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Loading items onto airplanes is expected to take about two to three weeks due to the shortage of loading space caused by the reduction of flights."
+            ]
         },
         "notification": "Items will not be handed directly to addressees."
     },
@@ -2383,24 +2387,22 @@
         "countryCode": "SD",
         "destination": "Sudan",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [
                 "EMS items to some regions are not acceptable."
             ],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take about three weeks due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
@@ -2486,7 +2488,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Loading items onto airplanes is expected to take about two to three weeks due to the shortage of loading space caused by the reduction of flights."
+            ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
@@ -2507,7 +2511,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Loading items onto airplanes is expected to take about two to three weeks due to the shortage of loading space caused by the reduction of flights."
+            ]
         },
         "notification": "Items will not be handed directly to addressees."
     },
@@ -2812,7 +2818,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion.Loading items onto airplanes is expected to take about two to three weeks due to the shortage of loading space caused by the reduction of flights."
             ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees. Services are suspended at post offices in areas shut down due to COVID-19."
@@ -2940,7 +2946,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion.Loading items onto airplanes is expected to take about two to three weeks due to the shortage of loading space caused by the reduction of flights."
             ]
         },
         "notification": "Items will not be handed directly to addressees."
@@ -3372,7 +3378,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion.Loading items onto airplanes is expected to take about two to three weeks due to the shortage of loading space caused by the reduction of flights."
             ]
         },
         "notification": ""
@@ -3659,7 +3665,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion.Loading items onto airplanes is expected to take about two to three weeks due to the shortage of loading space caused by the reduction of flights."
             ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
@@ -3790,7 +3796,9 @@
                 "EMS items to some regions are not acceptable."
             ],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Due to reduction or suspension of flights, considerable time will be needed for delivery of items to their destination."
+            ]
         },
         "notification": "Considerable delays will be experienced in the delivery of mail items in the country (territory)."
     },
@@ -3922,7 +3930,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Considerable delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
+        "notification": "Items will not be handed directly to addressees."
     },
     {
         "countryCode": "FR",
@@ -3964,7 +3972,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Loading items onto airplanes is expected to take about two to three weeks due to the shortage of loading space caused by the reduction of flights."
+            ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
@@ -4250,7 +4260,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion.Loading items onto airplanes is expected to take about two to three weeks due to the shortage of loading space caused by the reduction of flights."
             ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
@@ -4273,7 +4283,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion.Loading items onto airplanes is expected to take about two to three weeks due to the shortage of loading space caused by the reduction of flights."
             ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
@@ -4360,7 +4370,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Loading items onto airplanes is expected to take about two to three weeks due to the shortage of loading space caused by the reduction of flights."
+            ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
@@ -5006,7 +5018,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion.Loading items onto airplanes is expected to take about two to three weeks due to the shortage of loading space caused by the reduction of flights."
             ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
@@ -5029,7 +5041,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
+                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion.Loading items onto airplanes is expected to take about two to three weeks due to the shortage of loading space caused by the reduction of flights."
             ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
@@ -5139,7 +5151,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Loading items onto airplanes is expected to take about two to three weeks due to the shortage of loading space caused by the reduction of flights."
+            ]
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees. Letter post delivery is temporarily suspended."
     },
@@ -5147,22 +5161,20 @@
         "countryCode": "RW",
         "destination": "Rwanda",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
         "notification": ""
     },
