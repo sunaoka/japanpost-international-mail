@@ -619,7 +619,7 @@
                 "海上輸送は貨物混雑のため、現地到着まで平常期に比べ3か月程度遅れる可能性があります。"
             ]
         },
-        "notification": "航空機の減便等により運送スペースが不足していることから、現地到着までに1か月程度の期間を要します。 名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
+        "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
         "countryCode": "IQ",
@@ -1226,7 +1226,7 @@
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -2542,14 +2542,14 @@
         "countryCode": "GQ",
         "destination": "赤道ギニア",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
