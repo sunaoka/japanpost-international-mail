@@ -619,7 +619,7 @@
                 "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
             ]
         },
-        "notification": "由于航班的减少等因素导致货舱空间紧张，邮件到达该国家大约需要一个月的时间。在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
+        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
         "countryCode": "IQ",
@@ -1226,7 +1226,7 @@
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -2542,14 +2542,14 @@
         "countryCode": "GQ",
         "destination": "赤道几内亚",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
