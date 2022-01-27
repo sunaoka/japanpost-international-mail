@@ -42,7 +42,7 @@
                 "航空邮件中，有部分普通邮件可寄送。详情请见“寄往美国等的国际邮件受理情况”。"
             ],
             "delays": [
-                "由于航班减少产生的运送空间不足状况，将会导致邮件搭载航班的排期需要花费2～3周时间。"
+                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
             ]
         },
         "notification": "目前到达美国的邮件量突然增加，因此邮件配送在出现大幅延误。此外，邮件投递以非对面形式进行。"
@@ -787,20 +787,18 @@
         "letterPost": {
             "air": "not_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
             "air": "not_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -894,7 +892,7 @@
         "letterPost": {
             "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
             "air": "acceptable",
@@ -906,7 +904,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班减少产生的运送空间不足状况，将会导致邮件搭载航班的排期需要花费2～3周时间。"
+                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
             ]
         },
         "notification": "配送将采取非见面无接触的方式等进行。"
@@ -1017,7 +1015,7 @@
             ],
             "temporary": [],
             "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班减少产生的运送空间不足状况，将会导致邮件搭载航班的排期需要花费2～3周时间。"
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
             ]
         },
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
@@ -1177,20 +1175,18 @@
         "letterPost": {
             "air": "not_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
             "air": "not_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
-            ]
+            "delays": []
         },
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
@@ -1258,7 +1254,7 @@
                 "航空邮件中，有部分普通邮件可寄送。详情请见“寄往美国等的国际邮件受理情况”。"
             ],
             "delays": [
-                "由于航班减少等造成的货舱紧张，邮件装在飞机及船舶上需要大幅度时间。尤其，寄往邮政编码从V至Y开始的地区（不列颠哥伦比亚州，纳武特地区，西北地区以及育空地区）的航空邮件将可能大幅度延迟。"
+                "由于航班减少等造成的货舱紧张，邮件装在飞机及船舶上需要大幅度时间。"
             ]
         },
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
@@ -1572,20 +1568,18 @@
         "letterPost": {
             "air": "not_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
             "air": "not_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -1766,7 +1760,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "由于航班减少产生的运送空间不足状况，将会导致邮件搭载航班的排期需要花费2～3周时间。"
+                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
             ]
         },
         "notification": "在该国家，快递的送达将发生延迟。配送将采取非见面无接触的方式等进行。"
@@ -2378,7 +2372,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "由于航班减少产生的运送空间不足状况，将会导致邮件搭载航班的排期需要花费2～3周时间。"
+                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
             ]
         },
         "notification": "配送将采取非见面无接触的方式等进行。"
@@ -2489,7 +2483,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "由于航班减少产生的运送空间不足状况，将会导致邮件搭载航班的排期需要花费2～3周时间。"
+                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
             ]
         },
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
@@ -2512,7 +2506,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "由于航班减少产生的运送空间不足状况，将会导致邮件搭载航班的排期需要花费2～3周时间。"
+                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
             ]
         },
         "notification": "配送将采取非见面无接触的方式等进行。"
@@ -2760,20 +2754,18 @@
         "letterPost": {
             "air": "not_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
             "air": "not_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -2818,7 +2810,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班减少产生的运送空间不足状况，将会导致邮件搭载航班的排期需要花费2～3周时间。"
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
             ]
         },
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。封城地区的邮局将停止营业。"
@@ -2946,7 +2938,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班减少产生的运送空间不足状况，将会导致邮件搭载航班的排期需要花费2～3周时间。"
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
             ]
         },
         "notification": "配送将采取非见面无接触的方式等进行。"
@@ -3127,7 +3119,7 @@
         "letterPost": {
             "air": "not_acceptable",
             "sal": "no_service",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
             "air": "not_acceptable",
@@ -3378,7 +3370,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班减少产生的运送空间不足状况，将会导致邮件搭载航班的排期需要花费2～3周时间。"
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
             ]
         },
         "notification": ""
@@ -3665,7 +3657,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班减少产生的运送空间不足状况，将会导致邮件搭载航班的排期需要花费2～3周时间。"
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
             ]
         },
         "notification": "在该国家，快递的送达将发生延迟。"
@@ -3973,7 +3965,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "由于航班减少产生的运送空间不足状况，将会导致邮件搭载航班的排期需要花费2～3周时间。"
+                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
             ]
         },
         "notification": "在该国家，快递的送达将发生延迟。"
@@ -4160,7 +4152,7 @@
         "letterPost": {
             "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
             "air": "acceptable",
@@ -4171,9 +4163,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -4260,7 +4250,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班减少产生的运送空间不足状况，将会导致邮件搭载航班的排期需要花费2～3周时间。"
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
             ]
         },
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
@@ -4283,7 +4273,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班减少产生的运送空间不足状况，将会导致邮件搭载航班的排期需要花费2～3周时间。"
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
             ]
         },
         "notification": "在该国家，快递的送达将发生延迟。"
@@ -4294,20 +4284,18 @@
         "letterPost": {
             "air": "not_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
             "air": "not_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -4371,7 +4359,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "由于航班减少产生的运送空间不足状况，将会导致邮件搭载航班的排期需要花费2～3周时间。"
+                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
             ]
         },
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
@@ -5018,7 +5006,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班减少产生的运送空间不足状况，将会导致邮件搭载航班的排期需要花费2～3周时间。"
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
             ]
         },
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
@@ -5041,7 +5029,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班减少产生的运送空间不足状况，将会导致邮件搭载航班的排期需要花费2～3周时间。"
+                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
             ]
         },
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
@@ -5152,7 +5140,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "由于航班减少产生的运送空间不足状况，将会导致邮件搭载航班的排期需要花费2～3周时间。"
+                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
             ]
         },
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。普通快递的配送将暂停。"
@@ -5247,12 +5235,12 @@
         "letterPost": {
             "air": "not_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
             "air": "not_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "ems": "not_acceptable",
         "restrictions": {
@@ -5260,9 +5248,7 @@
                 "EMS寄至地区有限制。"
             ],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
-            ]
+            "delays": []
         },
         "notification": "在该国家，快递的送达将发生延迟。"
     },
