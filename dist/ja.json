@@ -759,25 +759,23 @@
         "countryCode": "UA",
         "destination": "ウクライナ",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [
                 "クリミアおよびセバストポリ宛ては差出不可。",
                 "EMSは宛てられる地域に制限あり。"
             ],
             "temporary": [],
-            "delays": [
-                "航空機の減便等により運送スペースが不足していることから、航空機への搭載に大幅に時間を要します。"
-            ]
+            "delays": []
         },
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
