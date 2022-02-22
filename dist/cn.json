@@ -759,25 +759,23 @@
         "countryCode": "UA",
         "destination": "乌克兰",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [
                 "收件地址为克里米亚及塞瓦斯托波尔的邮件不可寄送。",
                 "EMS寄至地区有限制。"
             ],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
