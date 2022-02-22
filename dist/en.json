@@ -759,25 +759,23 @@
         "countryCode": "UA",
         "destination": "Ukraine",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [
                 "Items to Crimea and Sevastopol are not acceptable.",
                 "EMS items to some regions are not acceptable."
             ],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
     },
