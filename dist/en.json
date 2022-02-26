@@ -761,12 +761,12 @@
         "letterPost": {
             "air": "not_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
             "air": "not_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "ems": "not_acceptable",
         "restrictions": {
