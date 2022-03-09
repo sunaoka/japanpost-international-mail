@@ -6,6 +6,7 @@ return [
     'uri'          => 'https://www.post.japanpost.jp/int/information/overview.html',
     'delivery'     => [
         '◯'  => 'acceptable',
+        '○'  => 'acceptable',
         '△' => 'some_acceptable',
         '×'  => 'not_acceptable',
         '-'  => 'no_service',
