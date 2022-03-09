@@ -185,22 +185,20 @@
         "countryCode": "GB",
         "destination": "英国",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班减少等原因造成的运输舱位不足等，邮件到达该国家可能需要相当长时间。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -470,7 +468,7 @@
         "countryCode": "AI",
         "destination": "安圭拉",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
@@ -535,16 +533,16 @@
         "countryCode": "AD",
         "destination": "安道尔",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -1129,16 +1127,16 @@
         "countryCode": "GG",
         "destination": "根西岛",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -1215,7 +1213,7 @@
         "countryCode": "GP",
         "destination": "瓜得鲁普",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -1224,7 +1222,7 @@
             "sal": "no_service",
             "surface": "acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -1261,12 +1259,12 @@
         "countryCode": "GA",
         "destination": "加蓬",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -1306,7 +1304,7 @@
         "countryCode": "GM",
         "destination": "冈比亚",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
@@ -1813,7 +1811,7 @@
         "countryCode": "CI",
         "destination": "科特迪瓦（象牙海岸）",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
@@ -2207,16 +2205,16 @@
         "countryCode": "JE",
         "destination": "泽西",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -2859,12 +2857,12 @@
         "countryCode": "TN",
         "destination": "突尼斯",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -2945,16 +2943,16 @@
         "countryCode": "DE",
         "destination": "德国",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -3748,16 +3746,16 @@
         "countryCode": "FI",
         "destination": "芬兰",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -3842,12 +3840,12 @@
         "countryCode": "FK",
         "destination": "福克兰群岛（马尔维纳斯群岛）",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -3926,22 +3924,20 @@
         "countryCode": "FR",
         "destination": "法国",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，邮件到达该国家大约需要一个月的时间。"
-            ]
+            "delays": []
         },
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
@@ -4211,16 +4207,16 @@
         "countryCode": "BE",
         "destination": "比利时",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -4257,12 +4253,12 @@
         "countryCode": "BA",
         "destination": "波斯尼亚和黑塞哥维那",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -4563,16 +4559,16 @@
         "countryCode": "IM",
         "destination": "马恩岛",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -4789,16 +4785,16 @@
         "countryCode": "MC",
         "destination": "摩纳哥",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
