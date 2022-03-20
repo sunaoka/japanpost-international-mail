@@ -185,7 +185,7 @@
         "countryCode": "GB",
         "destination": "英国",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -197,7 +197,9 @@
         "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
-            "temporary": [],
+            "temporary": [
+                "航空邮件中，有部分普通邮件可寄送。详情请见“寄往美国等的国际邮件受理情况”。"
+            ],
             "delays": []
         },
         "notification": ""
@@ -232,11 +234,11 @@
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -844,16 +846,16 @@
         "countryCode": "EC",
         "destination": "厄瓜多尔",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -1085,16 +1087,16 @@
         "countryCode": "GH",
         "destination": "加纳",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -1788,16 +1790,16 @@
         "countryCode": "KE",
         "destination": "肯尼亚",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [
                 "EMS寄至地区有限制。"
@@ -2769,16 +2771,16 @@
         "countryCode": "TZ",
         "destination": "坦桑尼亚",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [
                 "EMS寄至地区有限制。"
@@ -2943,7 +2945,7 @@
         "countryCode": "DE",
         "destination": "德国",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -2955,7 +2957,9 @@
         "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
-            "temporary": [],
+            "temporary": [
+                "航空邮件中，有部分普通邮件可寄送。详情请见“寄往美国等的国际邮件受理情况”。"
+            ],
             "delays": [
                 "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
             ]
@@ -3115,7 +3119,7 @@
         "letterPost": {
             "air": "not_acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
             "air": "not_acceptable",
@@ -3134,16 +3138,16 @@
         "countryCode": "NG",
         "destination": "尼日利亚",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -3924,7 +3928,7 @@
         "countryCode": "FR",
         "destination": "法国",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -3936,7 +3940,9 @@
         "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
-            "temporary": [],
+            "temporary": [
+                "航空邮件中，有部分普通邮件可寄送。详情请见“寄往美国等的国际邮件受理情况”。"
+            ],
             "delays": []
         },
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
@@ -4207,7 +4213,7 @@
         "countryCode": "BE",
         "destination": "比利时",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -4219,7 +4225,9 @@
         "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
-            "temporary": [],
+            "temporary": [
+                "航空邮件中，有部分普通邮件可寄送。详情请见“寄往美国等的国际邮件受理情况”。"
+            ],
             "delays": [
                 "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
             ]
@@ -5076,12 +5084,12 @@
         "countryCode": "LR",
         "destination": "利比里亚",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },

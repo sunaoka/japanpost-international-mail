@@ -185,7 +185,7 @@
         "countryCode": "GB",
         "destination": "United Kingdom of Great Britain and Northern Ireland",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -197,7 +197,9 @@
         "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
-            "temporary": [],
+            "temporary": [
+                "Among Air items, only some letter-post items are accepted. Check \"Acceptance\/non-acceptance of international mail to the United States, etc.\" for details."
+            ],
             "delays": []
         },
         "notification": ""
@@ -232,11 +234,11 @@
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -844,16 +846,16 @@
         "countryCode": "EC",
         "destination": "Ecuador",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -1085,16 +1087,16 @@
         "countryCode": "GH",
         "destination": "Ghana",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -1788,16 +1790,16 @@
         "countryCode": "KE",
         "destination": "Kenya",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [
                 "EMS items to some regions are not acceptable."
@@ -2769,16 +2771,16 @@
         "countryCode": "TZ",
         "destination": "Tanzania (United Rep.)",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [
                 "EMS items to some regions are not acceptable."
@@ -2943,7 +2945,7 @@
         "countryCode": "DE",
         "destination": "Germany",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -2955,7 +2957,9 @@
         "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
-            "temporary": [],
+            "temporary": [
+                "Among Air items, only some letter-post items are accepted. Check \"Acceptance\/non-acceptance of international mail to the United States, etc.\" for details."
+            ],
             "delays": [
                 "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
             ]
@@ -3115,7 +3119,7 @@
         "letterPost": {
             "air": "not_acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
             "air": "not_acceptable",
@@ -3134,16 +3138,16 @@
         "countryCode": "NG",
         "destination": "Nigeria",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -3924,7 +3928,7 @@
         "countryCode": "FR",
         "destination": "France",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -3936,7 +3940,9 @@
         "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
-            "temporary": [],
+            "temporary": [
+                "Among Air items, only some letter-post items are accepted. Check \"Acceptance\/non-acceptance of international mail to the United States, etc.\" for details."
+            ],
             "delays": []
         },
         "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
@@ -4207,7 +4213,7 @@
         "countryCode": "BE",
         "destination": "Belgium",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -4219,7 +4225,9 @@
         "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
-            "temporary": [],
+            "temporary": [
+                "Among Air items, only some letter-post items are accepted. Check \"Acceptance\/non-acceptance of international mail to the United States, etc.\" for details."
+            ],
             "delays": [
                 "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
             ]
@@ -5076,12 +5084,12 @@
         "countryCode": "LR",
         "destination": "Liberia",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
