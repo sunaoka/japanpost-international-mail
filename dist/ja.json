@@ -8,11 +8,11 @@
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
