@@ -1257,7 +1257,7 @@
                 "航空機の減便等により運送スペースが不足していることから、航空機および船舶への搭載に大幅に時間を要します。"
             ]
         },
-        "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
+        "notification": ""
     },
     {
         "countryCode": "GA",
@@ -1792,16 +1792,16 @@
         "countryCode": "KE",
         "destination": "ケニア",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [
                 "EMSは宛てられる地域に制限あり。"
@@ -3140,16 +3140,16 @@
         "countryCode": "NG",
         "destination": "ナイジェリア",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -3746,7 +3746,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
+        "notification": ""
     },
     {
         "countryCode": "FI",
@@ -3939,7 +3939,7 @@
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [
@@ -4255,7 +4255,7 @@
                 "海上輸送は貨物混雑のため、現地到着まで平常期に比べ3か月程度遅れる可能性があります。 航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
             ]
         },
-        "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
+        "notification": ""
     },
     {
         "countryCode": "BA",
