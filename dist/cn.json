@@ -1257,7 +1257,7 @@
                 "由于航班减少等造成的货舱紧张，邮件装在飞机及船舶上需要大幅度时间。"
             ]
         },
-        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "GA",
@@ -1792,16 +1792,16 @@
         "countryCode": "KE",
         "destination": "肯尼亚",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [
                 "EMS寄至地区有限制。"
@@ -3140,16 +3140,16 @@
         "countryCode": "NG",
         "destination": "尼日利亚",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -3746,7 +3746,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "FI",
@@ -3939,7 +3939,7 @@
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [
@@ -4255,7 +4255,7 @@
                 "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。 由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
             ]
         },
-        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "BA",
