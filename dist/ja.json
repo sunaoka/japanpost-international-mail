@@ -10,15 +10,15 @@
         "parcels": {
             "air": "not_acceptable",
             "sal": "not_acceptable",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
             "delays": []
         },
-        "notification": "主要空港において新型コロナウイルス感染症の検疫強化の措置が取られること等に伴い、郵便物のお届けに大幅な遅延が生じます。"
+        "notification": "中国国内において新型コロナウイルス感染症の検疫強化の措置が取られること等に伴い、郵便物のお届けに大幅な遅延が生じます。"
     },
     {
         "countryCode": "US",
@@ -139,23 +139,21 @@
         "countryCode": "AU",
         "destination": "オーストラリア",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [
                 "EMSは宛てられる地域に制限あり。"
             ],
-            "temporary": [
-                "航空扱いのうち、一部の通常郵便物は差出可。詳しくは「米国等宛て国際郵便物の引受可否」を確認してください。"
-            ],
+            "temporary": [],
             "delays": []
         },
         "notification": "名宛国・地域において郵便物のお届けに大幅な遅延が生じます。また、配達は非対面の方法等で行います。"
@@ -1217,12 +1215,12 @@
         "countryCode": "GP",
         "destination": "ガドループ",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -1815,7 +1813,7 @@
         "countryCode": "CI",
         "destination": "コートジボワール",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
@@ -2557,12 +2555,12 @@
         "countryCode": "SN",
         "destination": "セネガル",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -4433,7 +4431,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": ""
+        "notification": "新型コロナウイルス感染症の検疫強化の措置が取られること等に伴い、郵便物のお届けに大幅な遅延が生じます。"
     },
     {
         "countryCode": "MG",
@@ -4525,12 +4523,12 @@
         "countryCode": "MQ",
         "destination": "マルチニーク",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -5214,12 +5212,12 @@
         "countryCode": "RE",
         "destination": "レユニオン",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },

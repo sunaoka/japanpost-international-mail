@@ -10,15 +10,15 @@
         "parcels": {
             "air": "not_acceptable",
             "sal": "not_acceptable",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
             "delays": []
         },
-        "notification": "在主要机场采取了加强新冠病毒感染检疫的措施等，邮件配送会大幅延迟。"
+        "notification": "在中国采取了加强新冠病毒感染检疫的措施等，邮件配送会大幅延迟。"
     },
     {
         "countryCode": "US",
@@ -139,23 +139,21 @@
         "countryCode": "AU",
         "destination": "澳大利亚",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [
                 "EMS寄至地区有限制。"
             ],
-            "temporary": [
-                "航空邮件中，有部分普通邮件可寄送。详情请见 \"寄往美国等的国际邮件受理情况\"。"
-            ],
+            "temporary": [],
             "delays": []
         },
         "notification": "在该国家，快递的送达将大幅度延迟。此外，配送将采取非见面无接触的方式等进行。"
@@ -1217,12 +1215,12 @@
         "countryCode": "GP",
         "destination": "瓜得鲁普",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -1815,7 +1813,7 @@
         "countryCode": "CI",
         "destination": "科特迪瓦（象牙海岸）",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
@@ -2557,12 +2555,12 @@
         "countryCode": "SN",
         "destination": "塞内加尔",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -4433,7 +4431,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": ""
+        "notification": "采取了加强新冠病毒感染检疫的措施等，邮件配送会大幅延迟。"
     },
     {
         "countryCode": "MG",
@@ -4525,12 +4523,12 @@
         "countryCode": "MQ",
         "destination": "马提尼克",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -5215,12 +5213,12 @@
         "countryCode": "RE",
         "destination": "留尼汪",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
