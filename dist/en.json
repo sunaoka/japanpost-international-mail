@@ -10,15 +10,15 @@
         "parcels": {
             "air": "not_acceptable",
             "sal": "not_acceptable",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
             "delays": []
         },
-        "notification": "Due to COVID-19 quarantine enforcement at the main airports, significant delays will be experienced in the delivery of inbound mail products."
+        "notification": "Due to COVID-19 quarantine enforcement in China, significant delays will be experienced in the delivery of inbound mail products."
     },
     {
         "countryCode": "US",
@@ -139,23 +139,21 @@
         "countryCode": "AU",
         "destination": "Australia",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [
                 "EMS items to some regions are not acceptable."
             ],
-            "temporary": [
-                "Among Air items, only some letter-post items are accepted. Check \"Acceptance\/non-acceptance of international mail to the United States, etc.\" for details."
-            ],
+            "temporary": [],
             "delays": []
         },
         "notification": "Considerable delays will be experienced in the delivery of mail items in the country (territory). and items will not be handed directly to addressees."
@@ -1217,12 +1215,12 @@
         "countryCode": "GP",
         "destination": "Guadeloupe",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -1815,7 +1813,7 @@
         "countryCode": "CI",
         "destination": "Ivory Coast",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
@@ -2557,12 +2555,12 @@
         "countryCode": "SN",
         "destination": "Senegal",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -4433,7 +4431,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": ""
+        "notification": "Due to COVID-19 quarantine enforcement, significant delays will be experienced in the delivery of inbound mail products."
     },
     {
         "countryCode": "MG",
@@ -4525,12 +4523,12 @@
         "countryCode": "MQ",
         "destination": "Martinique",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -5214,12 +5212,12 @@
         "countryCode": "RE",
         "destination": "Reunion",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
