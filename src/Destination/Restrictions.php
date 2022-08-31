@@ -17,7 +17,7 @@ class Restrictions implements JsonSerializable
 
     private function __construct(Language $language, ?string $restriction)
     {
-        $restrictions = config("{$language->getValue()}.restrictions");
+        $restrictions = config("{$language->value}.restrictions");
 
         $regex = array_map(static fn($x) => preg_quote($x, '/'), array_keys($restrictions));
 
@@ -43,7 +43,7 @@ class Restrictions implements JsonSerializable
     {
         $string = trim($string);
 
-        $period = config("{$language->getValue()}.period");
+        $period = config("{$language->value}.period");
         if (str_ends_with($string, $period) === false) {
             $string .= $period;
         }

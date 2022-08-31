@@ -31,7 +31,7 @@ class Destination implements JsonSerializable
         $this->destination = $attributes[0];
         $this->letterPost = Mail::make($language, $attributes[1], $attributes[2], $attributes[3]);
         $this->parcels = Mail::make($language, $attributes[4], $attributes[5], $attributes[6]);
-        $this->ems = config("{$language->getValue()}.delivery")[$attributes[7]];
+        $this->ems = config("{$language->value}.delivery")[$attributes[7]];
         $this->restrictions = Restrictions::make($language, $attributes[8]);
         $this->notification = $attributes[9];
     }
@@ -43,9 +43,9 @@ class Destination implements JsonSerializable
 
     private function getCountryCode(Language $language, string $destination): string
     {
-        $countries = config("{$language->getValue()}.countries");
+        $countries = config("{$language->value}.countries");
         if (!isset($countries[$destination])) {
-            throw new OutOfRangeException("No such country '{$destination}' in {$language->getValue()}");
+            throw new OutOfRangeException("No such country '{$destination}' in {$language->value}");
         }
 
         return $countries[$destination];

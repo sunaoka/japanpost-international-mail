@@ -4,18 +4,18 @@ declare(strict_types=1);
 
 namespace Sunaoka\JapanPostInternationalMail;
 
-use MyCLabs\Enum\Enum;
-
-/**
- * @method static JAPANESE()
- * @method static ENGLISH()
- * @method static CHINESE()
- */
-class Language extends Enum
+enum Language: string
 {
-    private const JAPANESE = 'japanese';
+    case JAPANESE = 'japanese';
 
-    private const ENGLISH = 'english';
+    case ENGLISH = 'english';
 
-    private const CHINESE = 'chinese';
+    case CHINESE = 'chinese';
+
+    public static function values(): array
+    {
+        return array_map(static function (self $case) {
+            return $case->value;
+        }, self::cases());
+    }
 }

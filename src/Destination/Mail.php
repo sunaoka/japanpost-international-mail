@@ -11,7 +11,7 @@ class Mail implements JsonSerializable
 {
     private function __construct(Language $language, private string $air, private string $sal, private string $surface)
     {
-        $delivery = config("{$language->getValue()}.delivery");
+        $delivery = config("{$language->value}.delivery");
 
         $this->air = $delivery[$air];
         $this->sal = $delivery[$sal];

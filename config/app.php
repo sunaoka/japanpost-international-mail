@@ -6,9 +6,5 @@ use Sunaoka\JapanPostInternationalMail\Language;
 
 return [
     'district' => dirname(__DIR__) . '/dist',
-    'languages' => [
-        Language::JAPANESE(),
-        Language::ENGLISH(),
-        Language::CHINESE(),
-    ],
+    'languages' => Language::cases(),
 ];

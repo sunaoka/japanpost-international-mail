@@ -24,11 +24,11 @@ try {
     /** @var Language $language */
     foreach (config('app.languages') as $language) {
         $destinations = $crawler->crawl($language);
-        $file = config("{$language->getValue()}.file");
+        $file = config("{$language->value}.file");
         $json = json_encode($destinations, $jsonFlags);
 
-        $meta['md5'][$language->getValue()] = md5($json);
-        if ($current['md5'][$language->getValue()] !== $meta['md5'][$language->getValue()]) {
+        $meta['md5'][$language->value] = md5($json);
+        if ($current['md5'][$language->value] !== $meta['md5'][$language->value]) {
             $meta['date'] = date(DATE_ATOM);
             file_put_contents("{$district}/{$file}", $json);
         }
