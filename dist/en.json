@@ -291,7 +291,7 @@
         "notification": ""
     },
     {
-        "countryCode": "SH",
+        "countryCode": "AC",
         "destination": "Ascension",
         "letterPost": {
             "air": "acceptable",
@@ -1063,7 +1063,7 @@
         "notification": "Items will not be handed directly to addressees."
     },
     {
-        "countryCode": "NL",
+        "countryCode": "BQ",
         "destination": "Bonaire, Saba and Sint Eustatius",
         "letterPost": {
             "air": "acceptable",
@@ -1988,7 +1988,7 @@
         "notification": ""
     },
     {
-        "countryCode": "MP",
+        "countryCode": "SP",
         "destination": "Saipan",
         "letterPost": {
             "air": "some_acceptable",
@@ -2988,7 +2988,7 @@
         "notification": ""
     },
     {
-        "countryCode": "DO",
+        "countryCode": "DM",
         "destination": "Dominica",
         "letterPost": {
             "air": "acceptable",
@@ -3030,7 +3030,7 @@
         "notification": ""
     },
     {
-        "countryCode": "SH",
+        "countryCode": "TA",
         "destination": "Tristan da Cunha",
         "letterPost": {
             "air": "acceptable",
@@ -4610,7 +4610,7 @@
         "notification": ""
     },
     {
-        "countryCode": "UM",
+        "countryCode": "MI",
         "destination": "Midway Islands",
         "letterPost": {
             "air": "some_acceptable",

@@ -291,7 +291,7 @@
         "notification": ""
     },
     {
-        "countryCode": "SH",
+        "countryCode": "AC",
         "destination": "アセンション",
         "letterPost": {
             "air": "acceptable",
@@ -1063,7 +1063,7 @@
         "notification": "配達は非対面の方法等で行います。"
     },
     {
-        "countryCode": "NL",
+        "countryCode": "BQ",
         "destination": "オランダカリブ領域",
         "letterPost": {
             "air": "acceptable",
@@ -1988,7 +1988,7 @@
         "notification": ""
     },
     {
-        "countryCode": "MP",
+        "countryCode": "SP",
         "destination": "サイパン",
         "letterPost": {
             "air": "some_acceptable",
@@ -2988,7 +2988,7 @@
         "notification": ""
     },
     {
-        "countryCode": "DO",
+        "countryCode": "DM",
         "destination": "ドミニカ",
         "letterPost": {
             "air": "acceptable",
@@ -3030,7 +3030,7 @@
         "notification": ""
     },
     {
-        "countryCode": "SH",
+        "countryCode": "TA",
         "destination": "トリスタン・ダ・クーニャ",
         "letterPost": {
             "air": "acceptable",
@@ -4610,7 +4610,7 @@
         "notification": ""
     },
     {
-        "countryCode": "UM",
+        "countryCode": "MI",
         "destination": "ミッドウェイ諸島",
         "letterPost": {
             "air": "some_acceptable",

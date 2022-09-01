@@ -291,7 +291,7 @@
         "notification": ""
     },
     {
-        "countryCode": "SH",
+        "countryCode": "AC",
         "destination": "阿森松",
         "letterPost": {
             "air": "acceptable",
@@ -1063,7 +1063,7 @@
         "notification": "配送将采取非见面无接触的方式等进行。"
     },
     {
-        "countryCode": "NL",
+        "countryCode": "BQ",
         "destination": "荷兰加勒比区",
         "letterPost": {
             "air": "acceptable",
@@ -1988,7 +1988,7 @@
         "notification": ""
     },
     {
-        "countryCode": "MP",
+        "countryCode": "SP",
         "destination": "塞班岛",
         "letterPost": {
             "air": "some_acceptable",
@@ -2988,7 +2988,7 @@
         "notification": ""
     },
     {
-        "countryCode": "DO",
+        "countryCode": "DM",
         "destination": "多米尼加",
         "letterPost": {
             "air": "acceptable",
@@ -3030,7 +3030,7 @@
         "notification": ""
     },
     {
-        "countryCode": "SH",
+        "countryCode": "TA",
         "destination": "特里斯坦-达库尼亚群岛",
         "letterPost": {
             "air": "acceptable",
@@ -4610,7 +4610,7 @@
         "notification": ""
     },
     {
-        "countryCode": "UM",
+        "countryCode": "MI",
         "destination": "中途岛",
         "letterPost": {
             "air": "some_acceptable",
