@@ -16,7 +16,7 @@
         "properties": {
             "countryCode": {
                 "type": "string",
-                "title": "Country code (ISO 3166-1 Alpha-2 code)"
+                "title": "Country code (ISO 3166-1 Alpha-2 and assigned by Japan Post)"
             },
             "destination": {
                 "type": "string",
