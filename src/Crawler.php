@@ -8,6 +8,8 @@ use Goutte\Client;
 use Normalizer;
 use Symfony\Component\DomCrawler\Crawler as BaseCrawler;
 
+use function Sunaoka\JapanPostInternationalMail\Support\config;
+
 class Crawler
 {
     /**

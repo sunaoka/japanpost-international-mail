@@ -4,6 +4,8 @@ declare(strict_types=1);
 
 namespace Sunaoka\JapanPostInternationalMail;
 
+use function Sunaoka\JapanPostInternationalMail\Support\config;
+
 require_once dirname(__DIR__) . '/vendor/autoload.php';
 
 date_default_timezone_set('UTC');

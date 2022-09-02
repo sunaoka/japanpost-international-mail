@@ -7,6 +7,8 @@ namespace Sunaoka\JapanPostInternationalMail\Destination;
 use JsonSerializable;
 use Sunaoka\JapanPostInternationalMail\Language;
 
+use function Sunaoka\JapanPostInternationalMail\Support\config;
+
 class Restrictions implements JsonSerializable
 {
     private array $normal = [];

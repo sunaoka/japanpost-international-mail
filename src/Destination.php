@@ -9,6 +9,8 @@ use OutOfRangeException;
 use Sunaoka\JapanPostInternationalMail\Destination\Mail;
 use Sunaoka\JapanPostInternationalMail\Destination\Restrictions;
 
+use function Sunaoka\JapanPostInternationalMail\Support\config;
+
 class Destination implements JsonSerializable
 {
     private string $countryCode;

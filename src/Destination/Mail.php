@@ -7,6 +7,8 @@ namespace Sunaoka\JapanPostInternationalMail\Destination;
 use JsonSerializable;
 use Sunaoka\JapanPostInternationalMail\Language;
 
+use function Sunaoka\JapanPostInternationalMail\Support\config;
+
 class Mail implements JsonSerializable
 {
     private function __construct(Language $language, private string $air, private string $sal, private string $surface)

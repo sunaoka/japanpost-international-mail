@@ -2,6 +2,8 @@
 
 declare(strict_types=1);
 
+namespace Sunaoka\JapanPostInternationalMail\Support;
+
 /**
  * @param string     $key
  * @param mixed|null $default
@@ -25,7 +27,6 @@ function config(string $key, mixed $default = null): mixed
             return $default;
         }
 
-        /** @noinspection PhpIncludeInspection */
         $config[$file] = require($path);
     }
 
