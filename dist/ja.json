@@ -291,7 +291,7 @@
         "notification": ""
     },
     {
-        "countryCode": "AC",
+        "countryCode": "AX",
         "destination": "アセンション",
         "letterPost": {
             "air": "acceptable",
@@ -708,7 +708,7 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
     {
-        "countryCode": "UM",
+        "countryCode": "WK",
         "destination": "ウェーキ",
         "letterPost": {
             "air": "some_acceptable",
@@ -1875,7 +1875,7 @@
         "notification": "配達は非対面の方法等で行います。"
     },
     {
-        "countryCode": "XK",
+        "countryCode": "XZ",
         "destination": "コソボ",
         "letterPost": {
             "air": "acceptable",
@@ -4279,7 +4279,7 @@
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
     {
-        "countryCode": "JP",
+        "countryCode": "NT",
         "destination": "北方諸島",
         "letterPost": {
             "air": "not_acceptable",
@@ -4610,7 +4610,7 @@
         "notification": ""
     },
     {
-        "countryCode": "MI",
+        "countryCode": "UM",
         "destination": "ミッドウェイ諸島",
         "letterPost": {
             "air": "some_acceptable",

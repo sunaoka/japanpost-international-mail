@@ -291,7 +291,7 @@
         "notification": ""
     },
     {
-        "countryCode": "AC",
+        "countryCode": "AX",
         "destination": "阿森松",
         "letterPost": {
             "air": "acceptable",
@@ -708,7 +708,7 @@
         "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
-        "countryCode": "UM",
+        "countryCode": "WK",
         "destination": "威克岛",
         "letterPost": {
             "air": "some_acceptable",
@@ -1875,7 +1875,7 @@
         "notification": "配送将采取非见面无接触的方式等进行。"
     },
     {
-        "countryCode": "XK",
+        "countryCode": "XZ",
         "destination": "科索沃",
         "letterPost": {
             "air": "acceptable",
@@ -4279,7 +4279,7 @@
         "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
-        "countryCode": "JP",
+        "countryCode": "NT",
         "destination": "北方群岛",
         "letterPost": {
             "air": "not_acceptable",
@@ -4610,7 +4610,7 @@
         "notification": ""
     },
     {
-        "countryCode": "MI",
+        "countryCode": "UM",
         "destination": "中途岛",
         "letterPost": {
             "air": "some_acceptable",
