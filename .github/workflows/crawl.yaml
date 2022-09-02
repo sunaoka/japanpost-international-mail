@@ -25,6 +25,9 @@ jobs:
       - name: Crawl
         run: php bin/app.php
 
+      - name: Country ID
+        run: php bin/cid.php
+
       - name: Count changes
         id: changes
         run: |
