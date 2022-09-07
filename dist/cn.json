@@ -154,7 +154,9 @@
                 "EMS寄至地区有限制。"
             ],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
+            ]
         },
         "notification": "在该国家，快递的送达将大幅度延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
@@ -1060,7 +1062,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "BQ",
@@ -1129,16 +1131,16 @@
         "countryCode": "GG",
         "destination": "根西岛",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -2207,16 +2209,16 @@
         "countryCode": "JE",
         "destination": "泽西",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -2954,7 +2956,7 @@
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [
@@ -4100,7 +4102,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "BJ",
@@ -4431,7 +4433,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "采取了加强新冠病毒感染检疫的措施等，邮件配送会大幅延迟。"
+        "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
         "countryCode": "MG",
@@ -4565,16 +4567,16 @@
         "countryCode": "IM",
         "destination": "马恩岛",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -4739,7 +4741,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将大幅度延迟。此外，配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "MR",
@@ -5132,7 +5134,7 @@
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },

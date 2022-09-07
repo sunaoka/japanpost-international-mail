@@ -154,7 +154,9 @@
                 "EMS items to some regions are not acceptable."
             ],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
+            ]
         },
         "notification": "Considerable delays will be experienced in the delivery of mail items in the country (territory). and items will not be handed directly to addressees."
     },
@@ -1060,7 +1062,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "BQ",
@@ -1129,16 +1131,16 @@
         "countryCode": "GG",
         "destination": "Guernsey",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -2207,16 +2209,16 @@
         "countryCode": "JE",
         "destination": "Jersey",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -2954,7 +2956,7 @@
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [
@@ -4100,7 +4102,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "BJ",
@@ -4431,7 +4433,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Due to COVID-19 quarantine enforcement, significant delays will be experienced in the delivery of inbound mail products."
+        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
         "countryCode": "MG",
@@ -4565,16 +4567,16 @@
         "countryCode": "IM",
         "destination": "Isle of Man",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -4739,7 +4741,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Considerable delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "MR",
@@ -5131,7 +5133,7 @@
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
