@@ -1660,12 +1660,12 @@
         "letterPost": {
             "air": "acceptable",
             "sal": "no_service",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
             "air": "acceptable",
             "sal": "no_service",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "ems": "acceptable",
         "restrictions": {
@@ -1706,12 +1706,12 @@
         "letterPost": {
             "air": "not_acceptable",
             "sal": "no_service",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
             "air": "not_acceptable",
             "sal": "no_service",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -1840,12 +1840,12 @@
         "letterPost": {
             "air": "not_acceptable",
             "sal": "no_service",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
             "air": "not_acceptable",
             "sal": "no_service",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -2041,7 +2041,7 @@
         "letterPost": {
             "air": "acceptable",
             "sal": "no_service",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
             "air": "acceptable",
@@ -2710,7 +2710,7 @@
         "letterPost": {
             "air": "not_acceptable",
             "sal": "no_service",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
             "air": "not_acceptable",
@@ -3121,7 +3121,7 @@
         "letterPost": {
             "air": "not_acceptable",
             "sal": "no_service",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
             "air": "not_acceptable",
@@ -3163,12 +3163,12 @@
         "letterPost": {
             "air": "not_acceptable",
             "sal": "no_service",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
             "air": "not_acceptable",
             "sal": "no_service",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -3270,7 +3270,7 @@
         "letterPost": {
             "air": "acceptable",
             "sal": "no_service",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
             "air": "acceptable",
@@ -3339,12 +3339,12 @@
         "letterPost": {
             "air": "not_acceptable",
             "sal": "no_service",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
             "air": "not_acceptable",
             "sal": "no_service",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -3515,7 +3515,7 @@
         "letterPost": {
             "air": "not_acceptable",
             "sal": "no_service",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
             "air": "not_acceptable",
@@ -3557,7 +3557,7 @@
         "letterPost": {
             "air": "not_acceptable",
             "sal": "no_service",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
             "air": "not_acceptable",
@@ -3890,7 +3890,7 @@
         "letterPost": {
             "air": "not_acceptable",
             "sal": "no_service",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
             "air": "not_acceptable",
