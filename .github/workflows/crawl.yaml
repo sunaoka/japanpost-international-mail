@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Setup PHP with composer v2
         uses: shivammathur/setup-php@v2
@@ -32,10 +32,11 @@ jobs:
         id: changes
         run: |
           git add -N .
-          echo "::set-output name=count::$(git diff --name-only | wc -l)"
+          git diff --name-only --exit-code
+        continue-on-error: true
 
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v3
+        uses: peter-evans/create-pull-request@v4
         with:
           commit-message: Update Service availability
           delete-branch: true
@@ -46,4 +47,4 @@ jobs:
             - Japanese: https://www.post.japanpost.jp/int/information/overview.html
             - English: https://www.post.japanpost.jp/int/information/overview_en.html
             - Chinese: https://www.post.japanpost.jp/int/information/overview_cn.html
-        if: ${{ steps.changes.outputs.count > 0 }}
+        if: steps.changes.outcome == 'failure'
