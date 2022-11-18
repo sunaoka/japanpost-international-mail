@@ -18,7 +18,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Due to COVID-19 quarantine enforcement in China, significant delays will be experienced in the delivery of inbound mail products."
+        "notification": "Due to COVID-19 quarantine enforcement in China, Delays will be experienced in the delivery of inbound mail products."
     },
     {
         "countryCode": "US",
@@ -158,7 +158,7 @@
                 "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
             ]
         },
-        "notification": "Considerable delays will be experienced in the delivery of mail items in the country (territory). and items will not be handed directly to addressees."
+        "notification": "Delays will be experienced in the delivery of mail items in the country (territory). and items will not be handed directly to addressees."
     },
     {
         "countryCode": "TH",
@@ -464,7 +464,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Considerable delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
+        "notification": "Delays will be experienced in the delivery of mail items in the country (territory). and items will not be handed directly to addressees."
     },
     {
         "countryCode": "AI",
@@ -1392,7 +1392,7 @@
         "countryCode": "MP",
         "destination": "Northern Mariana Islands",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -1404,9 +1404,7 @@
         "ems": "no_service",
         "restrictions": {
             "normal": [],
-            "temporary": [
-                "Among Air items, only some letter-post items are accepted. Check \"Acceptance\/non-acceptance of international mail to the United States, etc.\" for details."
-            ],
+            "temporary": [],
             "delays": [
                 "Loading items onto ships is expected to take about one month."
             ]
@@ -1545,7 +1543,7 @@
         "countryCode": "KI",
         "destination": "Kiribati",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
@@ -1608,23 +1606,21 @@
         "countryCode": "GU",
         "destination": "Guam",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [
                 "EMS items to some regions are not acceptable."
             ],
-            "temporary": [
-                "Among Air items, only some letter-post items are accepted. Check \"Acceptance\/non-acceptance of international mail to the United States, etc.\" for details."
-            ],
+            "temporary": [],
             "delays": [
                 "Loading items onto ships is expected to take about one month."
             ]
@@ -1993,23 +1989,21 @@
         "countryCode": "SP",
         "destination": "Saipan",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [
                 "EMS items are not acceptable in part of regions."
             ],
-            "temporary": [
-                "Among Air items, only some letter-post items are accepted. Check \"Acceptance\/non-acceptance of international mail to the United States, etc.\" for details."
-            ],
+            "temporary": [],
             "delays": []
         },
         "notification": ""
@@ -3056,16 +3050,16 @@
         "countryCode": "TT",
         "destination": "Trinidad and Tobago",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -3119,12 +3113,12 @@
         "countryCode": "TO",
         "destination": "Tonga",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
@@ -3161,12 +3155,12 @@
         "countryCode": "NR",
         "destination": "Nauru",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
@@ -3513,7 +3507,7 @@
         "countryCode": "VU",
         "destination": "Vanuatu",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
@@ -3578,7 +3572,7 @@
         "countryCode": "PW",
         "destination": "Palau",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -3590,9 +3584,7 @@
         "ems": "no_service",
         "restrictions": {
             "normal": [],
-            "temporary": [
-                "Among Air items, only some letter-post items are accepted. Check \"Acceptance\/non-acceptance of international mail to the United States, etc.\" for details."
-            ],
+            "temporary": [],
             "delays": [
                 "Loading items onto ships is expected to take about one month."
             ]
@@ -3794,7 +3786,7 @@
                 "Transportation of outbound mails to the destination is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
             ]
         },
-        "notification": "Considerable delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
         "countryCode": "PR",
@@ -3935,7 +3927,7 @@
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -4391,7 +4383,7 @@
         "countryCode": "MH",
         "destination": "Marshall Islands",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -4405,9 +4397,7 @@
             "normal": [
                 "Registered post letters are not acceptable."
             ],
-            "temporary": [
-                "Among Air items, only some letter-post items are accepted. Check \"Acceptance\/non-acceptance of international mail to the United States, etc.\" for details."
-            ],
+            "temporary": [],
             "delays": [
                 "Loading items onto ships is expected to take about one month."
             ]
@@ -4588,7 +4578,7 @@
         "countryCode": "FM",
         "destination": "Federated States of Micronesia",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -4602,9 +4592,7 @@
             "normal": [
                 "Registered post letters are not acceptable."
             ],
-            "temporary": [
-                "Among Air items, only some letter-post items are accepted. Check \"Acceptance\/non-acceptance of international mail to the United States, etc.\" for details."
-            ],
+            "temporary": [],
             "delays": [
                 "Loading items onto ships is expected to take about one month."
             ]
@@ -4680,12 +4668,12 @@
         "countryCode": "MM",
         "destination": "Myanmar",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -4720,7 +4708,7 @@
                 "Loading items onto airplanes is expected to take about two to three weeks due to the shortage of loading space caused by the reduction of flights."
             ]
         },
-        "notification": "Considerable delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
     },
     {
         "countryCode": "MU",
@@ -5260,12 +5248,12 @@
         "countryCode": "WF",
         "destination": "Wallis and Futuna",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },

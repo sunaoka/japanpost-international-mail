@@ -18,7 +18,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在中国采取了加强新冠病毒感染检疫的措施等，邮件配送会大幅延迟。"
+        "notification": "在中国采取了加强新冠病毒感染检疫的措施等，邮件配送会延迟。"
     },
     {
         "countryCode": "US",
@@ -158,7 +158,7 @@
                 "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
             ]
         },
-        "notification": "在该国家，快递的送达将大幅度延迟。此外，配送将采取非见面无接触的方式等进行。"
+        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
         "countryCode": "TH",
@@ -464,7 +464,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将大幅度延迟。此外，配送将采取非见面无接触的方式等进行。"
+        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
     },
     {
         "countryCode": "AI",
@@ -1392,7 +1392,7 @@
         "countryCode": "MP",
         "destination": "北马里亚纳群岛",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -1404,9 +1404,7 @@
         "ems": "no_service",
         "restrictions": {
             "normal": [],
-            "temporary": [
-                "航空邮件中，有部分普通邮件可寄送。详情请见 \"寄往美国等的国际邮件受理情况\"。"
-            ],
+            "temporary": [],
             "delays": [
                 "海运邮件，受理后装船需要大概一个月左右的时间。"
             ]
@@ -1545,7 +1543,7 @@
         "countryCode": "KI",
         "destination": "基里巴斯",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
@@ -1608,23 +1606,21 @@
         "countryCode": "GU",
         "destination": "关岛",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [
                 "EMS寄至地区有限制。"
             ],
-            "temporary": [
-                "航空邮件中，有部分普通邮件可寄送。详情请见 \"寄往美国等的国际邮件受理情况\"。"
-            ],
+            "temporary": [],
             "delays": [
                 "海运邮件，受理后装船需要大概一个月左右的时间。"
             ]
@@ -1993,23 +1989,21 @@
         "countryCode": "SP",
         "destination": "塞班岛",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [
                 "EMS寄至地区有限制。"
             ],
-            "temporary": [
-                "航空邮件中，有部分普通邮件可寄送。详情请见 \"寄往美国等的国际邮件受理情况\"。"
-            ],
+            "temporary": [],
             "delays": []
         },
         "notification": ""
@@ -3056,16 +3050,16 @@
         "countryCode": "TT",
         "destination": "特立尼达和多巴哥",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -3119,12 +3113,12 @@
         "countryCode": "TO",
         "destination": "汤加",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
@@ -3161,12 +3155,12 @@
         "countryCode": "NR",
         "destination": "瑙鲁",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
@@ -3513,7 +3507,7 @@
         "countryCode": "VU",
         "destination": "瓦努阿图",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
@@ -3578,7 +3572,7 @@
         "countryCode": "PW",
         "destination": "帕劳群岛",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -3590,9 +3584,7 @@
         "ems": "no_service",
         "restrictions": {
             "normal": [],
-            "temporary": [
-                "航空邮件中，有部分普通邮件可寄送。详情请见 \"寄往美国等的国际邮件受理情况\"。"
-            ],
+            "temporary": [],
             "delays": [
                 "海运邮件，受理后装船需要大概一个月左右的时间。"
             ]
@@ -3794,7 +3786,7 @@
                 "由于航班减少等原因造成的运输舱位不足等，邮件到达该国家可能需要相当长时间。"
             ]
         },
-        "notification": "在该国家，快递的送达将大幅度延迟。"
+        "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
         "countryCode": "PR",
@@ -3935,7 +3927,7 @@
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -4391,7 +4383,7 @@
         "countryCode": "MH",
         "destination": "马绍尔群岛",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -4405,9 +4397,7 @@
             "normal": [
                 "挂号普通邮件不可受理。"
             ],
-            "temporary": [
-                "航空邮件中，有部分普通邮件可寄送。详情请见 \"寄往美国等的国际邮件受理情况\"。"
-            ],
+            "temporary": [],
             "delays": [
                 "海运邮件，受理后装船需要大概一个月左右的时间。"
             ]
@@ -4588,7 +4578,7 @@
         "countryCode": "FM",
         "destination": "密克罗尼西亚联邦",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -4602,9 +4592,7 @@
             "normal": [
                 "挂号普通邮件不可受理。"
             ],
-            "temporary": [
-                "航空邮件中，有部分普通邮件可寄送。详情请见 \"寄往美国等的国际邮件受理情况\"。"
-            ],
+            "temporary": [],
             "delays": [
                 "海运邮件，受理后装船需要大概一个月左右的时间。"
             ]
@@ -4680,12 +4668,12 @@
         "countryCode": "MM",
         "destination": "缅甸",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -4720,7 +4708,7 @@
                 "由于航班减少产生的运送空间不足状况，将会导致邮件搭载航班的排期需要花费2～3周时间。"
             ]
         },
-        "notification": "在该国家，快递的送达将大幅度延迟。"
+        "notification": "在该国家，快递的送达将发生延迟。"
     },
     {
         "countryCode": "MU",
@@ -5259,12 +5247,12 @@
         "countryCode": "WF",
         "destination": "瓦利斯和富图纳",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
