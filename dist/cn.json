@@ -338,16 +338,16 @@
         "countryCode": "AE",
         "destination": "阿拉伯联合酋长国",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -848,16 +848,16 @@
         "countryCode": "EC",
         "destination": "厄瓜多尔",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -1329,16 +1329,16 @@
         "countryCode": "KH",
         "destination": "柬埔寨",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -1855,16 +1855,16 @@
         "countryCode": "CR",
         "destination": "哥斯达黎加",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -3901,12 +3901,12 @@
         "countryCode": "BR",
         "destination": "巴西",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -4964,11 +4964,11 @@
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [
                 "EMS寄至地区有限制。"
