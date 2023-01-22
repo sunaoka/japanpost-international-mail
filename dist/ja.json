@@ -190,7 +190,7 @@
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -785,12 +785,12 @@
         "countryCode": "UZ",
         "destination": "ウズベキスタン",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
@@ -1004,11 +1004,11 @@
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [
                 "EMSは宛てられる地域に制限あり。"
@@ -1173,12 +1173,12 @@
         "countryCode": "KZ",
         "destination": "カザフスタン",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
@@ -1263,12 +1263,12 @@
         "countryCode": "GA",
         "destination": "ガボン",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -1308,7 +1308,7 @@
         "countryCode": "GM",
         "destination": "ガンビア",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
@@ -1415,12 +1415,12 @@
         "countryCode": "GN",
         "destination": "ギニア",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -1564,12 +1564,12 @@
         "countryCode": "KG",
         "destination": "キルギス",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
@@ -1700,16 +1700,16 @@
         "countryCode": "CX",
         "destination": "クリスマス島",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "no_service",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -1834,16 +1834,16 @@
         "countryCode": "CC",
         "destination": "ココス（キーリング）諸島",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "no_service",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -2357,11 +2357,11 @@
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -2509,12 +2509,12 @@
         "countryCode": "SC",
         "destination": "セーシェル",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -2560,7 +2560,7 @@
             "sal": "no_service",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -2746,12 +2746,12 @@
         "countryCode": "TJ",
         "destination": "タジキスタン",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
@@ -2795,11 +2795,11 @@
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -2855,12 +2855,12 @@
         "countryCode": "TN",
         "destination": "チュニジア",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -2923,11 +2923,11 @@
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -2946,7 +2946,7 @@
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -3239,12 +3239,12 @@
         "countryCode": "NE",
         "destination": "ニジェール",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -3331,16 +3331,16 @@
         "countryCode": "NF",
         "destination": "ノーフォーク島",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "no_service",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -3357,11 +3357,11 @@
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -3514,7 +3514,7 @@
         "parcels": {
             "air": "not_acceptable",
             "sal": "no_service",
-            "surface": "no_service"
+            "surface": "not_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -3642,11 +3642,11 @@
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -4100,12 +4100,12 @@
         "countryCode": "BJ",
         "destination": "ベナン",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -4235,11 +4235,11 @@
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -4781,16 +4781,16 @@
         "countryCode": "MC",
         "destination": "モナコ",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -5010,11 +5010,11 @@
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -5148,7 +5148,7 @@
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -5211,7 +5211,7 @@
             "sal": "no_service",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
