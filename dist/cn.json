@@ -141,18 +141,16 @@
         "letterPost": {
             "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
             "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
             "delays": [
                 "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
@@ -1656,12 +1654,12 @@
         "letterPost": {
             "air": "acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
             "air": "acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "ems": "acceptable",
         "restrictions": {
@@ -1702,12 +1700,12 @@
         "letterPost": {
             "air": "acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
             "air": "acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "ems": "acceptable",
         "restrictions": {
@@ -1836,12 +1834,12 @@
         "letterPost": {
             "air": "acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
             "air": "acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "ems": "acceptable",
         "restrictions": {
@@ -2035,7 +2033,7 @@
         "letterPost": {
             "air": "acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
             "air": "acceptable",
@@ -2704,7 +2702,7 @@
         "letterPost": {
             "air": "not_acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
             "air": "not_acceptable",
@@ -3115,7 +3113,7 @@
         "letterPost": {
             "air": "acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
             "air": "acceptable",
@@ -3157,12 +3155,12 @@
         "letterPost": {
             "air": "acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
             "air": "acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -3264,7 +3262,7 @@
         "letterPost": {
             "air": "acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
             "air": "acceptable",
@@ -3333,12 +3331,12 @@
         "letterPost": {
             "air": "acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
             "air": "acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "ems": "acceptable",
         "restrictions": {
@@ -3509,12 +3507,12 @@
         "letterPost": {
             "air": "acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
             "air": "not_acceptable",
             "sal": "no_service",
-            "surface": "no_service"
+            "surface": "not_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -3551,7 +3549,7 @@
         "letterPost": {
             "air": "not_acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
             "air": "not_acceptable",
@@ -3882,7 +3880,7 @@
         "letterPost": {
             "air": "not_acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
             "air": "not_acceptable",
@@ -4423,7 +4421,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "MG",
