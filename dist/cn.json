@@ -156,7 +156,7 @@
                 "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
             ]
         },
-        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "TH",
@@ -976,16 +976,16 @@
         "countryCode": "SV",
         "destination": "萨尔瓦多",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -1241,7 +1241,7 @@
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -1374,7 +1374,7 @@
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -2222,16 +2222,16 @@
         "countryCode": "JM",
         "destination": "牙买加",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -2575,7 +2575,7 @@
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -2811,12 +2811,12 @@
         "countryCode": "TD",
         "destination": "乍得",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
@@ -2874,12 +2874,12 @@
         "countryCode": "CL",
         "destination": "智利",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
@@ -3006,12 +3006,12 @@
         "countryCode": "DO",
         "destination": "多米尼加共和国",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
@@ -3216,12 +3216,12 @@
         "countryCode": "NI",
         "destination": "尼加拉瓜",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
@@ -3300,7 +3300,7 @@
                 "由于航班减少产生的运送空间不足状况，将会导致邮件搭载航班的排期需要花费2～3周时间。"
             ]
         },
-        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "NP",
@@ -3394,16 +3394,16 @@
         "countryCode": "BH",
         "destination": "巴林",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "no_service"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "no_service"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -3966,12 +3966,12 @@
         "countryCode": "BF",
         "destination": "布基纳法索",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -4184,12 +4184,12 @@
         "countryCode": "PE",
         "destination": "秘鲁",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -4342,11 +4342,11 @@
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -4469,12 +4469,12 @@
         "countryCode": "ML",
         "destination": "马里",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -4733,12 +4733,12 @@
         "countryCode": "MR",
         "destination": "毛里塔尼亚",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
