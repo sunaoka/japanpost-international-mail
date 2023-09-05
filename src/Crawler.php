@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace Sunaoka\JapanPostInternationalMail;
 
-use Goutte\Client;
 use Normalizer;
+use Symfony\Component\BrowserKit\HttpBrowser;
 use Symfony\Component\DomCrawler\Crawler as BaseCrawler;
 
 use function Sunaoka\JapanPostInternationalMail\Support\config;
@@ -19,7 +19,7 @@ class Crawler
      */
     public function crawl(Language $language): array
     {
-        $client = new Client();
+        $client = new HttpBrowser();
 
         $crawler = $client->request('GET', config("{$language->value}.uri"));
 

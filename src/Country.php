@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Sunaoka\JapanPostInternationalMail;
 
-use Goutte\Client;
+use Symfony\Component\BrowserKit\HttpBrowser;
 use Symfony\Component\DomCrawler\Crawler as BaseCrawler;
 
 use function Sunaoka\JapanPostInternationalMail\Support\config;
@@ -15,7 +15,7 @@ class Country
 
     public function __construct(Language $language)
     {
-        $client = new Client();
+        $client = new HttpBrowser();
 
         $crawler = $client->request('GET', config("{$language->value}.uri"));
 

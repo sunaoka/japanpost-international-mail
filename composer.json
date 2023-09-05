@@ -12,7 +12,10 @@
     ],
     "require": {
         "php": "^8.1",
-        "fabpot/goutte": "^4.0"
+        "ext-intl": "*",
+        "symfony/browser-kit": "^6.3",
+        "symfony/http-client": "^6.3",
+        "symfony/css-selector": "^6.3"
     }
     ,
     "require-dev": {
