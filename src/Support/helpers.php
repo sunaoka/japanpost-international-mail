@@ -17,20 +17,18 @@ function config(string $key, mixed $default = null): mixed
 {
     static $config = [];
 
-    if (str_contains($key, '.') === false) {
-        return $default;
-    }
-
-    [$file, $item] = explode('.', $key, 2);
+    [$file, $item] = str_contains($key, '.') ? explode('.', $key, 2) : [$key, null];
 
     if (!isset($config[$file])) {
         $path = dirname(__DIR__, 2) . "/config/{$file}.php";
 
-        if (!is_readable($path)) {
-            return $default;
+        if (is_readable($path)) {
+            $config[$file] = require($path);
         }
+    }
 
-        $config[$file] = require($path);
+    if ($item === null) {
+        return $config[$file] ?? $default;
     }
 
     return $config[$file][$item] ?? $default;

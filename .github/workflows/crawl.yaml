@@ -28,6 +28,9 @@ jobs:
       - name: Country ID
         run: php bin/cid.php
 
+      - name: Zone
+        run: php bin/zone.php
+
       - name: Count changes
         id: changes
         run: |
