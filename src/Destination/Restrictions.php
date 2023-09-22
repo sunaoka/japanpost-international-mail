@@ -26,7 +26,9 @@ class Restrictions implements JsonSerializable
         $items = preg_split('/(' . implode('|', $regex) . ')/', $restriction, -1, PREG_SPLIT_NO_EMPTY | PREG_SPLIT_DELIM_CAPTURE);
 
         for ($i = 0, $len = count($items); $i < $len; $i += 2) {
-            $this->{$restrictions[$items[$i]]}[] = $this->normalize($language, $items[$i + 1]);
+            if (isset($restrictions[$items[$i]])) {
+                $this->{$restrictions[$items[$i]]}[] = $this->normalize($language, $items[$i + 1]);
+            }
         }
     }
 
