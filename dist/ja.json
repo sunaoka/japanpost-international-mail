@@ -24,7 +24,7 @@
         "countryCode": "US",
         "destination": "アメリカ合衆国",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -38,9 +38,7 @@
             "normal": [
                 "EMSは宛てられる地域に制限あり。"
             ],
-            "temporary": [
-                "航空扱いのうち、一部の通常郵便物は差出可。詳しくは「米国等宛て国際郵便物の引受可否」を確認してください。"
-            ],
+            "temporary": [],
             "delays": [
                 "航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
             ]
@@ -66,7 +64,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。 次の地域の配達は非対面の方法等で行います。 対象地域：Daegu（大邱）"
+        "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。次の地域の配達は非対面の方法等で行います。対象地域：Daegu（大邱）"
     },
     {
         "countryCode": "PH",
@@ -91,7 +89,7 @@
                 "航空機の減便等により運送スペースが不足していることから、航空機への搭載に2～3週間程度の期間を要します。"
             ]
         },
-        "notification": "国際交換局は最低限の人員で名宛国・地域外からの郵便物の受入れを行っており、名宛国・地域において郵便物のお届けに遅延が生じます。 隔離地域には小切手、医薬品等を包有する郵便物のみ配達します。"
+        "notification": "国際交換局は最低限の人員で名宛国・地域外からの郵便物の受入れを行っており、名宛国・地域において郵便物のお届けに遅延が生じます。隔離地域には小切手、医薬品等を包有する郵便物のみ配達します。"
     },
     {
         "countryCode": "TW",
@@ -183,7 +181,7 @@
         "countryCode": "GB",
         "destination": "英国",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -195,9 +193,7 @@
         "ems": "acceptable",
         "restrictions": {
             "normal": [],
-            "temporary": [
-                "航空扱いのうち、一部の通常郵便物は差出可。詳しくは「米国等宛て国際郵便物の引受可否」を確認してください。"
-            ],
+            "temporary": [],
             "delays": []
         },
         "notification": ""
@@ -328,7 +324,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
+            ]
         },
         "notification": ""
     },
@@ -349,7 +347,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
+            ]
         },
         "notification": ""
     },
@@ -711,21 +711,19 @@
         "countryCode": "WK",
         "destination": "ウェーキ",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "ems": "no_service",
         "restrictions": {
             "normal": [],
-            "temporary": [
-                "航空扱いのうち、一部の通常郵便物は差出可。詳しくは「米国等宛て国際郵便物の引受可否」を確認してください。"
-            ],
+            "temporary": [],
             "delays": []
         },
         "notification": ""
@@ -796,7 +794,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
+            ]
         },
         "notification": ""
     },
@@ -1013,7 +1013,7 @@
             ],
             "temporary": [],
             "delays": [
-                "海上輸送は貨物混雑のため、現地到着まで平常期に比べ3か月程度遅れる可能性があります。 航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
+                "海上輸送は貨物混雑のため、現地到着まで平常期に比べ3か月程度遅れる可能性があります。航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
             ]
         },
         "notification": "配達は非対面の方法等で行います。"
@@ -1100,7 +1100,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
+            ]
         },
         "notification": ""
     },
@@ -1184,7 +1186,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
+            ]
         },
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
     },
@@ -1236,7 +1240,7 @@
         "countryCode": "CA",
         "destination": "カナダ",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -1248,9 +1252,7 @@
         "ems": "acceptable",
         "restrictions": {
             "normal": [],
-            "temporary": [
-                "航空扱いのうち、一部の通常郵便物は差出可。詳しくは「米国等宛て国際郵便物の引受可否」を確認してください。"
-            ],
+            "temporary": [],
             "delays": [
                 "航空機の減便等により運送スペースが不足していることから、航空機および船舶への搭載に大幅に時間を要します。"
             ]
@@ -1319,7 +1321,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
+            ]
         },
         "notification": ""
     },
@@ -1382,7 +1386,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
+            ]
         },
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
@@ -1543,10 +1549,10 @@
         "letterPost": {
             "air": "acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "no_service"
         },
@@ -1575,7 +1581,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
+            ]
         },
         "notification": ""
     },
@@ -1801,7 +1809,9 @@
                 "EMSは宛てられる地域に制限あり。"
             ],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
+            ]
         },
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
@@ -2038,7 +2048,7 @@
         "parcels": {
             "air": "acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -2172,7 +2182,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
+            ]
         },
         "notification": ""
     },
@@ -2256,7 +2268,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
+            ]
         },
         "notification": "配達は非対面の方法等で行います。"
     },
@@ -2562,7 +2576,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
+            ]
         },
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
@@ -2700,14 +2716,14 @@
         "countryCode": "SB",
         "destination": "ソロモン",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "ems": "not_acceptable",
         "restrictions": {
@@ -2802,7 +2818,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "海上輸送は貨物混雑のため、現地到着まで平常期に比べ3か月程度遅れる可能性があります。 航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
+                "海上輸送は貨物混雑のため、現地到着まで平常期に比べ3か月程度遅れる可能性があります。航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
             ]
         },
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。閉鎖地域の郵便局は営業を停止します。"
@@ -2866,7 +2882,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
+            ]
         },
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
@@ -2895,14 +2913,14 @@
         "countryCode": "TV",
         "destination": "ツバル",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -2929,7 +2947,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "海上輸送は貨物混雑のため、現地到着まで平常期に比べ3か月程度遅れる可能性があります。航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。※フェロー諸島の差出可否については、フェロー諸島の項をご確認ください。"
+            ]
         },
         "notification": ""
     },
@@ -2937,7 +2957,7 @@
         "countryCode": "DE",
         "destination": "ドイツ",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -2949,9 +2969,7 @@
         "ems": "acceptable",
         "restrictions": {
             "normal": [],
-            "temporary": [
-                "航空扱いのうち、一部の通常郵便物は差出可。詳しくは「米国等宛て国際郵便物の引受可否」を確認してください。"
-            ],
+            "temporary": [],
             "delays": [
                 "航空機の減便等により運送スペースが不足していることから、航空機への搭載に大幅に時間を要します。"
             ]
@@ -3101,7 +3119,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
+            ]
         },
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
@@ -3143,7 +3163,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
+            ]
         },
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
@@ -3362,7 +3384,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "海上輸送は貨物混雑のため、現地到着まで平常期に比べ3か月程度遅れる可能性があります。 航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
+                "海上輸送は貨物混雑のため、現地到着まで平常期に比べ3か月程度遅れる可能性があります。航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
             ]
         },
         "notification": ""
@@ -3508,9 +3530,9 @@
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -3545,14 +3567,14 @@
         "countryCode": "PG",
         "destination": "パプアニューギニア",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "ems": "not_acceptable",
         "restrictions": {
@@ -3647,7 +3669,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "海上輸送は貨物混雑のため、現地到着まで平常期に比べ3か月程度遅れる可能性があります。 航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
+                "海上輸送は貨物混雑のため、現地到着まで平常期に比べ3か月程度遅れる可能性があります。航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
             ]
         },
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
@@ -3700,12 +3722,12 @@
         "letterPost": {
             "air": "acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
             "air": "acceptable",
             "sal": "no_service",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -3788,28 +3810,26 @@
         "countryCode": "PR",
         "destination": "プエルト・リコ",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
-            "temporary": [
-                "航空扱いのうち、一部の通常郵便物は差出可。詳しくは「米国等宛て国際郵便物の引受可否」を確認してください。"
-            ],
+            "temporary": [],
             "delays": []
         },
         "notification": ""
     },
     {
         "countryCode": "FO",
-        "destination": "フェロー島",
+        "destination": "フェロー諸島",
         "letterPost": {
             "air": "acceptable",
             "sal": "no_service",
@@ -3876,12 +3896,12 @@
         "countryCode": "PF",
         "destination": "仏領ポリネシア",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -3918,7 +3938,7 @@
         "countryCode": "FR",
         "destination": "フランス",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -3930,9 +3950,7 @@
         "ems": "acceptable",
         "restrictions": {
             "normal": [],
-            "temporary": [
-                "航空扱いのうち、一部の通常郵便物は差出可。詳しくは「米国等宛て国際郵便物の引受可否」を確認してください。"
-            ],
+            "temporary": [],
             "delays": []
         },
         "notification": "配達は非対面の方法等で行います。"
@@ -4029,21 +4047,19 @@
         "countryCode": "VI",
         "destination": "米領ヴァージン諸島",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
-            "temporary": [
-                "航空扱いのうち、一部の通常郵便物は差出可。詳しくは「米国等宛て国際郵便物の引受可否」を確認してください。"
-            ],
+            "temporary": [],
             "delays": []
         },
         "notification": ""
@@ -4052,21 +4068,19 @@
         "countryCode": "AS",
         "destination": "米領サモア",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "ems": "no_service",
         "restrictions": {
             "normal": [],
-            "temporary": [
-                "航空扱いのうち、一部の通常郵便物は差出可。詳しくは「米国等宛て国際郵便物の引受可否」を確認してください。"
-            ],
+            "temporary": [],
             "delays": []
         },
         "notification": ""
@@ -4240,7 +4254,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "海上輸送は貨物混雑のため、現地到着まで平常期に比べ3か月程度遅れる可能性があります。 航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
+                "海上輸送は貨物混雑のため、現地到着まで平常期に比べ3か月程度遅れる可能性があります。航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
             ]
         },
         "notification": ""
@@ -4263,7 +4277,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "海上輸送は貨物混雑のため、現地到着まで平常期に比べ3か月程度遅れる可能性があります。 航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
+                "海上輸送は貨物混雑のため、現地到着まで平常期に比べ3か月程度遅れる可能性があります。航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
             ]
         },
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
@@ -4502,7 +4516,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "海上輸送は貨物混雑のため、現地到着まで平常期に比べ3か月程度遅れる可能性があります。"
+                "海上輸送は貨物混雑のため、現地到着まで平常期に比べ3か月程度遅れる可能性があります。航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
             ]
         },
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
@@ -4599,21 +4613,19 @@
         "countryCode": "UM",
         "destination": "ミッドウェイ諸島",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "ems": "no_service",
         "restrictions": {
             "normal": [],
-            "temporary": [
-                "航空扱いのうち、一部の通常郵便物は差出可。詳しくは「米国等宛て国際郵便物の引受可否」を確認してください。"
-            ],
+            "temporary": [],
             "delays": []
         },
         "notification": ""
@@ -4635,7 +4647,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
+            ]
         },
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
     },
@@ -4992,7 +5006,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "海上輸送は貨物混雑のため、現地到着まで平常期に比べ3か月程度遅れる可能性があります。 航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
+                "海上輸送は貨物混雑のため、現地到着まで平常期に比べ3か月程度遅れる可能性があります。航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
             ]
         },
         "notification": "配達は非対面の方法等で行います。"
@@ -5015,7 +5029,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "海上輸送は貨物混雑のため、現地到着まで平常期に比べ3か月程度遅れる可能性があります。 航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
+                "海上輸送は貨物混雑のため、現地到着まで平常期に比べ3か月程度遅れる可能性があります。航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
             ]
         },
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。"
@@ -5103,7 +5117,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "海上輸送は貨物混雑のため、現地到着まで平常期に比べ3か月程度遅れる可能性があります。"
+                "海上輸送は貨物混雑のため、現地到着まで平常期に比べ3か月程度遅れる可能性があります。航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
             ]
         },
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
@@ -5148,7 +5162,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": []
+            "delays": [
+                "航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
+            ]
         },
         "notification": ""
     },
