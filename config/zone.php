@@ -6,6 +6,7 @@ return [
         '2nd' => 'https://www.post.japanpost.jp/int/charge/list/normal2_ichiran_en.html',
         '3rd' => 'https://www.post.japanpost.jp/int/charge/list/normal3_ichiran_en.html',
         '4th' => 'https://www.post.japanpost.jp/int/charge/list/normal4_ichiran_en.html',
+        '5th' => 'https://www.post.japanpost.jp/int/charge/list/normal5_ichiran_en.html',
     ],
     'parcels' => [
         '1st' => 'https://www.post.japanpost.jp/int/charge/list/parcel1_ichiran_en.html',
