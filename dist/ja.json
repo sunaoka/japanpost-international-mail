@@ -592,7 +592,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "配達は非対面の方法等で行います。このため、郵便物へ受取人携帯電話番号の記載を推奨します。"
+        "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。また、配達は非対面の方法等で行います。このため、郵便物へ受取人携帯電話番号の記載を推奨します。"
     },
     {
         "countryCode": "IT",
@@ -3120,7 +3120,7 @@
             "normal": [],
             "temporary": [],
             "delays": [
-                "航空機の減便等により運送スペースの不足等が生じていることから、航空機への搭載に大幅に時間を要します。"
+                "航空機の減便等により運送スペースが不足していることから、航空機への搭載に大幅に時間を要します。"
             ]
         },
         "notification": "名宛国・地域において郵便物のお届けに遅延が生じます。"
@@ -3613,16 +3613,16 @@
         "countryCode": "PY",
         "destination": "パラグアイ",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
