@@ -73,6 +73,17 @@ class ZoneCrawler
             return $rows->eq($col)->text();
         });
 
+        // U.S. overseas territories
+        if (in_array('United States of America', $countries, true)) {
+            $countries[] = 'Wake Island';
+            $countries[] = 'Northern Mariana Islands';
+            $countries[] = 'Guam';
+            $countries[] = 'Puerto Rico';
+            $countries[] = 'Virgin Islands';
+            $countries[] = 'American Samoa';
+            $countries[] = 'Midway Islands';
+        }
+
         return array_values(array_filter(array_map(function (string $countryName): ?string {
             if (in_array($countryName, $this->unknownCountryName, true)) {
                 return null;
