@@ -592,7 +592,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "配送将采取非见面无接触的方式等进行。因此，推荐您在快递单上填写收件人的手机号码。"
+        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。因此，推荐您在快递单上填写收件人的手机号码。"
     },
     {
         "countryCode": "IT",
@@ -3613,16 +3613,16 @@
         "countryCode": "PY",
         "destination": "巴拉圭",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
