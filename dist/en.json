@@ -592,7 +592,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Items will not be handed directly to addressees, so writing the addressee's mobile phone number on the item is recommended."
+        "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees, so writing the addressee's mobile phone number on the item is recommended."
     },
     {
         "countryCode": "IT",
@@ -3613,16 +3613,16 @@
         "countryCode": "PY",
         "destination": "Paraguay",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
