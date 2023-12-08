@@ -276,7 +276,7 @@
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [
                 "EMSは宛てられる地域に制限あり。"
@@ -1688,7 +1688,7 @@
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
@@ -3836,7 +3836,7 @@
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -3982,12 +3982,12 @@
         "countryCode": "BF",
         "destination": "ブルキナファソ",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -4219,12 +4219,12 @@
         "letterPost": {
             "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
             "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "ems": "acceptable",
         "restrictions": {
@@ -4481,12 +4481,12 @@
         "countryCode": "ML",
         "destination": "マリ",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
