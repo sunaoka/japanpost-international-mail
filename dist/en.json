@@ -89,7 +89,7 @@
                 "Loading items onto airplanes is expected to take about two to three weeks due to the shortage of loading space caused by the reduction of flights."
             ]
         },
-        "notification": "International mail processing centers are operating with a skeleton workforce in order to accept inbound mail items.Therefore, delivery delays will be experienced in the country (territory).Only postal items containing cheques or medical supplies will be delivered to quarantine areas."
+        "notification": "International mail processing centers are operating with a skeleton workforce in order to accept inbound mail items. Therefore, delivery delays will be experienced in the country (territory). Only postal items containing cheques or medical supplies will be delivered to quarantine areas."
     },
     {
         "countryCode": "TW",
@@ -1765,7 +1765,7 @@
                 "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
             ]
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory). Items will not be handed directly to addressees."
+        "notification": "Delays will be experienced in the delivery of mail items in the country (territory).Items will not be handed directly to addressees."
     },
     {
         "countryCode": "KY",
@@ -2821,7 +2821,7 @@
                 "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion.Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
             ]
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees.Services are suspended at post offices in areas shut down due to COVID-19."
+        "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees. Services are suspended at post offices in areas shut down due to COVID-19."
     },
     {
         "countryCode": "TD",
@@ -5143,7 +5143,7 @@
                 "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
             ]
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees.Letter post delivery is temporarily suspended."
+        "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees. Letter post delivery is temporarily suspended."
     },
     {
         "countryCode": "RW",
