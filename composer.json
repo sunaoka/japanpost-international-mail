@@ -11,11 +11,11 @@
         }
     ],
     "require": {
-        "php": "^8.1",
+        "php": "^8.3",
         "ext-intl": "*",
-        "symfony/browser-kit": "^6.4.3",
-        "symfony/http-client": "^6.4.6",
-        "symfony/css-selector": "^6.4.3"
+        "symfony/browser-kit": "^6.4.8",
+        "symfony/http-client": "^6.4.10",
+        "symfony/css-selector": "^6.4.8"
     }
     ,
     "require-dev": {
