@@ -577,16 +577,16 @@
         "countryCode": "IL",
         "destination": "以色列",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [
                 "EMS寄至地区有限制。"
@@ -2464,7 +2464,7 @@
         "parcels": {
             "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "ems": "acceptable",
         "restrictions": {
@@ -3292,7 +3292,7 @@
             "sal": "no_service",
             "surface": "acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -3683,12 +3683,12 @@
         "letterPost": {
             "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
             "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "ems": "acceptable",
         "restrictions": {
@@ -3899,14 +3899,14 @@
         "countryCode": "PF",
         "destination": "法属波里尼西亚",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -4266,12 +4266,12 @@
         "countryCode": "BA",
         "destination": "波斯尼亚和黑塞哥维那",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -4683,14 +4683,14 @@
         "letterPost": {
             "air": "acceptable",
             "sal": "no_service",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
         "parcels": {
             "air": "acceptable",
             "sal": "no_service",
-            "surface": "acceptable"
+            "surface": "not_acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [
                 "EMS寄至地区有限制。"
@@ -5042,12 +5042,12 @@
         "countryCode": "LY",
         "destination": "利比亚",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
