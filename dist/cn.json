@@ -3899,12 +3899,12 @@
         "countryCode": "PF",
         "destination": "法属波里尼西亚",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
