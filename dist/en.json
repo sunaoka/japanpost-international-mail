@@ -18,7 +18,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Due to COVID-19 quarantine enforcement in China, Delays will be experienced in the delivery of inbound mail products."
+        "notification": ""
     },
     {
         "countryCode": "US",
@@ -35,15 +35,11 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS items to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Please note that considerable delivery delays are expected due to a large increase in inbound postal items in U.S. Under the circumstances, items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "KR",
@@ -64,7 +60,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory).Items will not be handed directly to addressees in the following area.Affected area: Daegu"
+        "notification": ""
     },
     {
         "countryCode": "PH",
@@ -81,15 +77,11 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS items to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading items onto airplanes is expected to take about two to three weeks due to the shortage of loading space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "International mail processing centers are operating with a skeleton workforce in order to accept inbound mail items. Therefore, delivery delays will be experienced in the country (territory). Only postal items containing cheques or medical supplies will be delivered to quarantine areas."
+        "notification": ""
     },
     {
         "countryCode": "TW",
@@ -150,9 +142,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -175,7 +165,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "GB",
@@ -217,7 +207,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Items will not be handed directly to addressees, so writing the addressee's phone number on the item is recommended."
+        "notification": ""
     },
     {
         "countryCode": "IS",
@@ -238,7 +228,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "IE",
@@ -257,11 +247,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "AZ",
@@ -309,12 +297,12 @@
         "countryCode": "AF",
         "destination": "Afghanistan",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
@@ -322,9 +310,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -345,9 +331,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -368,9 +352,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -391,11 +373,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "AW",
@@ -435,11 +415,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "AM",
@@ -460,7 +438,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory). and items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "AI",
@@ -519,9 +497,7 @@
         },
         "ems": "no_service",
         "restrictions": {
-            "normal": [
-                "Parcels to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -573,24 +549,22 @@
         "countryCode": "IL",
         "destination": "Israel",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS items to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees, so writing the addressee's mobile phone number on the item is recommended."
+        "notification": ""
     },
     {
         "countryCode": "IT",
@@ -607,13 +581,9 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS items to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -621,22 +591,20 @@
         "countryCode": "IQ",
         "destination": "Iraq",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -644,24 +612,22 @@
         "countryCode": "IR",
         "destination": "Iran",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "IN",
@@ -682,7 +648,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "ID",
@@ -703,7 +669,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "WK",
@@ -743,11 +709,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "UA",
@@ -764,17 +728,11 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "Items to Crimea and Sevastopol are not acceptable.",
-                "Parcels to some regions are not acceptable.",
-                "EMS items to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "UZ",
@@ -793,9 +751,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -818,7 +774,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "VG",
@@ -839,7 +795,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Postal services are partially suspended in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "EC",
@@ -860,7 +816,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Postal services are partially suspended in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "EG",
@@ -900,11 +856,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "SZ",
@@ -925,7 +879,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "ET",
@@ -944,9 +898,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -954,12 +906,12 @@
         "countryCode": "ER",
         "destination": "Eritrea",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -990,7 +942,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "AT",
@@ -1007,15 +959,11 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS items to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion.Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "OM",
@@ -1034,9 +982,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -1099,9 +1045,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -1166,7 +1110,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "KZ",
@@ -1185,11 +1129,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "QA",
@@ -1208,11 +1150,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "GP",
@@ -1252,9 +1192,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes and ships is expected to take considerable time due to the shortage of cargo space caused by the reduced number of flights and sailings."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -1273,10 +1211,7 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "Parcels to some regions are not acceptable.",
-                "EMS items to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -1320,9 +1255,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -1385,11 +1318,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "MP",
@@ -1408,9 +1339,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading items onto ships is expected to take about one month."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -1473,11 +1402,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "CU",
@@ -1498,7 +1425,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "CW",
@@ -1519,7 +1446,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "GR",
@@ -1540,7 +1467,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "KI",
@@ -1580,9 +1507,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -1605,7 +1530,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "GU",
@@ -1622,13 +1547,9 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS items to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading items onto ships is expected to take about one month."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -1649,9 +1570,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -1670,9 +1589,7 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS items to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -1695,9 +1612,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -1741,7 +1656,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "HR",
@@ -1760,11 +1675,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory).Items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "KY",
@@ -1781,9 +1694,7 @@
         },
         "ems": "no_service",
         "restrictions": {
-            "normal": [
-                "Parcels to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -1804,15 +1715,11 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS items to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "CI",
@@ -1829,9 +1736,7 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "Parcels to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -1877,7 +1782,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "XZ",
@@ -1896,9 +1801,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -1940,11 +1843,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "CG",
@@ -1961,13 +1862,9 @@
         },
         "ems": "no_service",
         "restrictions": {
-            "normal": [
-                "Parcels to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -2007,9 +1904,7 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS items are not acceptable in part of regions."
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -2034,7 +1929,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "WS",
@@ -2055,7 +1950,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "ST",
@@ -2137,9 +2032,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -2168,22 +2061,20 @@
         "countryCode": "DJ",
         "destination": "Djibouti",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -2267,11 +2158,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "SY",
@@ -2334,7 +2223,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "CH",
@@ -2353,11 +2242,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
-            ]
+            "delays": []
         },
-        "notification": "Items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "SE",
@@ -2376,11 +2263,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "SD",
@@ -2397,13 +2282,11 @@
         },
         "ems": "not_acceptable",
         "restrictions": {
-            "normal": [
-                "EMS items to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "ES",
@@ -2422,11 +2305,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "SR",
@@ -2447,7 +2328,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "LK",
@@ -2468,7 +2349,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "SK",
@@ -2487,11 +2368,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "SI",
@@ -2510,11 +2389,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "SC",
@@ -2575,11 +2452,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "RS",
@@ -2598,9 +2473,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -2640,9 +2513,7 @@
         },
         "ems": "no_service",
         "restrictions": {
-            "normal": [
-                "Parcels to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -2667,7 +2538,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "LC",
@@ -2688,7 +2559,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "SO",
@@ -2726,9 +2597,7 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS items to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -2791,9 +2660,7 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS items to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -2816,11 +2683,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion.Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees. Services are suspended at post offices in areas shut down due to COVID-19."
+        "notification": ""
     },
     {
         "countryCode": "TD",
@@ -2881,11 +2746,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "CL",
@@ -2906,7 +2769,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "TV",
@@ -2946,9 +2809,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion.Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights.Please see \"Faroe Islands\" if the destination is Faroe Islands."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -2969,11 +2830,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "TG",
@@ -3118,11 +2977,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "TO",
@@ -3143,7 +3000,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "NG",
@@ -3162,11 +3019,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "NR",
@@ -3267,9 +3122,7 @@
         },
         "ems": "no_service",
         "restrictions": {
-            "normal": [
-                "Parcels to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -3294,7 +3147,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "NZ",
@@ -3311,13 +3164,9 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS items to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading items onto airplanes is expected to take about two to three weeks due to the shortage of loading space caused by the reduction of flights."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -3338,11 +3187,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "NF",
@@ -3382,9 +3229,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion.Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -3466,13 +3311,9 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS items to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -3493,11 +3334,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "PA",
@@ -3518,7 +3357,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "VU",
@@ -3577,13 +3416,11 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS items to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "PW",
@@ -3602,9 +3439,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading items onto ships is expected to take about one month."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -3612,7 +3447,7 @@
         "countryCode": "PY",
         "destination": "Paraguay",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
@@ -3667,11 +3502,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion.Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "BD",
@@ -3774,9 +3607,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -3795,15 +3626,11 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS items to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "Transportation of outbound mails to the destination is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "PR",
@@ -3843,9 +3670,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -3910,7 +3735,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "BR",
@@ -3931,7 +3756,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "FR",
@@ -3952,7 +3777,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "BG",
@@ -3971,11 +3796,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "BF",
@@ -3996,7 +3819,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "BN",
@@ -4013,9 +3836,7 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS items to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -4120,9 +3941,7 @@
         },
         "ems": "no_service",
         "restrictions": {
-            "normal": [
-                "Parcels to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -4229,11 +4048,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
-            ]
+            "delays": []
         },
-        "notification": "Items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "PL",
@@ -4252,9 +4069,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion.Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -4275,11 +4090,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion.Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "NT",
@@ -4321,7 +4134,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "BO",
@@ -4361,11 +4174,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "HN",
@@ -4386,7 +4197,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "MH",
@@ -4403,13 +4214,9 @@
         },
         "ems": "no_service",
         "restrictions": {
-            "normal": [
-                "Registered post letters are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading items onto ships is expected to take about one month."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -4459,12 +4266,12 @@
         "countryCode": "MW",
         "destination": "Malawi",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
@@ -4474,7 +4281,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Postal services are partially suspended in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "ML",
@@ -4514,11 +4321,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion.Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "MQ",
@@ -4560,7 +4365,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "IM",
@@ -4598,13 +4403,9 @@
         },
         "ems": "no_service",
         "restrictions": {
-            "normal": [
-                "Registered post letters are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading items onto ships is expected to take about one month."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -4646,11 +4447,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "SS",
@@ -4688,9 +4487,7 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS items to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -4713,11 +4510,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading items onto airplanes is expected to take about two to three weeks due to the shortage of loading space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "MU",
@@ -4759,7 +4554,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "Acceptance of inbound mail items is suspended."
+        "notification": ""
     },
     {
         "countryCode": "MZ",
@@ -4776,13 +4571,9 @@
         },
         "ems": "no_service",
         "restrictions": {
-            "normal": [
-                "Parcels to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -4822,9 +4613,7 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS items to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -4847,9 +4636,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -4870,11 +4657,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "MN",
@@ -4914,9 +4699,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -4958,11 +4741,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "LA",
@@ -4979,9 +4760,7 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS items to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -5004,11 +4783,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion.Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "LT",
@@ -5027,11 +4804,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion.Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees."
+        "notification": ""
     },
     {
         "countryCode": "LY",
@@ -5071,9 +4846,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -5115,11 +4888,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Arrival of surface mail at the destination country (territory) may be delayed by around three months compared with the normal transport time owing to cargo congestion.Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "LU",
@@ -5138,11 +4909,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory), and items will not be handed directly to addressees. Letter post delivery is temporarily suspended."
+        "notification": ""
     },
     {
         "countryCode": "RW",
@@ -5161,9 +4930,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "Loading mail items onto airplanes is expected to take considerable time due to the shortage of cargo space caused by the reduction of flights."
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -5192,22 +4959,22 @@
         "countryCode": "LB",
         "destination": "Lebanon",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "RE",
@@ -5245,13 +5012,11 @@
         },
         "ems": "not_acceptable",
         "restrictions": {
-            "normal": [
-                "EMS items to some regions are not acceptable."
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
-        "notification": "Delays will be experienced in the delivery of mail items in the country (territory)."
+        "notification": ""
     },
     {
         "countryCode": "WF",
