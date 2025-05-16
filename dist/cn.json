@@ -18,7 +18,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在中国采取了加强新冠病毒感染检疫的措施等，邮件配送会延迟。"
+        "notification": ""
     },
     {
         "countryCode": "US",
@@ -35,17 +35,11 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS寄至地区有限制。"
-            ],
-            "temporary": [
-                "航空邮件中，有部分普通邮件可寄送。详情请见“寄往美国等的国际邮件受理情况”。"
-            ],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "normal": [],
+            "temporary": [],
+            "delays": []
         },
-        "notification": "目前到达美国的邮件量突然增加，因此邮件配送在出现大幅延误。此外，邮件投递以非对面形式进行。"
+        "notification": ""
     },
     {
         "countryCode": "KR",
@@ -66,7 +60,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。以下地区的配送将采取非见面无接触的方式等进行。对象地区：Daegu（大邱）"
+        "notification": ""
     },
     {
         "countryCode": "PH",
@@ -83,15 +77,11 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班减少产生的运送空间不足状况，将会导致邮件搭载航班的排期需要花费2～3周时间。"
-            ]
+            "delays": []
         },
-        "notification": "国际交换局将以最低限度的人员来接收规定国家\/地区以外的快递，在该国家，快递的送达将发生延迟。隔离地区仅配送内含支票、医药品等的快递。"
+        "notification": ""
     },
     {
         "countryCode": "TW",
@@ -152,9 +142,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -177,7 +165,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "GB",
@@ -219,7 +207,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "配送将采取非见面无接触的方式等进行。因此，建议填写收件人的电话号码。"
+        "notification": ""
     },
     {
         "countryCode": "IS",
@@ -240,7 +228,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "IE",
@@ -259,11 +247,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "AZ",
@@ -280,9 +266,7 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -313,12 +297,12 @@
         "countryCode": "AF",
         "destination": "阿富汗",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
@@ -326,9 +310,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -349,9 +331,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -372,9 +352,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -395,11 +373,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "AW",
@@ -439,11 +415,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "AM",
@@ -464,7 +438,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "AI",
@@ -523,9 +497,7 @@
         },
         "ems": "no_service",
         "restrictions": {
-            "normal": [
-                "包裹寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -577,24 +549,22 @@
         "countryCode": "IL",
         "destination": "以色列",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。因此，推荐您在快递单上填写收件人的手机号码。"
+        "notification": ""
     },
     {
         "countryCode": "IT",
@@ -611,13 +581,9 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -625,22 +591,20 @@
         "countryCode": "IQ",
         "destination": "伊拉克",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -648,24 +612,22 @@
         "countryCode": "IR",
         "destination": "伊朗",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "IN",
@@ -686,7 +648,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "ID",
@@ -707,7 +669,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "WK",
@@ -747,11 +709,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "UA",
@@ -768,17 +728,11 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "收件地址为克里米亚及塞瓦斯托波尔的邮件不可寄送。",
-                "包裹寄至地区有限制。",
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "UZ",
@@ -797,9 +751,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -822,7 +774,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "VG",
@@ -843,7 +795,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，部分寄件服务已暂停。"
+        "notification": ""
     },
     {
         "countryCode": "EC",
@@ -864,7 +816,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，部分寄件服务已暂停。"
+        "notification": ""
     },
     {
         "countryCode": "EG",
@@ -904,11 +856,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "SZ",
@@ -929,7 +879,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "ET",
@@ -948,9 +898,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -958,12 +906,12 @@
         "countryCode": "ER",
         "destination": "厄立特里亚",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "acceptable"
         },
@@ -994,7 +942,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "AT",
@@ -1011,15 +959,11 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "OM",
@@ -1038,9 +982,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -1103,9 +1045,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -1170,7 +1110,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "KZ",
@@ -1189,11 +1129,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "QA",
@@ -1212,11 +1150,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "GP",
@@ -1256,9 +1192,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班减少等造成的货舱紧张，邮件装在飞机及船舶上需要大幅度时间。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -1277,10 +1211,7 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "包裹寄至地区有限制。",
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -1324,9 +1255,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -1389,11 +1318,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "MP",
@@ -1412,9 +1339,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，受理后装船需要大概一个月左右的时间。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -1477,11 +1402,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "CU",
@@ -1502,7 +1425,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "CW",
@@ -1523,7 +1446,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "GR",
@@ -1544,7 +1467,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "KI",
@@ -1584,9 +1507,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -1609,7 +1530,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "GU",
@@ -1626,13 +1547,9 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，受理后装船需要大概一个月左右的时间。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -1653,9 +1570,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -1674,9 +1589,7 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -1699,9 +1612,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -1745,7 +1656,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "HR",
@@ -1764,11 +1675,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "KY",
@@ -1785,9 +1694,7 @@
         },
         "ems": "no_service",
         "restrictions": {
-            "normal": [
-                "包裹寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -1808,15 +1715,11 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "CI",
@@ -1833,9 +1736,7 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "包裹寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -1881,7 +1782,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "XZ",
@@ -1900,9 +1801,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -1944,11 +1843,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "CG",
@@ -1965,13 +1862,9 @@
         },
         "ems": "no_service",
         "restrictions": {
-            "normal": [
-                "包裹寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -2011,9 +1904,7 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -2038,7 +1929,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "WS",
@@ -2059,7 +1950,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "ST",
@@ -2141,9 +2032,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -2172,22 +2061,20 @@
         "countryCode": "DJ",
         "destination": "吉布提",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -2271,11 +2158,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "SY",
@@ -2338,7 +2223,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "CH",
@@ -2357,11 +2242,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
-            ]
+            "delays": []
         },
-        "notification": "配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "SE",
@@ -2380,11 +2263,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "SD",
@@ -2401,13 +2282,11 @@
         },
         "ems": "not_acceptable",
         "restrictions": {
-            "normal": [
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "ES",
@@ -2426,11 +2305,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "SR",
@@ -2451,7 +2328,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "LK",
@@ -2472,7 +2349,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "SK",
@@ -2491,11 +2368,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "SI",
@@ -2514,11 +2389,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "SC",
@@ -2579,11 +2452,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "RS",
@@ -2602,9 +2473,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -2644,9 +2513,7 @@
         },
         "ems": "no_service",
         "restrictions": {
-            "normal": [
-                "包裹寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -2671,7 +2538,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "LC",
@@ -2692,7 +2559,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "SO",
@@ -2730,9 +2597,7 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -2795,9 +2660,7 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -2820,11 +2683,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。封城地区的邮局将停止营业。"
+        "notification": ""
     },
     {
         "countryCode": "TD",
@@ -2885,11 +2746,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "CL",
@@ -2910,7 +2769,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "TV",
@@ -2950,9 +2809,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。※ 如果寄往地区是法罗群岛，请见 \"法罗群岛\"。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -2973,11 +2830,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "TG",
@@ -3122,11 +2977,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "TO",
@@ -3147,7 +3000,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "NG",
@@ -3166,11 +3019,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "NR",
@@ -3271,9 +3122,7 @@
         },
         "ems": "no_service",
         "restrictions": {
-            "normal": [
-                "包裹寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -3298,7 +3147,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "NZ",
@@ -3315,13 +3164,9 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班减少产生的运送空间不足状况，将会导致邮件搭载航班的排期需要花费2～3周时间。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -3342,11 +3187,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "NF",
@@ -3386,9 +3229,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -3470,13 +3311,9 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -3497,11 +3334,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "PA",
@@ -3522,7 +3357,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "VU",
@@ -3581,13 +3416,11 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "PW",
@@ -3606,9 +3439,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，受理后装船需要大概一个月左右的时间。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -3616,7 +3447,7 @@
         "countryCode": "PY",
         "destination": "巴拉圭",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "not_acceptable"
         },
@@ -3671,11 +3502,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "BD",
@@ -3778,9 +3607,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -3799,15 +3626,11 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班减少等原因造成的运输舱位不足等，邮件到达该国家可能需要相当长时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "PR",
@@ -3847,9 +3670,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -3914,7 +3735,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "BR",
@@ -3935,7 +3756,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "FR",
@@ -3956,7 +3777,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "BG",
@@ -3975,11 +3796,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "BF",
@@ -4000,7 +3819,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "BN",
@@ -4017,9 +3836,7 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -4124,9 +3941,7 @@
         },
         "ems": "no_service",
         "restrictions": {
-            "normal": [
-                "包裹寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -4233,11 +4048,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
-            ]
+            "delays": []
         },
-        "notification": "配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "PL",
@@ -4256,9 +4069,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -4279,11 +4090,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "NT",
@@ -4325,7 +4134,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "BO",
@@ -4365,11 +4174,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "HN",
@@ -4390,7 +4197,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "MH",
@@ -4407,13 +4214,9 @@
         },
         "ems": "no_service",
         "restrictions": {
-            "normal": [
-                "挂号普通邮件不可受理。"
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，受理后装船需要大概一个月左右的时间。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -4463,12 +4266,12 @@
         "countryCode": "MW",
         "destination": "马拉维",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
@@ -4478,7 +4281,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，部分寄件服务已暂停。"
+        "notification": ""
     },
     {
         "countryCode": "ML",
@@ -4518,11 +4321,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "MQ",
@@ -4564,7 +4365,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "IM",
@@ -4602,13 +4403,9 @@
         },
         "ems": "no_service",
         "restrictions": {
-            "normal": [
-                "挂号普通邮件不可受理。"
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，受理后装船需要大概一个月左右的时间。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -4650,11 +4447,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "SS",
@@ -4692,9 +4487,7 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -4717,11 +4510,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班减少产生的运送空间不足状况，将会导致邮件搭载航班的排期需要花费2～3周时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "MU",
@@ -4763,7 +4554,7 @@
             "temporary": [],
             "delays": []
         },
-        "notification": "停止接收规定国家\/地区以外的快递。"
+        "notification": ""
     },
     {
         "countryCode": "MZ",
@@ -4780,13 +4571,9 @@
         },
         "ems": "no_service",
         "restrictions": {
-            "normal": [
-                "包裹寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -4826,9 +4613,7 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -4851,9 +4636,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -4874,11 +4657,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "MN",
@@ -4918,9 +4699,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -4962,11 +4741,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "LA",
@@ -4983,9 +4760,7 @@
         },
         "ems": "acceptable",
         "restrictions": {
-            "normal": [
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
@@ -5008,11 +4783,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "LT",
@@ -5031,12 +4804,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。",
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。"
+        "notification": ""
     },
     {
         "countryCode": "LY",
@@ -5076,9 +4846,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -5120,11 +4888,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "海运邮件，由于海运货量增加的趋势，邮件到达当地可能会比平时延迟3个月左右。由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "LU",
@@ -5143,11 +4909,9 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。此外，配送将采取非见面无接触的方式等进行。普通快递的配送将暂停。"
+        "notification": ""
     },
     {
         "countryCode": "RW",
@@ -5166,9 +4930,7 @@
         "restrictions": {
             "normal": [],
             "temporary": [],
-            "delays": [
-                "由于航班的减少等因素导致货舱空间紧张，到装机需要很多时间。"
-            ]
+            "delays": []
         },
         "notification": ""
     },
@@ -5197,22 +4959,22 @@
         "countryCode": "LB",
         "destination": "黎巴嫩",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "RE",
@@ -5250,13 +5012,11 @@
         },
         "ems": "not_acceptable",
         "restrictions": {
-            "normal": [
-                "EMS寄至地区有限制。"
-            ],
+            "normal": [],
             "temporary": [],
             "delays": []
         },
-        "notification": "在该国家，快递的送达将发生延迟。"
+        "notification": ""
     },
     {
         "countryCode": "WF",
