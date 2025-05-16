@@ -35,7 +35,7 @@ class Destination implements JsonSerializable
         $this->parcels = Mail::make($language, $attributes[4], $attributes[5], $attributes[6]);
         $this->ems = config("{$language->value}.delivery")[$attributes[7]];
         $this->restrictions = Restrictions::make($language, $attributes[8]);
-        $this->notification = $attributes[9];
+        $this->notification = $attributes[9] ?? '';
     }
 
     public static function make(Language $language, array $attributes): self
