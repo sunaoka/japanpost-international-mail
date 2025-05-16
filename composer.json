@@ -13,9 +13,9 @@
     "require": {
         "php": "^8.3",
         "ext-intl": "*",
-        "symfony/browser-kit": "^6.4.8",
-        "symfony/http-client": "^6.4.10",
-        "symfony/css-selector": "^6.4.8"
+        "symfony/browser-kit": "^6.4.19",
+        "symfony/css-selector": "^6.4.13",
+        "symfony/http-client": "^6.4.19"
     }
     ,
     "require-dev": {
@@ -28,5 +28,13 @@
         "files": [
             "./src/Support/helpers.php"
         ]
-    }
+    },
+    "config": {
+        "bump-after-update": true,
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
