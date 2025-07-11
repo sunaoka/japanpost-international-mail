@@ -15,7 +15,7 @@
         "ext-intl": "*",
         "symfony/browser-kit": "^6.4.19",
         "symfony/css-selector": "^6.4.13",
-        "symfony/http-client": "^6.4.19"
+        "symfony/http-client": "^6.4.23"
     }
     ,
     "require-dev": {
