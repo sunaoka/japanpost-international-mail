@@ -612,16 +612,16 @@
         "countryCode": "IR",
         "destination": "Iran",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
