@@ -24,16 +24,16 @@
         "countryCode": "US",
         "destination": "アメリカ合衆国",
         "letterPost": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "some_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -675,14 +675,14 @@
         "countryCode": "WK",
         "destination": "ウェーキ",
         "letterPost": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -1326,14 +1326,14 @@
         "countryCode": "MP",
         "destination": "北マリアナ諸島",
         "letterPost": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -1536,16 +1536,16 @@
         "countryCode": "GU",
         "destination": "グアム",
         "letterPost": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "some_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -1893,16 +1893,16 @@
         "countryCode": "SP",
         "destination": "サイパン",
         "letterPost": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "some_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -3426,14 +3426,14 @@
         "countryCode": "PW",
         "destination": "パラオ",
         "letterPost": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -3636,16 +3636,16 @@
         "countryCode": "PR",
         "destination": "プエルト・リコ",
         "letterPost": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "some_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -3867,16 +3867,16 @@
         "countryCode": "VI",
         "destination": "米領ヴァージン諸島",
         "letterPost": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "some_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -3888,14 +3888,14 @@
         "countryCode": "AS",
         "destination": "米領サモア",
         "letterPost": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -4203,14 +4203,14 @@
         "countryCode": "MH",
         "destination": "マーシャル",
         "letterPost": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -4392,14 +4392,14 @@
         "countryCode": "FM",
         "destination": "ミクロネシア",
         "letterPost": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -4413,14 +4413,14 @@
         "countryCode": "UM",
         "destination": "ミッドウェイ諸島",
         "letterPost": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "ems": "no_service",
         "restrictions": {

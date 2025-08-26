@@ -24,16 +24,16 @@
         "countryCode": "US",
         "destination": "United States of America",
         "letterPost": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "some_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -675,14 +675,14 @@
         "countryCode": "WK",
         "destination": "Wake Island",
         "letterPost": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -1326,14 +1326,14 @@
         "countryCode": "MP",
         "destination": "Northern Mariana Islands",
         "letterPost": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -1536,16 +1536,16 @@
         "countryCode": "GU",
         "destination": "Guam",
         "letterPost": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "some_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -1893,16 +1893,16 @@
         "countryCode": "SP",
         "destination": "Saipan",
         "letterPost": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "some_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -3426,14 +3426,14 @@
         "countryCode": "PW",
         "destination": "Palau",
         "letterPost": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -3636,16 +3636,16 @@
         "countryCode": "PR",
         "destination": "Puerto Rico",
         "letterPost": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "some_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -3867,16 +3867,16 @@
         "countryCode": "VI",
         "destination": "Virgin Islands",
         "letterPost": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "some_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -3888,14 +3888,14 @@
         "countryCode": "AS",
         "destination": "American Samoa",
         "letterPost": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -4203,14 +4203,14 @@
         "countryCode": "MH",
         "destination": "Marshall Islands",
         "letterPost": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -4392,14 +4392,14 @@
         "countryCode": "FM",
         "destination": "Federated States of Micronesia",
         "letterPost": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -4413,14 +4413,14 @@
         "countryCode": "UM",
         "destination": "Midway Islands",
         "letterPost": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "some_acceptable",
             "sal": "not_acceptable",
-            "surface": "acceptable"
+            "surface": "some_acceptable"
         },
         "ems": "no_service",
         "restrictions": {
