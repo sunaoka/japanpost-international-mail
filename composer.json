@@ -16,10 +16,6 @@
         "symfony/browser-kit": "^8.0.4",
         "symfony/css-selector": "^8.0.0",
         "symfony/http-client": "^8.0.5"
-    }
-    ,
-    "require-dev": {
-        "roave/security-advisories": "dev-latest"
     },
     "replace": {
         "symfony/polyfill-ctype": "*",
