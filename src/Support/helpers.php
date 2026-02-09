@@ -13,6 +13,7 @@ use Sunaoka\JapanPostInternationalMail\Language;
  *
  * @return mixed
  */
+#[\NoDiscard]
 function config(string $key, mixed $default = null): mixed
 {
     static $config = [];
@@ -41,6 +42,7 @@ function config(string $key, mixed $default = null): mixed
  *
  * @throws JsonException
  */
+#[\NoDiscard]
 function loadMeta(string $metaFile): array
 {
     if (is_file($metaFile)) {
@@ -62,6 +64,7 @@ function loadMeta(string $metaFile): array
  *
  * @throws JsonException
  */
+#[\NoDiscard]
 function encodeJson(mixed $value, int $flags = JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE, int $depth = 512): string
 {
     return json_encode($value, JSON_THROW_ON_ERROR | $flags, $depth);

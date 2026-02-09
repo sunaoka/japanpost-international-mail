@@ -17,6 +17,7 @@ class Crawler
      *
      * @return Destination[]
      */
+    #[\NoDiscard]
     public function crawl(Language $language): array
     {
         $client = new HttpBrowser();
@@ -41,10 +42,12 @@ class Crawler
 
     private function normalize(string $string): string
     {
-        $string = Normalizer::normalize($string);
-        $string = str_replace(chr(194) . chr(160), '', $string);  // \u00A0
-        $string = trim($string);
+        $str = Normalizer::normalize($string);
+        if ($str === false) {
+            throw new \RuntimeException('');
+        }
 
-        return $string;
+        return str_replace("\u{00A0}", '', $str)  // no-break space (&nbsp;)
+            |> trim(...);
     }
 }

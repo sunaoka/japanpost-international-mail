@@ -38,6 +38,7 @@ class Restrictions implements JsonSerializable
      *
      * @return static
      */
+    #[\NoDiscard]
     public static function make(Language $language, ?string $restriction): self
     {
         return new self($language, $restriction);

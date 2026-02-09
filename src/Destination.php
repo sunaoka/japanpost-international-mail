@@ -38,6 +38,7 @@ class Destination implements JsonSerializable
         $this->notification = $attributes[9] ?? '';
     }
 
+    #[\NoDiscard]
     public static function make(Language $language, array $attributes): self
     {
         return new self($language, $attributes);

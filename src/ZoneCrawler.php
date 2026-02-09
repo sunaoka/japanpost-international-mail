@@ -52,6 +52,7 @@ class ZoneCrawler
         'Great Britain'                                            => 'United Kingdom of Great Britain and Northern Ireland',
     ];
 
+    #[\NoDiscard]
     public function crawl(string $url): array
     {
         $client = new HttpBrowser();

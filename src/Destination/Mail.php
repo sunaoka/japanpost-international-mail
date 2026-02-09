@@ -28,6 +28,7 @@ class Mail implements JsonSerializable
      *
      * @return static
      */
+    #[\NoDiscard]
     public static function make(Language $language, string $air, string $sal, string $surface): self
     {
         return new self($language, $air, $sal, $surface);

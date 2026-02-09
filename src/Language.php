@@ -12,10 +12,9 @@ enum Language: string
 
     case CHINESE = 'chinese';
 
+    #[\NoDiscard]
     public static function values(): array
     {
-        return array_map(static function (self $case) {
-            return $case->value;
-        }, self::cases());
+        return array_map(static fn(self $case) => $case->value, self::cases());
     }
 }

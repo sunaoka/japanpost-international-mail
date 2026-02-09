@@ -32,6 +32,7 @@ class Country
         });
     }
 
+    #[\NoDiscard]
     public function getId(string $countryCode): int
     {
         return $this->countryId[$countryCode];
