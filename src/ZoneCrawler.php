@@ -73,6 +73,10 @@ class ZoneCrawler
             return $rows->eq($col)->text();
         });
 
+        if (count($countries) === 0) {
+            throw new \RuntimeException("{$url}: No countries found.");
+        }
+
         // U.S. overseas territories
         if (in_array('United States of America', $countries, true)) {
             $countries[] = 'Wake Island';
