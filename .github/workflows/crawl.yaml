@@ -20,28 +20,28 @@ jobs:
           tools: composer:v2
 
       - name: Install Dependencies
-        uses: nick-fields/retry@v3
+        uses: nick-fields/retry@v4
         with:
           timeout_seconds: 30
           max_attempts: 3
           command: composer install --quiet --no-ansi --prefer-dist --no-progress --no-interaction
 
       - name: Crawl
-        uses: nick-fields/retry@v3
+        uses: nick-fields/retry@v4
         with:
           timeout_seconds: 30
           max_attempts: 3
           command: php bin/app.php
 
       - name: Country ID
-        uses: nick-fields/retry@v3
+        uses: nick-fields/retry@v4
         with:
           timeout_seconds: 30
           max_attempts: 3
           command: php bin/cid.php
 
       - name: Zone
-        uses: nick-fields/retry@v3
+        uses: nick-fields/retry@v4
         with:
           timeout_seconds: 30
           max_attempts: 3
