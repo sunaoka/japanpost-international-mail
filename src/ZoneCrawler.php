@@ -89,12 +89,17 @@ class ZoneCrawler
             $countries[] = 'Midway Islands';
         }
 
-        return array_values(array_filter(array_map(function (string $countryName): ?string {
-            if (in_array($countryName, $this->unknownCountryName, true)) {
-                return null;
-            }
-            $counties = config('english.countries');
-            return $counties[$this->countryNameAlias[$countryName] ?? $countryName];
-        }, array_values(array_filter($countries)))));
+        return $countries
+                |> array_filter(...)
+                |> array_values(...)
+                |> (fn ($x) => array_map(function (string $countryName): ?string {
+                    if (in_array($countryName, $this->unknownCountryName, true)) {
+                        return null;
+                    }
+                    $counties = config('english.countries');
+                    return $counties[$this->countryNameAlias[$countryName] ?? $countryName];
+                }, $x))
+                |> array_filter(...)
+                |> array_values(...);
     }
 }
