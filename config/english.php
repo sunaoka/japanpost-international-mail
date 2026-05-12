@@ -3,31 +3,16 @@
 declare(strict_types=1);
 
 return [
-    'uri'          => 'https://www.post.japanpost.jp/int/information/overview_en.html',
-    'delivery'     => [
-        '✔' => 'acceptable',
-        '✓'  => 'acceptable',
-        '*'  => 'some_acceptable',
-        'X'  => 'not_acceptable',
+    'uri'       => 'https://www.post.japanpost.jp/int/information/overview.html',
+    'delivery'  => [
+        '○'  => 'acceptable',
+        '△' => 'some_acceptable',
+        '×'  => 'not_acceptable',
+        '−'  => 'no_service',
         '-'  => 'no_service',
     ],
-    'restrictions' => [
-        '(N)' => 'normal',
-        '(T)' => 'temporary',
-        '(D)' => 'delays',
-        '（N）' => 'normal',
-        '（T）' => 'temporary',
-        '（D）' => 'delays',
-        '(N）' => 'normal',
-        '(T）' => 'temporary',
-        '(D）' => 'delays',
-        '（N)' => 'normal',
-        '（T)' => 'temporary',
-        '（D)' => 'delays',
-    ],
-    'period'       => '.',
-    'file'         => 'en.json',
-    'countries'    => [
+    'file'      => 'en.json',
+    'countries' => [
         'China'                                                => 'CN',
         'United States of America'                             => 'US',
         'Republic of Korea'                                    => 'KR',

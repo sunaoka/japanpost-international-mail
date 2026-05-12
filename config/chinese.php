@@ -3,22 +3,16 @@
 declare(strict_types=1);
 
 return [
-    'uri'          => 'https://www.post.japanpost.jp/int/information/overview_cn.html',
-    'delivery'     => [
-        '◯'  => 'acceptable',
+    'uri'       => 'https://www.post.japanpost.jp/int/information/overview.html',
+    'delivery'  => [
         '○'  => 'acceptable',
         '△' => 'some_acceptable',
         '×'  => 'not_acceptable',
+        '−'  => 'no_service',
         '-'  => 'no_service',
     ],
-    'restrictions' => [
-        '（平常时期）' => 'normal',
-        '（暂时）'     => 'temporary',
-        '（延迟）'     => 'delays',
-    ],
-    'period'       => '。',
-    'file'         => 'cn.json',
-    'countries'    => [
+    'file'      => 'cn.json',
+    'countries' => [
         '中国'                         => 'CN',
         '美国'                         => 'US',
         '韩国'                         => 'KR',
@@ -193,7 +187,6 @@ return [
         '芬兰'                         => 'FI',
         '不丹'                         => 'BT',
         '波多黎各'                     => 'PR',
-        '法罗岛'                       => 'FO',
         '法罗群岛'                     => 'FO',
         '福克兰群岛（马尔维纳斯群岛）' => 'FK',
         '法属圭亚那'                   => 'GF',

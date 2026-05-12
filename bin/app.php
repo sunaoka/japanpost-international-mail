@@ -6,8 +6,6 @@ namespace Sunaoka\JapanPostInternationalMail;
 
 require_once __DIR__ . '/bootstrap.php';
 
-use Throwable;
-
 use function Sunaoka\JapanPostInternationalMail\Support\config;
 use function Sunaoka\JapanPostInternationalMail\Support\encodeJson;
 use function Sunaoka\JapanPostInternationalMail\Support\loadMeta;
@@ -25,26 +23,44 @@ try {
 
     $crawler = new Crawler();
 
+    $destinations = $crawler->crawl(Language::ENGLISH);
+    usort($destinations, static function (Destination $a, Destination $b): int {
+        return $a->countryCode <=> $b->countryCode;
+    });
+
     /** @var Language $language */
     foreach (config('app.languages') as $language) {
-        $destinations = $crawler->crawl($language);
-        usort($destinations, static function (Destination $a, Destination $b): int {
-            return $a->jsonSerialize()['countryCode'] <=> $b->jsonSerialize()['countryCode'];
-        });
-        $file = config("{$language->value}.file");
+        $countries = config("{$language->value}.countries");
+
+        // Update destination name
+        foreach ($destinations as $destination) {
+            $name = array_search($destination->countryCode, $countries, true);
+            if ($name === false) {
+                throw new \RuntimeException("No such country '{$destination->countryCode}' in {$language->value}");
+            }
+            $destination->destination = $name;
+        }
+
         $json = encodeJson($destinations);
 
         $meta['md5'][$language->value] = md5($json);
         if ($current['md5'][$language->value] !== $meta['md5'][$language->value]) {
             $meta['date'] = date(DATE_ATOM);
-            file_put_contents("{$district}/{$file}", $json);
+            $file = config("{$language->value}.file");
+            $result = file_put_contents("{$district}/{$file}", $json);
+            if ($result === false || $result === 0) {
+                throw new \RuntimeException("Failed to write {$file}");
+            }
         }
 
         if ($meta['date'] !== $current['date']) {
-            file_put_contents($metaFile, encodeJson($meta));
+            $result = file_put_contents($metaFile, encodeJson($meta));
+            if ($result === false || $result === 0) {
+                throw new \RuntimeException("Failed to write {$metaFile}");
+            }
         }
     }
-} catch (Throwable $e) {
+} catch (\Throwable $e) {
     echo '[', get_class($e), '] ', $e->getMessage(), PHP_EOL,
          '    in ', $e->getFile(), ':', $e->getLine(), PHP_EOL;
     exit(1);

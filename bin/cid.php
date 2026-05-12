@@ -22,6 +22,8 @@ try {
         $result[$code] = $country->getId($code);
     }
 
+    ksort($result);
+
     $district = config('app.district');
     $file = config('app.country.file');
 
