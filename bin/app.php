@@ -28,6 +28,9 @@ try {
     /** @var Language $language */
     foreach (config('app.languages') as $language) {
         $destinations = $crawler->crawl($language);
+        usort($destinations, static function (Destination $a, Destination $b): int {
+            return $a->jsonSerialize()['countryCode'] <=> $b->jsonSerialize()['countryCode'];
+        });
         $file = config("{$language->value}.file");
         $json = encodeJson($destinations);
 
