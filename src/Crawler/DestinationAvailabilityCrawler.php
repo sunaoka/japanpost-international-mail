@@ -2,16 +2,19 @@
 
 declare(strict_types=1);
 
-namespace Sunaoka\JapanPostInternationalMail;
+namespace Sunaoka\JapanPostInternationalMail\Crawler;
 
-use Symfony\Component\BrowserKit\HttpBrowser;
 use Symfony\Component\DomCrawler\Crawler as BaseCrawler;
+use Sunaoka\JapanPostInternationalMail\Concerns\NormalizesText;
+use Sunaoka\JapanPostInternationalMail\Enum\Language;
+use Sunaoka\JapanPostInternationalMail\Model\DestinationAvailability;
+use Sunaoka\JapanPostInternationalMail\Support\WebPage;
 
 use function Sunaoka\JapanPostInternationalMail\Support\config;
 
-class Crawler
+final class DestinationAvailabilityCrawler
 {
-    use Traits\Normalizer;
+    use NormalizesText;
 
     private const int LETTER_POST_OFFSET = 1;
 
@@ -28,25 +31,22 @@ class Crawler
     /**
      * @param Language $language
      *
-     * @return Destination[]
+     * @return DestinationAvailability[]
      */
     #[\NoDiscard]
     public function crawl(Language $language): array
     {
-        $client = new HttpBrowser();
-        $crawler = $client->request('GET', config("{$language->value}.uri"));
+        $crawler = WebPage::fetch(config("{$language->value}.uri"));
 
         $destinations = [];
         $crawler?->filter('.alphabet_search .toggleHead')->each(function (BaseCrawler $element) use ($language, &$destinations) {
-            $values = $this->extractDestinationValues($element);
-
-            $destinations[] = Destination::make($language, $values);
+            $destinations[] = $this->extractDestination($language, $element);
         });
 
         return $destinations;
     }
 
-    private function extractDestinationValues(BaseCrawler $element): array
+    private function extractDestination(Language $language, BaseCrawler $element): DestinationAvailability
     {
         $values = [
             $this->normalize($element->text()),
@@ -60,7 +60,7 @@ class Crawler
             $this->fillValuesFromSection($section, $values);
         });
 
-        return $values;
+        return DestinationAvailability::make($language, ...$values);
     }
 
     private function fillValuesFromSection(BaseCrawler $section, array &$values): void
@@ -73,11 +73,11 @@ class Crawler
         $header = $this->normalize($el->text());
 
         match ($header) {
-            '通常郵便物' => $this->fillMailValues($section, $values, self::LETTER_POST_OFFSET),
-            '小包郵便物' => $this->fillMailValues($section, $values, self::PARCELS_OFFSET),
-            'EMS' => $values[self::EMS_INDEX] = $this->extractEmsStatus($section),
+            '通常郵便物'         => $this->fillMailValues($section, $values, self::LETTER_POST_OFFSET),
+            '小包郵便物'         => $this->fillMailValues($section, $values, self::PARCELS_OFFSET),
+            'EMS'                => $values[self::EMS_INDEX] = $this->extractEmsStatus($section),
             '通関電子データ送信' => null,
-            default => throw new \RuntimeException("Unknown header: {$header}"),
+            default              => throw new \RuntimeException("Unknown header: {$header}"),
         };
     }
 

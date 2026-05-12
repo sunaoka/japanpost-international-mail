@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Sunaoka\JapanPostInternationalMail\Traits;
+namespace Sunaoka\JapanPostInternationalMail\Concerns;
 
-trait Normalizer
+trait NormalizesText
 {
     public function normalize(string $string): string
     {

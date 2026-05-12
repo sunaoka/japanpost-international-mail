@@ -2,16 +2,13 @@
 
 declare(strict_types=1);
 
-namespace Sunaoka\JapanPostInternationalMail;
-
-use Symfony\Component\BrowserKit\HttpBrowser;
-use Symfony\Component\DomCrawler\Crawler as BaseCrawler;
+namespace Sunaoka\JapanPostInternationalMail\Resolver;
 
 use function Sunaoka\JapanPostInternationalMail\Support\config;
 
-class ZoneCrawler
+final class ZoneCountryCodeResolver
 {
-    private array $unknownCountryName = [
+    private const array UNKNOWN_COUNTRY_NAMES = [
         'Other islands of Oceania',
         'Spanish Overseas Territories',
         'Spanish Overseas Territories Canary Islands Ladu Ceuta Chafarinas Islands Balearic Islands Melilla',
@@ -19,7 +16,7 @@ class ZoneCrawler
         'U.S. overseas territories Wake Island Northern Mariana Islands Guam Puerto Rico Virgin Islands American Samoa Midway Islands',
     ];
 
-    private array $countryNameAlias = [
+    private const array COUNTRY_NAME_ALIASES = [
         'Rep. of Korea'                                            => 'Republic of Korea',
         'Marshall'                                                 => 'Marshall Islands',
         'Micronesia'                                               => 'Federated States of Micronesia',
@@ -53,54 +50,59 @@ class ZoneCrawler
         'Great Britain'                                            => 'United Kingdom of Great Britain and Northern Ireland',
     ];
 
-    #[\NoDiscard]
-    public function crawl(string $url): array
+    private const array UNITED_STATES_TERRITORIES = [
+        'Wake Island',
+        'Northern Mariana Islands',
+        'Guam',
+        'Puerto Rico',
+        'Virgin Islands',
+        'American Samoa',
+        'Midway Islands',
+    ];
+
+    private array $countries;
+
+    public function __construct()
     {
-        $client = new HttpBrowser();
+        $this->countries = config('english.countries');
+    }
 
-        $crawler = $client->request('GET', $url);
+    #[\NoDiscard]
+    public function resolveAll(array $countryNames): array
+    {
+        $resolved = [];
 
-        $countries = $crawler->filter('#main-box table.data tbody tr')->each(function (BaseCrawler $element) {
-            $rows = $element->filter('td');
-            if ($rows->count() === 0) {
-                return null;
+        foreach ($this->expandCountryNames($countryNames) as $countryName) {
+            $countryCode = $this->resolve($countryName);
+            if ($countryCode === null) {
+                continue;
             }
 
-            $col = 0;
-            $class = $rows->eq(0)->attr('class');
-            if (str_contains((string)$class, 'h2')) {
-                $col = 1;
-            }
-
-            return $rows->eq($col)->text();
-        });
-
-        if (count($countries) === 0) {
-            throw new \RuntimeException("{$url}: No countries found.");
+            $resolved[] = $countryCode;
         }
 
-        // U.S. overseas territories
-        if (in_array('United States of America', $countries, true)) {
-            $countries[] = 'Wake Island';
-            $countries[] = 'Northern Mariana Islands';
-            $countries[] = 'Guam';
-            $countries[] = 'Puerto Rico';
-            $countries[] = 'Virgin Islands';
-            $countries[] = 'American Samoa';
-            $countries[] = 'Midway Islands';
+        return array_values(array_filter($resolved));
+    }
+
+    #[\NoDiscard]
+    private function expandCountryNames(array $countryNames): array
+    {
+        if (!in_array('United States of America', $countryNames, true)) {
+            return $countryNames;
         }
 
-        return $countries
-                |> array_filter(...)
-                |> array_values(...)
-                |> (fn ($x) => array_map(function (string $countryName): ?string {
-                    if (in_array($countryName, $this->unknownCountryName, true)) {
-                        return null;
-                    }
-                    $counties = config('english.countries');
-                    return $counties[$this->countryNameAlias[$countryName] ?? $countryName];
-                }, $x))
-                |> array_filter(...)
-                |> array_values(...);
+        return [...$countryNames, ...self::UNITED_STATES_TERRITORIES];
+    }
+
+    #[\NoDiscard]
+    private function resolve(string $countryName): ?string
+    {
+        if (in_array($countryName, self::UNKNOWN_COUNTRY_NAMES, true)) {
+            return null;
+        }
+
+        $normalized = self::COUNTRY_NAME_ALIASES[$countryName] ?? $countryName;
+
+        return $this->countries[$normalized] ?? null;
     }
 }

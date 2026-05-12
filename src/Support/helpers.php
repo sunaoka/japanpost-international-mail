@@ -4,8 +4,7 @@ declare(strict_types=1);
 
 namespace Sunaoka\JapanPostInternationalMail\Support;
 
-use JsonException;
-use Sunaoka\JapanPostInternationalMail\Language;
+use Sunaoka\JapanPostInternationalMail\Enum\Language;
 
 /**
  * @param string     $key
@@ -62,7 +61,7 @@ function loadMeta(string $metaFile): array
  *
  * @return string
  *
- * @throws JsonException
+ * @throws \JsonException
  */
 #[\NoDiscard]
 function encodeJson(mixed $value, int $flags = JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE, int $depth = 512): string

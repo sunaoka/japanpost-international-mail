@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-use Sunaoka\JapanPostInternationalMail\Language;
+use Sunaoka\JapanPostInternationalMail\Enum\Language;
 
 return [
     'district'         => dirname(__DIR__) . '/dist',

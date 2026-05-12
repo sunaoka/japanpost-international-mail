@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Sunaoka\JapanPostInternationalMail;
+namespace Sunaoka\JapanPostInternationalMail\Enum;
 
 enum Language: string
 {

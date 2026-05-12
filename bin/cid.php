@@ -6,15 +6,16 @@ namespace Sunaoka\JapanPostInternationalMail;
 
 require_once __DIR__ . '/bootstrap.php';
 
-use Throwable;
+use Sunaoka\JapanPostInternationalMail\Crawler\CountryIdCrawler;
+use Sunaoka\JapanPostInternationalMail\Support\Application;
+use Sunaoka\JapanPostInternationalMail\Support\JsonFile;
 
 use function Sunaoka\JapanPostInternationalMail\Support\config;
-use function Sunaoka\JapanPostInternationalMail\Support\encodeJson;
 
-try {
+Application::run(static function (): void {
     $language = config('app.country.language');
 
-    $country = new Country($language);
+    $country = new CountryIdCrawler($language);
     $countries = config("{$language->value}.countries");
 
     $result = [];
@@ -25,12 +26,5 @@ try {
     ksort($result);
 
     $district = config('app.district');
-    $file = config('app.country.file');
-
-    file_put_contents("{$district}/{$file}", encodeJson($result));
-
-} catch (Throwable $e) {
-    echo '[', get_class($e), '] ', $e->getMessage(), PHP_EOL,
-         '    in ', $e->getFile(), ':', $e->getLine(), PHP_EOL;
-    exit(1);
-}
+    JsonFile::write("{$district}/" . config('app.country.file'), $result);
+});
