@@ -11,24 +11,24 @@ use function Sunaoka\JapanPostInternationalMail\Support\config;
 
 class Country
 {
+    use Traits\CountryCode;
+    use Traits\Normalizer;
+
     protected array $countryId = [];
 
-    public function __construct(Language $language)
+    public function __construct(private readonly Language $language)
     {
         $client = new HttpBrowser();
-
         $crawler = $client->request('GET', config("{$language->value}.uri"));
 
-        $countries = config("{$language->value}.countries");
+        $crawler?->filter('.alphabet_search .toggleHead')->each(function (BaseCrawler $element) use ($language, &$destinations) {
+            $countryCode = $this->getCountryCode($this->language, $this->normalize($element->text()));
 
-        $crawler?->filter('#country option')->each(function (BaseCrawler $element) use ($countries) {
-            $cid = $element->attr('data-cid');
-            if ($cid === null || $cid === '0') {
-                return;
+            $href = $element->nextAll()->filter('.toggleBody')?->first()?->filter('.ic-popup')?->attr('href');
+
+            if (preg_match('/cid=(\d+)\Z/', $href, $matches)) {
+                $this->countryId[$countryCode] = (int)$matches[1];
             }
-
-            $countryCode = $countries[$element->text()];
-            $this->countryId[$countryCode] = (int)$cid;
         });
     }
 

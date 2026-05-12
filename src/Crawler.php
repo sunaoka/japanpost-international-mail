@@ -11,6 +11,8 @@ use function Sunaoka\JapanPostInternationalMail\Support\config;
 
 class Crawler
 {
+    use Traits\Normalizer;
+
     private const int LETTER_POST_OFFSET = 1;
 
     private const int PARCELS_OFFSET = 4;
@@ -103,16 +105,5 @@ class Crawler
         }
 
         return $this->normalize($divs->last()->text());
-    }
-
-    private function normalize(string $string): string
-    {
-        $str = \Normalizer::normalize($string);
-        if ($str === false) {
-            throw new \RuntimeException('Failed to normalize string.');
-        }
-
-        return str_replace("\u{00A0}", '', $str)  // no-break space (&nbsp;)
-            |> trim(...);
     }
 }

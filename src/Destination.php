@@ -10,6 +10,8 @@ use function Sunaoka\JapanPostInternationalMail\Support\config;
 
 class Destination implements \JsonSerializable
 {
+    use Traits\CountryCode;
+
     public string $countryCode;
 
     public string $destination;
@@ -45,16 +47,6 @@ class Destination implements \JsonSerializable
     public static function make(Language $language, array $attributes): self
     {
         return new self($language, $attributes);
-    }
-
-    private function getCountryCode(Language $language, string $destination): string
-    {
-        $countries = config("{$language->value}.countries");
-        if (!isset($countries[$destination])) {
-            throw new \OutOfRangeException("No such country '{$destination}' in {$language->value}");
-        }
-
-        return $countries[$destination];
     }
 
     public function jsonSerialize(): array
