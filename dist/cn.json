@@ -3,16 +3,16 @@
         "countryCode": "AD",
         "destination": "安道尔",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
             "surface": "acceptable"
         },
-        "ems": "not_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -383,12 +383,12 @@
         "letterPost": {
             "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
             "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "not_acceptable"
+            "surface": "acceptable"
         },
         "ems": "acceptable",
         "restrictions": {
@@ -990,16 +990,16 @@
         "countryCode": "CU",
         "destination": "古巴",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -1746,12 +1746,12 @@
         "countryCode": "GQ",
         "destination": "赤道几内亚",
         "letterPost": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "not_acceptable",
+            "air": "acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
@@ -2103,16 +2103,16 @@
         "countryCode": "IR",
         "destination": "伊朗",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
