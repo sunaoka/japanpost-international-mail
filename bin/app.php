@@ -24,7 +24,8 @@ Application::run(static function (): void {
         'md5'  => array_fill_keys(Language::values(), ''),
     ];
 
-    $japaneseCountries = config('japanese.countries');
+    $countryCodes = config('country-codes');
+    $japaneseDestinations = config('japanese.destinations');
     $englishDestinations = config('english.destinations');
     $chineseDestinations = config('chinese.destinations');
     $destinations = [];
@@ -32,14 +33,15 @@ Application::run(static function (): void {
 
     foreach (new AcceptanceCountriesClient()->fetch() as $country) {
         $japaneseName = $country['国名'];
-        $countryCode = $japaneseCountries[$japaneseName] ?? throw new \OutOfRangeException("No ISO country code for '{$japaneseName}'.");
+        $countryCode = $countryCodes[$japaneseName] ?? throw new \OutOfRangeException("No ISO country code for '{$japaneseName}'.");
+        $japaneseDestination = $japaneseDestinations[$countryCode] ?? throw new \OutOfRangeException("No Japanese destination for '{$countryCode}'.");
         $englishDestination = $englishDestinations[$countryCode] ?? throw new \OutOfRangeException("No English destination for '{$countryCode}'.");
         $chineseName = $chineseDestinations[$countryCode] ?? throw new \OutOfRangeException("No Chinese destination for '{$countryCode}'.");
 
         $destinations[$countryCode] = [
             Language::JAPANESE->value => DestinationAvailability::make(
                 $countryCode,
-                $country['国名'],
+                $japaneseDestination,
                 $country['通常郵便物の航空扱い'],
                 $country['通常郵便物のSAL扱い'],
                 $country['通常郵便物の船便扱い'],
