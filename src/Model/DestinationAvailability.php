@@ -4,8 +4,6 @@ declare(strict_types=1);
 
 namespace Sunaoka\JapanPostInternationalMail\Model;
 
-use Sunaoka\JapanPostInternationalMail\Enum\Language;
-use Sunaoka\JapanPostInternationalMail\Resolver\CountryCodeResolver;
 use Sunaoka\JapanPostInternationalMail\Resolver\DeliveryStatusResolver;
 
 final class DestinationAvailability implements \JsonSerializable
@@ -20,7 +18,7 @@ final class DestinationAvailability implements \JsonSerializable
 
     #[\NoDiscard]
     public static function make(
-        Language $language,
+        string $countryCode,
         string $destination,
         string $letterAir,
         string $letterSal,
@@ -30,14 +28,13 @@ final class DestinationAvailability implements \JsonSerializable
         string $parcelSurface,
         string $ems,
     ): self {
-        $resolver = new CountryCodeResolver();
-        $mapper = new DeliveryStatusResolver($language);
+        $mapper = new DeliveryStatusResolver();
 
         return new self(
-            $resolver->resolveCode($language, $destination),
+            $countryCode,
             $destination,
-            MailAvailability::make($language, $letterAir, $letterSal, $letterSurface),
-            MailAvailability::make($language, $parcelAir, $parcelSal, $parcelSurface),
+            MailAvailability::make($letterAir, $letterSal, $letterSurface),
+            MailAvailability::make($parcelAir, $parcelSal, $parcelSurface),
             $mapper->map($ems),
         );
     }

@@ -33,13 +33,6 @@ jobs:
           max_attempts: 3
           command: php bin/app.php
 
-      - name: Country ID
-        uses: nick-fields/retry@v4
-        with:
-          timeout_seconds: 30
-          max_attempts: 3
-          command: php bin/cid.php
-
       - name: Zone
         uses: nick-fields/retry@v4
         with:

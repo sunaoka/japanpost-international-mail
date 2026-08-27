@@ -64,7 +64,7 @@ final class ZoneCountryCodeResolver
 
     public function __construct()
     {
-        $this->countries = config('english.countries');
+        $this->countries = config('zone-countries');
     }
 
     #[\NoDiscard]
