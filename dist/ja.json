@@ -232,7 +232,7 @@
     },
     {
         "countryCode": "AU",
-        "destination": "オーストラリア",
+        "destination": "オーストラリア（ロード・ハウ島及び南極における同国の地域を含む。）",
         "letterPost": {
             "air": "acceptable",
             "sal": "not_acceptable",
@@ -1471,7 +1471,7 @@
     },
     {
         "countryCode": "FR",
-        "destination": "フランス",
+        "destination": "フランス（コルシカ及びマイヨットを含む。）",
         "letterPost": {
             "air": "acceptable",
             "sal": "not_acceptable",
@@ -3571,7 +3571,7 @@
     },
     {
         "countryCode": "PM",
-        "destination": "サンピエールおよびミクロン",
+        "destination": "サンピエール及びミクロン",
         "letterPost": {
             "air": "not_acceptable",
             "sal": "not_acceptable",
@@ -4285,7 +4285,7 @@
     },
     {
         "countryCode": "TC",
-        "destination": "タークスおよびカイコス諸島",
+        "destination": "タークス及びカイコス諸島",
         "letterPost": {
             "air": "acceptable",
             "sal": "no_service",
@@ -4873,7 +4873,7 @@
     },
     {
         "countryCode": "WF",
-        "destination": "ワリスおよびフツナ",
+        "destination": "ワリス及びフツナ",
         "letterPost": {
             "air": "acceptable",
             "sal": "no_service",
