@@ -150,12 +150,12 @@
         "countryCode": "AO",
         "destination": "アンゴラ",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
@@ -1137,16 +1137,16 @@
         "countryCode": "DJ",
         "destination": "ジブチ",
         "letterPost": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -2864,11 +2864,11 @@
             "surface": "not_acceptable"
         },
         "parcels": {
-            "air": "acceptable",
+            "air": "not_acceptable",
             "sal": "no_service",
             "surface": "not_acceptable"
         },
-        "ems": "acceptable",
+        "ems": "not_acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
