@@ -192,14 +192,14 @@
         "countryCode": "AS",
         "destination": "美属萨摩亚",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "some_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "some_acceptable"
+            "surface": "acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -1431,14 +1431,14 @@
         "countryCode": "FM",
         "destination": "密克罗尼西亚联邦",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "some_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "some_acceptable"
+            "surface": "acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -1809,16 +1809,16 @@
         "countryCode": "GU",
         "destination": "关岛",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "some_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "some_acceptable"
+            "surface": "acceptable"
         },
-        "ems": "some_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -2796,14 +2796,14 @@
         "countryCode": "MH",
         "destination": "马绍尔群岛",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "some_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "some_acceptable"
+            "surface": "acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -2922,14 +2922,14 @@
         "countryCode": "MP",
         "destination": "北马里亚纳群岛",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "some_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "some_acceptable"
+            "surface": "acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -3615,16 +3615,16 @@
         "countryCode": "PR",
         "destination": "波多黎各",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "some_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "some_acceptable"
+            "surface": "acceptable"
         },
-        "ems": "some_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -3657,14 +3657,14 @@
         "countryCode": "PW",
         "destination": "帕劳群岛",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "some_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "some_acceptable"
+            "surface": "acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -4098,16 +4098,16 @@
         "countryCode": "SP",
         "destination": "塞班岛",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "some_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "some_acceptable"
+            "surface": "acceptable"
         },
-        "ems": "some_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -4644,14 +4644,14 @@
         "countryCode": "UM",
         "destination": "中途岛",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "some_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "some_acceptable"
+            "surface": "acceptable"
         },
         "ems": "no_service",
         "restrictions": {
@@ -4665,16 +4665,16 @@
         "countryCode": "US",
         "destination": "美国",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "some_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "some_acceptable"
+            "surface": "acceptable"
         },
-        "ems": "some_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -4812,16 +4812,16 @@
         "countryCode": "VI",
         "destination": "美属维京群岛",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "some_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "some_acceptable"
+            "surface": "acceptable"
         },
-        "ems": "some_acceptable",
+        "ems": "acceptable",
         "restrictions": {
             "normal": [],
             "temporary": [],
@@ -4896,14 +4896,14 @@
         "countryCode": "WK",
         "destination": "威克岛",
         "letterPost": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "some_acceptable"
+            "surface": "acceptable"
         },
         "parcels": {
-            "air": "some_acceptable",
+            "air": "acceptable",
             "sal": "not_acceptable",
-            "surface": "some_acceptable"
+            "surface": "acceptable"
         },
         "ems": "no_service",
         "restrictions": {
